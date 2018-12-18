@@ -12,6 +12,7 @@ saved on git
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : Manage and switch between multiple proxies quickly & easily.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) : Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle) : A user styles manager for Firefox and Chrome
+- [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍Web前端助手--FeHelper（Chrome Extension, Front-end Toolbox, All in one!）
 ### December 17, 2018 
 - [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : Chrome extension - Link a repository with the extension and automatically save the links to content you like
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : Browser extension that simplifies the GitHub interface and adds useful features
