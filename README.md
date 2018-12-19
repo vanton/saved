@@ -3,6 +3,9 @@ saved on git
 
 
 
+
+### December 19, 2018 
+- [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
 ### December 18, 2018 
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : Chrome extension to display size of each file, download link and copy file contents directly to clipboard
 - [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
