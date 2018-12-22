@@ -13,6 +13,7 @@ saved on git
 - [vesche/histstat](https://github.com/vesche/histstat) : history for netstat
 - [hishamhm/htop](https://github.com/hishamhm/htop) : htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [tstack/lnav](https://github.com/tstack/lnav) : Log file navigator
+- [traviscross/mtr](https://github.com/traviscross/mtr) : Official repository for mtr, a network diagnostic tool
 ### December 22, 2018 
 - [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) Cabbagec/termux-ohmyzsh
 - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
