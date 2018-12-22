@@ -13,6 +13,7 @@ saved on git
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [supercrabtree/k](https://github.com/supercrabtree/k) : k is the new l, yo
+- [rupa/z](https://github.com/rupa/z) : z - jump around
 ### December 19, 2018 
 - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
 ### December 18, 2018 
