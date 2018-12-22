@@ -15,6 +15,7 @@ saved on git
 - [supercrabtree/k](https://github.com/supercrabtree/k) : k is the new l, yo
 - [rupa/z](https://github.com/rupa/z) : z - jump around
 - [barryclark/bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) : Fish shell like syntax highlighting for Zsh.
 ### December 19, 2018 
 - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
 ### December 18, 2018 
