@@ -9,6 +9,7 @@ saved on git
 ### December 23, 2018 
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : A command line tool to highlight terms
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) : GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 ### December 22, 2018 
 - [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) Cabbagec/termux-ohmyzsh
 - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
