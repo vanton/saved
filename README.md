@@ -14,6 +14,7 @@ saved on git
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [supercrabtree/k](https://github.com/supercrabtree/k) : k is the new l, yo
 - [rupa/z](https://github.com/rupa/z) : z - jump around
+- [barryclark/bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
 ### December 19, 2018 
 - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
 ### December 18, 2018 
