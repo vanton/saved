@@ -10,6 +10,7 @@ saved on git
 - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) : Magnificent app which corrects your previous console command.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things.
+- [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things.
 ### December 19, 2018 
 - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
 ### December 18, 2018 
