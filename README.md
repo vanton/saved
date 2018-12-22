@@ -4,6 +4,9 @@ saved on git
 
 
 
+
+### December 22, 2018 
+- [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) Cabbagec/termux-ohmyzsh
 ### December 19, 2018 
 - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
 ### December 18, 2018 
