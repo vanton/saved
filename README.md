@@ -3,14 +3,9 @@ saved on git
 
 
 
-
-
-
-
 ### December 24, 2018 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : Node.js command line client for TLDR-pages
-- [Ncdu Screenshots](https://dev.yorhel.nl/ncdu/scr) Ncdu Screenshots
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) NCurses Disk Usage
 ### December 23, 2018 
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : A command line tool to highlight terms
