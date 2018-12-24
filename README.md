@@ -12,6 +12,7 @@ saved on git
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
 - [wakatime/wakatime](https://github.com/wakatime/wakatime) : Command line interface used by all WakaTime text editor plugins.
+- [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
 ### December 23, 2018 
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : A command line tool to highlight terms
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative.
