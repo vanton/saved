@@ -7,6 +7,7 @@ saved on git
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : Node.js command line client for TLDR-pages
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) NCurses Disk Usage
+- [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 ### December 23, 2018 
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : A command line tool to highlight terms
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative.
