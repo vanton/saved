@@ -6,6 +6,9 @@ saved on git
 
 
 
+
+### December 24, 2018 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
 ### December 23, 2018 
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : A command line tool to highlight terms
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative.
