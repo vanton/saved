@@ -8,6 +8,7 @@ saved on git
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : Node.js command line client for TLDR-pages
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) NCurses Disk Usage
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
 ### December 23, 2018 
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : A command line tool to highlight terms
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative.
