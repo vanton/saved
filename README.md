@@ -3,6 +3,9 @@ saved on git
 
 
 
+
+### December 25, 2018 
+- [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) Make headless Chrome and Puppeteer use proxy server with authentication
 ### December 24, 2018 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : Node.js command line client for TLDR-pages
