@@ -10,7 +10,6 @@ saved on git
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
-- [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
 - [wakatime/wakatime](https://github.com/wakatime/wakatime) : Command line interface used by all WakaTime text editor plugins.
 - [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
 ### December 23, 2018 
