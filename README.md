@@ -4,6 +4,9 @@ saved on git
 
 
 
+
+### December 26, 2018 
+- [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
 ### December 25, 2018 
 - [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) Make headless Chrome and Puppeteer use proxy server with authentication
 - [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) proxy-chain - npm
