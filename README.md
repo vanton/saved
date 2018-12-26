@@ -7,9 +7,11 @@ saved on git
 
 ### December 26, 2018 
 - [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
+
 ### December 25, 2018 
 - [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) Make headless Chrome and Puppeteer use proxy server with authentication
 - [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) proxy-chain - npm
+
 ### December 24, 2018 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : Node.js command line client for TLDR-pages
@@ -19,6 +21,7 @@ saved on git
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [wakatime/wakatime](https://github.com/wakatime/wakatime) : Command line interface used by all WakaTime text editor plugins.
 - [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
+
 ### December 23, 2018 
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : A command line tool to highlight terms
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative.
@@ -28,6 +31,7 @@ saved on git
 - [tstack/lnav](https://github.com/tstack/lnav) : Log file navigator
 - [traviscross/mtr](https://github.com/traviscross/mtr) : Official repository for mtr, a network diagnostic tool
 - [jlevy/procdog](https://github.com/jlevy/procdog) : Lightweight command-line process control
+
 ### December 22, 2018 
 - [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) Cabbagec/termux-ohmyzsh
 - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -39,8 +43,10 @@ saved on git
 - [rupa/z](https://github.com/rupa/z) : z - jump around
 - [barryclark/bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) : Fish shell like syntax highlighting for Zsh.
+
 ### December 19, 2018 
 - [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
+
 ### December 18, 2018 
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : Chrome extension to display size of each file, download link and copy file contents directly to clipboard
 - [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
@@ -53,6 +59,7 @@ saved on git
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍Web前端助手--FeHelper（Chrome Extension, Front-end Toolbox, All in one!）
 
 - [fatedier/frp](https://github.com/fatedier/frp) : A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
 ### December 17, 2018 
 - [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : Chrome extension - Link a repository with the extension and automatically save the links to content you like
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : Browser extension that simplifies the GitHub interface and adds useful features
