@@ -21,6 +21,7 @@ https://vanton.github.io/saved/
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) : Fast, asynchronous and elegant Python web framework.
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) : A browser automation framework and ecosystem.
 ### December 26, 2018 
 - [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
 
