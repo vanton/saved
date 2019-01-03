@@ -20,6 +20,7 @@ https://vanton.github.io/saved/
 - [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) : 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread. Many thanks to him!
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) : Fast, asynchronous and elegant Python web framework.
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
 ### December 26, 2018 
 - [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
 
