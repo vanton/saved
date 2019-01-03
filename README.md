@@ -17,6 +17,7 @@ https://vanton.github.io/saved/
 - [Linux下PHP7使用xhprof分析性能 - FocusOnTech - CSDN博客](https://blog.csdn.net/lvchengbo/article/details/52849179) Linux下PHP7使用xhprof分析性能 - FocusOnTech - CSDN博客
 - [pypa/pipenv](https://github.com/pypa/pipenv) : Python Development Workflow for Humans.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
+- [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) : 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 ### December 26, 2018 
 - [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
 
