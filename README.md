@@ -11,6 +11,7 @@ https://vanton.github.io/saved/
 ### January 3, 2019 
 - [coooold/CurlFuture](https://github.com/coooold/CurlFuture) : PHP的curl并行请求库
 
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 ### December 26, 2018 
 - [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
 
