@@ -22,6 +22,7 @@ https://vanton.github.io/saved/
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) : Fast, asynchronous and elegant Python web framework.
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) : A browser automation framework and ecosystem.
+- [深入理解 call，apply 和 bind - 一像素 - 博客园](http://www.cnblogs.com/onepixel/p/5143863.html) 深入理解 call，apply 和 bind - 一像素 - 博客园
 ### December 26, 2018 
 - [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
 
