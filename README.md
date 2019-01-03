@@ -7,6 +7,10 @@ https://vanton.github.io/saved/
 
 
 
+
+### January 3, 2019 
+- [coooold/CurlFuture](https://github.com/coooold/CurlFuture) : PHP的curl并行请求库
+
 ### December 26, 2018 
 - [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
 
