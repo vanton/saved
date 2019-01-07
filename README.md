@@ -8,6 +8,10 @@ https://vanton.github.io/saved/
 
 
 
+
+### January 7, 2019 
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
 ### January 3, 2019 
 - [coooold/CurlFuture](https://github.com/coooold/CurlFuture) : PHP的curl并行请求库
 
