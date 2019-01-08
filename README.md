@@ -14,6 +14,7 @@ https://vanton.github.io/saved/
 - [whatwg/html](https://github.com/whatwg/html) : HTML Standard
 
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) HTML Standard
+- [使用 Web Workers | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers) 使用 Web Workers | MDN
 ### January 7, 2019 
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
