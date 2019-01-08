@@ -9,6 +9,10 @@ https://vanton.github.io/saved/
 
 
 
+
+### January 8, 2019 
+- [whatwg/html](https://github.com/whatwg/html) : HTML Standard
+
 ### January 7, 2019 
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
