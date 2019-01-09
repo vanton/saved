@@ -10,6 +10,7 @@ https://vanton.github.io/saved/
 - [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 - [csbun/thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [zhentaoo/puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
+- [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
 
 ### January 8, 2019 
 - [whatwg/html](https://github.com/whatwg/html) : HTML Standard
