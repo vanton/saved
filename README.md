@@ -9,6 +9,7 @@ https://vanton.github.io/saved/
 
 ### January 10, 2019 
 - [开始 | Rize 文档](https://rize.js.org/zh-CN/getting-started.html) 开始 | Rize 文档
+- [g-plane/rize](https://github.com/g-plane/rize) : High-level, fluent and chainable API provided library for puppeteer.
 
 ### January 9, 2019 
 - [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
