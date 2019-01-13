@@ -7,6 +7,10 @@ https://vanton.github.io/saved/
 
 
 
+
+### January 13, 2019 
+- [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
+
 ### January 10, 2019 
 - [开始 | Rize 文档](https://rize.js.org/zh-CN/getting-started.html) 开始 | Rize 文档
 - [g-plane/rize](https://github.com/g-plane/rize) : High-level, fluent and chainable API provided library for puppeteer.
