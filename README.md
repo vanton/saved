@@ -10,6 +10,7 @@ https://vanton.github.io/saved/
 
 ### January 13, 2019 
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
+- [ElemeFE/page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : Webpack plugin to generate the skeleton page automatically
 
 ### January 10, 2019 
 - [开始 | Rize 文档](https://rize.js.org/zh-CN/getting-started.html) 开始 | Rize 文档
