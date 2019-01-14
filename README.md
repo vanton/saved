@@ -19,6 +19,7 @@ https://vanton.github.io/saved/
 - [MJML App](https://mjmlio.github.io/mjml-app/) 
           A lightweight app that makes responsive email
 - [zsh-syntax-highlighting/INSTALL.md at master · zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) zsh-syntax-highlighting/INSTALL.md at master · zsh-users/zsh-syntax-highlighting
+- [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 
 ### January 13, 2019 
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
