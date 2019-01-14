@@ -12,7 +12,8 @@ https://vanton.github.io/saved/
 ### January 14, 2019 
 - [PPRows/README_CN.md at master · jkpang/PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) 在 Mac 上计算你写了多少行代码
 - [Free OS X and iOS Apps - ZipZapMac](https://zipzapmac.com/free) Free OS X and iOS Apps - ZipZapMac
-- [MJML App](https://mjmlio.github.io/mjml-app/) MJML App - The desktop app for MJML
+- [MJML App](https://mjmlio.github.io/mjml-app/) 
+          A lightweight app that makes responsive email 
 
 ### January 13, 2019 
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
