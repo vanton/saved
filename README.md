@@ -11,16 +11,13 @@ https://vanton.github.io/saved/
 
 ### January 14, 2019 
 - [PPRows/README_CN.md at master · jkpang/PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) 在 Mac 上计算你写了多少行代码
-
-![](https://github.com/jkpang/PPRows/blob/master/source/Gif1.gif)
-![](https://github.com/jkpang/PPRows/blob/master/source/Gif2.gif)
-
 - [Free OS X and iOS Apps - ZipZapMac](https://zipzapmac.com/free) Free OS X and iOS Apps - ZipZapMac
-- [MJML App](https://mjmlio.github.io/mjml-app/) 
-          A lightweight app that makes responsive email
+- [MJML App](https://mjmlio.github.io/mjml-app/) A lightweight app that makes responsive email
 - [zsh-syntax-highlighting/INSTALL.md at master · zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) zsh-syntax-highlighting/INSTALL.md at master · zsh-users/zsh-syntax-highlighting
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+> pip install requests urllib3  --force --upgrade && pip install httpie
 
 ### January 13, 2019 
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
