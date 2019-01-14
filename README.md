@@ -11,6 +11,10 @@ https://vanton.github.io/saved/
 
 ### January 14, 2019 
 - [PPRows/README_CN.md at master · jkpang/PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) 在 Mac 上计算你写了多少行代码
+
+![](https://github.com/jkpang/PPRows/blob/master/source/Gif1.gif)
+![](https://github.com/jkpang/PPRows/blob/master/source/Gif2.gif)
+
 - [Free OS X and iOS Apps - ZipZapMac](https://zipzapmac.com/free) Free OS X and iOS Apps - ZipZapMac
 - [MJML App](https://mjmlio.github.io/mjml-app/) 
           A lightweight app that makes responsive email 
