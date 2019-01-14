@@ -12,6 +12,7 @@ https://vanton.github.io/saved/
 ### January 14, 2019 
 - [PPRows/README_CN.md at master · jkpang/PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) PPRows/README_CN.md at master · jkpang/PPRows
 - [Free OS X and iOS Apps - ZipZapMac](https://zipzapmac.com/free) Free OS X and iOS Apps - ZipZapMac
+- [MJML App - The desktop app for MJML](https://mjmlio.github.io/mjml-app/) MJML App - The desktop app for MJML
 
 ### January 13, 2019 
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
