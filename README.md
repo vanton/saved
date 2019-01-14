@@ -17,7 +17,8 @@ https://vanton.github.io/saved/
 
 - [Free OS X and iOS Apps - ZipZapMac](https://zipzapmac.com/free) Free OS X and iOS Apps - ZipZapMac
 - [MJML App](https://mjmlio.github.io/mjml-app/) 
-          A lightweight app that makes responsive email 
+          A lightweight app that makes responsive email
+- [zsh-syntax-highlighting/INSTALL.md at master · zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) zsh-syntax-highlighting/INSTALL.md at master · zsh-users/zsh-syntax-highlighting
 
 ### January 13, 2019 
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
