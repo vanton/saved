@@ -58,25 +58,25 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) : 友好的 pip 管理工具，类似 (bundler, composer, npm, cargo, yarn, etc.)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) : 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
-- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread. Many thanks to him!
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread.
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) : 快速的 Python web framework
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
-- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) : A browser automation framework and ecosystem.
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) : *停止更新*
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) 深入理解 call，apply 和 bind - 一像素 - 博客园
 
 ### December 26, 2018
 
-- [kdabir/has](https://github.com/kdabir/has) : checks presence of various command line tools and their versions on the path
+- [kdabir/has](https://github.com/kdabir/has) : 检查命令是否存在
 
 ### December 25, 2018
 
-- [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) Make headless Chrome and Puppeteer use proxy server with authentication
+- [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212)
 - [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理
 
 ### December 24, 2018
 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
-- [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : Node.js command line client for TLDR-pages
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : 友好的帮助命令
+- [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : tldr 的 node.js 实现
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) NCurses Disk Usage
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
