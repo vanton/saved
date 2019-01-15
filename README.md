@@ -4,14 +4,15 @@
 
 <https://vanton.github.io/saved>
 
-## list
+## ---
 
 ### January 14, 2019
 
-- [PPRows/README_CN.md at master · jkpang/PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) 在 Mac 上计算你写了多少行代码
-- [ZipZapMac](https://zipzapmac.com/free) Free OS X and iOS Apps
-- [MJML App](https://mjmlio.github.io/mjml-app/) A lightweight app that makes responsive email
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) zsh-syntax-highlighting/INSTALL.md at master
+- [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
+- [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
+  - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell
+- [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
 - [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A `top`/`htop` alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie `/aitch-tee-tee-pie/` 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. <https://twitter.com/clihttp>
     > 安装报错的话需要强制更新 `requests` `urllib3`
@@ -26,7 +27,7 @@
 
 ### January 10, 2019
 
-- [开始 | Rize 文档](https://rize.js.org/zh-CN/getting-started.html) 开始 | Rize 文档
+- [Rize 文档](https://rize.js.org/zh-CN/getting-started.html) Rize 文档
 - [g-plane/rize](https://github.com/g-plane/rize) : High-level, fluent and chainable API provided library for puppeteer.
 
 ### January 9, 2019
@@ -35,7 +36,7 @@
 - [csbun/thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [zhentaoo/puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
-- [awesome-puppeteer/readme.zh.md at master · transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer/blob/master/readme.zh.md) awesome-puppeteer/readme.zh.md at master · transitive-bullshit/awesome-puppeteer
+- [awesome-puppeteer/readme.zh.md](https://github.com/transitive-bullshit/awesome-puppeteer/blob/master/readme.zh.md) : transitive-bullshit/awesome-puppeteer
 
 ### January 8, 2019
 
@@ -61,7 +62,7 @@
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) : Fast, asynchronous and elegant Python web framework.
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) : A browser automation framework and ecosystem.
-- [深入理解 call，apply 和 bind - 一像素 - 博客园](http://www.cnblogs.com/onepixel/p/5143863.html) 深入理解 call，apply 和 bind - 一像素 - 博客园
+- [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) 深入理解 call，apply 和 bind - 一像素 - 博客园
 
 ### December 26, 2018
 
