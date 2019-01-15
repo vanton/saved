@@ -13,36 +13,36 @@
   - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
-- [nicolargo/glances](https://github.com/nicolargo/glances) : Glances an Eye on your system. A `top`/`htop` alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie `/aitch-tee-tee-pie/` 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. <https://twitter.com/clihttp>
+- [nicolargo/glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : curl 替代，命令行高亮
     > 安装报错的话需要强制更新 `requests` `urllib3`
     ```bash
-    pip install requests urllib3  --force --upgrade && pip install httpie
+    pip install requests urllib3  --force --upgrade \
+    && pip install httpie
     ```
 
 ### January 13, 2019
 
-- [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : Headless chrome/chromium automation library (unofficial port of puppeteer)
-- [ElemeFE/page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : Webpack plugin to generate the skeleton page automatically
+- [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) : puppeteer 的 python 实现
+- [ElemeFE/page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
 
 ### January 10, 2019
 
-- [Rize 文档](https://rize.js.org/zh-CN/getting-started.html) Rize 文档
-- [g-plane/rize](https://github.com/g-plane/rize) : High-level, fluent and chainable API provided library for puppeteer.
+- [Rize 文档](https://rize.js.org/zh-CN/getting-started.html)
+- [g-plane/rize](https://github.com/g-plane/rize) : puppeteer 包装
 
 ### January 9, 2019
 
-- [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 puppeteer 脚本
 - [csbun/thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [zhentaoo/puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
 - [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
-- [awesome-puppeteer/readme.zh.md](https://github.com/transitive-bullshit/awesome-puppeteer/blob/master/readme.zh.md) : transitive-bullshit/awesome-puppeteer
 
 ### January 8, 2019
 
 - [whatwg/html](https://github.com/whatwg/html) : HTML Standard
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) HTML Standard
-- [使用 Web Workers | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers) 使用 Web Workers | MDN
+- [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers) 使用 Web Workers | MDN
 
 ### January 7, 2019
 
@@ -51,15 +51,15 @@
 ### January 3, 2019
 
 - [coooold/CurlFuture](https://github.com/coooold/CurlFuture) : PHP的curl并行请求库
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
-- [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) : High performance Coroutine PHP Framework, base on Swoole
-- [preinheimer/xhprof](https://github.com/preinheimer/xhprof) : XHGUI is a GUI for the XHProf PHP extension, using a database backend, and pretty graphs to make it easy to use and interpret.
-- [Linux下PHP7使用xhprof分析性能 - FocusOnTech - CSDN博客](https://blog.csdn.net/lvchengbo/article/details/52849179) Linux下PHP7使用xhprof分析性能 - FocusOnTech - CSDN博客
-- [pypa/pipenv](https://github.com/pypa/pipenv) : Python Development Workflow for Humans.
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
+- [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) : 基于 Swoole 的框架
+- [preinheimer/xhprof](https://github.com/preinheimer/xhprof) : php 性能工具
+- [Linux下PHP7使用xhprof分析性能](https://blog.csdn.net/lvchengbo/article/details/52849179) Linux下PHP7使用xhprof分析性能 - FocusOnTech - CSDN博客
+- [pypa/pipenv](https://github.com/pypa/pipenv) : 友好的 pip 管理工具，类似 (bundler, composer, npm, cargo, yarn, etc.)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) : 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread. Many thanks to him!
-- [vibora-io/vibora](https://github.com/vibora-io/vibora) : Fast, asynchronous and elegant Python web framework.
+- [vibora-io/vibora](https://github.com/vibora-io/vibora) : 快速的 Python web framework
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) : A browser automation framework and ecosystem.
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) 深入理解 call，apply 和 bind - 一像素 - 博客园
