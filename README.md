@@ -10,7 +10,7 @@
 
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
-  - [X] [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell {terminal}
+  - [X] [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell ![shell][terminal Icon]
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [X] [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
 - [X] [nicolargo/glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
@@ -113,8 +113,8 @@
 
 ### December 18, 2018
 
-- [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : *Chrome extension* to display size of each file, download link and copy file contents directly to clipboard
-- [X] [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A *browser extension* which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
+- [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : **Chrome extension** to display size of each file, download link and copy file contents directly to clipboard
+- [X] [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A **browser extension** which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) : The missing IntelliSense hint for GitHub and GitLab
 - [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : Are they tabs? Are they spaces? How many? Never wonder again!
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) : OctoLinker – Available on Chrome, Firefox and Opera
@@ -126,8 +126,8 @@
 
 ### December 17, 2018
 
-- [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : *Chrome extension* - Link a repository with the extension and automatically save the links to content you like
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : *Browser extension* that simplifies the GitHub interface and adds useful features
+- [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : **Chrome extension** - Link a repository with the extension and automatically save the links to content you like
+- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : **Browser extension** that simplifies the GitHub interface and adds useful features
 - **[sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists**
 
 ---
@@ -136,3 +136,5 @@
 <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
 <link href="https://cdn.bootcss.com/font-awesome-animation/0.2.1/font-awesome-animation.min.css" rel="stylesheet">
+
+[terminal Icon]: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/terminal.svg
