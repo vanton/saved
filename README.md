@@ -3,7 +3,6 @@
 > saved on git
 
 <https://vanton.github.io/saved>
-<link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 ## ---
 
@@ -11,7 +10,7 @@
 
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
-  - [X] [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell <i class="fas fa-terminal"></i>
+  - [X] [<i class="fas fa-terminal fa-lg  faa-vertical"></i> Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [X] [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
 - [X] [nicolargo/glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
@@ -130,3 +129,10 @@
 - [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : *Chrome extension* - Link a repository with the extension and automatically save the links to content you like
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : *Browser extension* that simplifies the GitHub interface and adds useful features
 - **[sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists**
+
+---
+<!-- 引入 fontawesome -->
+<!-- <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script> -->
+<!-- <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js"></script> -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+<link href="https://cdn.bootcss.com/font-awesome-animation/0.2.1/font-awesome-animation.min.css" rel="stylesheet">
