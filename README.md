@@ -10,7 +10,7 @@
 
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
-  - [X] [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell
+  - [X] [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell 
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [X] [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
 - [X] [nicolargo/glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
