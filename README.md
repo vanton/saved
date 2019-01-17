@@ -4,13 +4,16 @@
 
 <https://vanton.github.io/saved>
 
-## ---
+## --
 
 ### January 17, 2019
 
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
+- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
+- [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
----
+### ---
 
 ## # Javascript / HTML
 
@@ -181,7 +184,3 @@
 [shell]: https://img.shields.io/badge/language-shell-blue.svg
 
 [zsh]: https://img.shields.io/badge/shell-zsh-green.svg
-- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
-- [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-
