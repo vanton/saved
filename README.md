@@ -13,7 +13,7 @@
 - [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
-### ---
+### 以上未整理
 
 ## # Javascript / HTML
 
