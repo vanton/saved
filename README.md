@@ -7,7 +7,7 @@
 ## ---
 
 
-### January 17, 2019 
+### January 17, 2019
 
 - [Simple Icons](https://simpleicons.org/) Simple Icons
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
@@ -107,9 +107,9 @@
 - [X] [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
     > A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
-- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things.
-- [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things. ![awesome macos][awesome macos]
+- [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things. ![awesome command-line][awesome command-line]
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. ![awesome shell][awesome shell]
 - [supercrabtree/k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
 - [X] [rupa/z](https://github.com/rupa/z) : `z` - jump around
 - [barryclark/bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
@@ -138,11 +138,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists ![awesome][awesome]
 
 ---
-<!-- 引入 fontawesome -->
-<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
-<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js"></script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
-<link href="https://cdn.bootcss.com/font-awesome-animation/0.2.1/font-awesome-animation.min.css" rel="stylesheet">
 
 <!-- https://shields.io/#/examples/other -->
 <!-- https://simpleicons.org/ -->
@@ -163,3 +158,6 @@
 
 [awesome]: https://img.shields.io/badge/awesome-awesome-red.svg
 [awesome php]: https://img.shields.io/badge/awesome-php-red.svg
+[awesome shell]: https://img.shields.io/badge/awesome-shell-red.svg
+[awesome macos]: https://img.shields.io/badge/awesome-macOS-red.svg
+[awesome command-line]: https://img.shields.io/badge/awesome-command--line-red.svg
