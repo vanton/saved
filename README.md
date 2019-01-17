@@ -6,6 +6,8 @@
 
 ## --
 
+![style: styled-components](https://img.shields.io/badge/style-&#x1F4BB;_styled--components-orange.svg?colorB=daa357&colorA=db748e)
+
 ### January 17, 2019
 
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
@@ -145,7 +147,7 @@
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
     > ![last-commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg)
 
-## Markdown Tools
+## # Markdown Tools
 
 - [shields.io](https://shields.io) 状态图片
 - [Simple Icons](https://simpleicons.org/) Simple Icons
@@ -175,9 +177,10 @@
 
 [github]: https://img.shields.io/badge/github-blue.svg?logoColor=white&logo=github
 [headless]: https://img.shields.io/badge/headless-blue.svg?logoColor=white&logo=google-chrome
-[proxy]: https://img.shields.io/badge/proxy-blue.svg?logoColor=white&logo=google-chrome
+<!-- [proxy]: https://img.shields.io/badge/proxy-blue.svg?logoColor=white&logo=google-chrome -->
+[proxy]: https://img.shields.io/badge/type-&#x1F4BB;_proxy-orange.svg?colorB=daa357&colorA=db748e
 
-[macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg
+[macos]: https://img.shields.io/badge/macOS-lightgrey.svg?logo=apple&logoColor=white
 [chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg
 
 [php]: https://img.shields.io/badge/language-php-blue.svg
