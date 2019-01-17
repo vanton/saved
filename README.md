@@ -182,4 +182,5 @@
 
 [zsh]: https://img.shields.io/badge/shell-zsh-green.svg
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
+- [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
 
