@@ -10,7 +10,8 @@
 
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
-  - [X] [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开 shell ![shell][terminal Icon]
+  - [X] [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端
+
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [X] [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
 - [X] [nicolargo/glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
@@ -47,7 +48,7 @@
 
 ### January 7, 2019
 
-- **[ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.**
+- **[ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.** ![awesome php][awesome php]
 
 ### January 3, 2019
 
@@ -128,7 +129,7 @@
 
 - [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : **Chrome extension** - Link a repository with the extension and automatically save the links to content you like
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : **Browser extension** that simplifies the GitHub interface and adds useful features
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists**
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists** ![awesome][awesome]
 
 ---
 <!-- 引入 fontawesome -->
@@ -137,4 +138,22 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
 <link href="https://cdn.bootcss.com/font-awesome-animation/0.2.1/font-awesome-animation.min.css" rel="stylesheet">
 
-[terminal Icon]: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/terminal.svg
+<!-- https://shields.io/#/examples/other -->
+<!-- https://simpleicons.org/ -->
+<!-- name-status-color.svg -->
+<!-- brightgreen green yellowgreen yellow orange red lightgrey blue -->
+<!-- ?style=flat&logo=appveyor -->
+<!-- ?colorA=abcdef&colorB=abcdef -->
+<!-- ?logoColor=violet&logoWidth=40 -->
+<!--
+- plastic : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=plastic)
+- flat : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=flat)
+- flat-square : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=flat-square)
+- for-the-badge : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=for-the-badge)
+- popout : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=popout)
+- popout-square : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=popout-square)
+- social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
+-->
+
+[awesome]: https://img.shields.io/badge/awesome-awesome-red.svg
+[awesome php]: https://img.shields.io/badge/awesome-php-red.svg
