@@ -6,6 +6,11 @@
 
 ## ---
 
+
+### January 17, 2019 
+
+- [Simple Icons](https://simpleicons.org/) Simple Icons
+
 ### January 14, 2019
 
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
