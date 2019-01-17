@@ -54,8 +54,6 @@
 
 ### January 7, 2019
 
-- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things. ![awesome php][awesome php]
-
 ### January 3, 2019
 
 - [coooold/CurlFuture](https://github.com/coooold/CurlFuture) : PHP的`curl`并行请求库
@@ -129,8 +127,10 @@
 
 ### December 17, 2018
 
-- [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : Chrome extension - Link a repository with the extension and automatically save the links to content you like
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : Browser extension that simplifies the GitHub interface and adds useful features
+## Chrome extension ![extension][extension]
+
+- [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : Chrome extension - Link a repository with the extension and automatically save the links to content you like ![chrome][chrome]
+- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : Browser extension that simplifies the GitHub interface and adds useful features ![chrome][chrome]
 
 ## awesome list ![awesome][awesome]
 
@@ -138,7 +138,8 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things. ![macos][macos] ![shell][shell]
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things. ![shell][shell]
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. ![shell][shell]
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there. ![shell][shell] ![zsh][zsh]
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there. ![zsh][zsh]
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things. ![php][php]
 
 ---
 
@@ -159,9 +160,13 @@
 - social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
 -->
 
-[macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg?logo=apple
+[extension]: https://img.shields.io/badge/Chrome_extension-red.svg
+[awesome]: https://img.shields.io/badge/-awesome_list-red.svg
+
+[macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg
+[chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg
 
 [shell]: https://img.shields.io/badge/language-shell-blue.svg
 [php]: https://img.shields.io/badge/language-php-blue.svg
 
-[zsh]: https://img.shields.io/badge/shell-zsh-cyan.svg
+[zsh]: https://img.shields.io/badge/shell-zsh-green.svg
