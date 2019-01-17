@@ -87,7 +87,6 @@
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
 - [X] [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) `ncdu` 查看硬盘空间
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [X] [wakatime/wakatime](https://github.com/wakatime/wakatime)
 - [X] [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
 
@@ -107,9 +106,6 @@
 - [X] [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
     > A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
-- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things. ![awesome macos][awesome macos]
-- [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things. ![awesome command-line][awesome command-line]
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. ![awesome shell][awesome shell]
 - [supercrabtree/k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
 - [X] [rupa/z](https://github.com/rupa/z) : `z` - jump around
 - [barryclark/bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
@@ -135,7 +131,14 @@
 
 - [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : Chrome extension - Link a repository with the extension and automatically save the links to content you like
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : Browser extension that simplifies the GitHub interface and adds useful features
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists ![awesome][awesome]
+
+## awesome list ![awesome][awesome]
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things. ![macos][macos] ![shell][shell]
+- [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things. ![shell][shell]
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. ![shell][shell]
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there. ![shell][shell] ![zsh][zsh]
 
 ---
 
@@ -156,8 +159,9 @@
 - social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
 -->
 
-[awesome]: https://img.shields.io/badge/awesome-awesome-red.svg
-[awesome php]: https://img.shields.io/badge/awesome-php-red.svg
-[awesome shell]: https://img.shields.io/badge/awesome-shell-red.svg
-[awesome macos]: https://img.shields.io/badge/awesome-macOS-red.svg
-[awesome command-line]: https://img.shields.io/badge/awesome-command--line-red.svg
+[macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg?logo=apple
+
+[shell]: https://img.shields.io/badge/language-shell-blue.svg
+[php]: https://img.shields.io/badge/language-php-blue.svg
+
+[zsh]: https://img.shields.io/badge/shell-zsh-cyan.svg
