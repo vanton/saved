@@ -10,6 +10,7 @@
 ### January 17, 2019 
 
 - [Simple Icons](https://simpleicons.org/) Simple Icons
+- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
 
 ### January 14, 2019
 
