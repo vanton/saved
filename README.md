@@ -6,6 +6,12 @@
 
 ## ---
 
+
+### January 17, 2019 
+
+- [Simple Icons](https://simpleicons.org/) Simple Icons
+- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
+
 ### January 14, 2019
 
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
