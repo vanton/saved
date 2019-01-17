@@ -126,7 +126,7 @@
 - [X] [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集 ![github][github]
 - [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符 ![github][github]
 
-- [X] [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手--FeHelper（Chrome Extension, Front-end Toolbox, All in one!）
+- [X] [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
 - [X] [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
 - [X] [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理
@@ -146,12 +146,17 @@
 
 <!-- https://shields.io/#/examples/other -->
 <!-- https://simpleicons.org/ -->
+
+<!-- https://nodei.co/ -->
+<!-- https://nodei.co/npm/puppeteer.png?compact=true -->
+
 <!-- name-status-color.svg -->
 <!-- brightgreen green yellowgreen yellow orange red lightgrey blue -->
 <!-- brown cyan grey magenta pink white -->
 <!-- ?style=flat&logo=appveyor -->
 <!-- ?colorA=abcdef&colorB=abcdef -->
 <!-- ?logoColor=violet&logoWidth=40 -->
+
 <!--
 - plastic : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=plastic)
 - flat : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=flat)
@@ -162,7 +167,7 @@
 - social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
 -->
 
-[github]: https://img.shields.io/badge/github-!.svg?logo=github
+[github]: https://img.shields.io/badge/github-blue.svg?logo=github
 
 [macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg
 <!-- [chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg -->
