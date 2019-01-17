@@ -50,7 +50,7 @@
 
 - [whatwg/html](https://github.com/whatwg/html) : HTML Standard
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) : HTML Standard
-- [使用 Web Workers | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
+- [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 
 ### January 7, 2019
 
