@@ -116,23 +116,24 @@
 
 - [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : Chrome extension to display size of each file, download link and copy file contents directly to clipboard
 - [X] [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
-- [pd4d10/octohint](https://github.com/pd4d10/octohint) : The missing IntelliSense hint for GitHub and GitLab
-- [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : Are they tabs? Are they spaces? How many? Never wonder again!
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) : OctoLinker – Available on Chrome, Firefox and Opera
-- [X] [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : Manage and switch between multiple proxies quickly & easily.
-- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) : Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-- [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle) : A user styles manager for Firefox and Chrome
-- [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍Web前端助手--FeHelper（Chrome Extension, Front-end Toolbox, All in one!）
 - [X] [fatedier/frp](https://github.com/fatedier/frp) : A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ### December 17, 2018
 
-## Chrome extension ![extension][extension]
+## Chrome Extensions
 
-- [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : Chrome extension - Link a repository with the extension and automatically save the links to content you like ![chrome][chrome]
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : Browser extension that simplifies the GitHub interface and adds useful features ![chrome][chrome]
+- [X] [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : 快速保存项目、链接到 github ![github][github]
+- [X] [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集 ![github][github]
+- [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符 ![github][github]
 
-## awesome list ![awesome][awesome]
+- [X] [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手--FeHelper（Chrome Extension, Front-end Toolbox, All in one!）
+- [X] [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
+- [X] [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理
+- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) : 源码快速跳转链接
+- [pd4d10/octohint](https://github.com/pd4d10/octohint) : 源码点击高亮
+
+## Awesome Lists
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things. ![macos][macos] ![shell][shell]
@@ -147,6 +148,7 @@
 <!-- https://simpleicons.org/ -->
 <!-- name-status-color.svg -->
 <!-- brightgreen green yellowgreen yellow orange red lightgrey blue -->
+<!-- brown cyan grey magenta pink white -->
 <!-- ?style=flat&logo=appveyor -->
 <!-- ?colorA=abcdef&colorB=abcdef -->
 <!-- ?logoColor=violet&logoWidth=40 -->
@@ -160,11 +162,10 @@
 - social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
 -->
 
-[extension]: https://img.shields.io/badge/Chrome_extension-red.svg
-[awesome]: https://img.shields.io/badge/-awesome_list-red.svg
+[github]: https://img.shields.io/badge/github-!.svg?logo=github
 
 [macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg
-[chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg
+<!-- [chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg -->
 
 [shell]: https://img.shields.io/badge/language-shell-blue.svg
 [php]: https://img.shields.io/badge/language-php-blue.svg
