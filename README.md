@@ -38,7 +38,7 @@
 - [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 puppeteer 脚本
 - [csbun/thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [zhentaoo/puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
-- **[transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.**
+- [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
 
 ### January 8, 2019
 
@@ -48,7 +48,7 @@
 
 ### January 7, 2019
 
-- **[ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.** ![awesome php][awesome php]
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things. ![awesome php][awesome php]
 
 ### January 3, 2019
 
@@ -81,7 +81,7 @@
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
 - [X] [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) `ncdu` 查看硬盘空间
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
-- **[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.**
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [X] [wakatime/wakatime](https://github.com/wakatime/wakatime)
 - [X] [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
 
@@ -101,9 +101,9 @@
 - [X] [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
     > A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
-- **[herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things.**
-- **[herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things.**
-- **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.**
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things.
+- [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [supercrabtree/k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
 - [X] [rupa/z](https://github.com/rupa/z) : `z` - jump around
 - [barryclark/bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
@@ -114,8 +114,8 @@
 
 ### December 18, 2018
 
-- [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : **Chrome extension** to display size of each file, download link and copy file contents directly to clipboard
-- [X] [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A **browser extension** which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
+- [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : Chrome extension to display size of each file, download link and copy file contents directly to clipboard
+- [X] [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) : The missing IntelliSense hint for GitHub and GitLab
 - [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : Are they tabs? Are they spaces? How many? Never wonder again!
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) : OctoLinker – Available on Chrome, Firefox and Opera
@@ -127,9 +127,9 @@
 
 ### December 17, 2018
 
-- [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : **Chrome extension** - Link a repository with the extension and automatically save the links to content you like
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : **Browser extension** that simplifies the GitHub interface and adds useful features
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists** ![awesome][awesome]
+- [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : Chrome extension - Link a repository with the extension and automatically save the links to content you like
+- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : Browser extension that simplifies the GitHub interface and adds useful features
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists ![awesome][awesome]
 
 ---
 <!-- 引入 fontawesome -->
