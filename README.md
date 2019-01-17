@@ -11,6 +11,8 @@
 
 - [Simple Icons](https://simpleicons.org/) Simple Icons
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
+- [colorjs/color-name](https://github.com/colorjs/color-name) : A JSON with CSS color names
+- [nodei.co](https://nodei.co/) nodei.co
 
 ### January 14, 2019
 
