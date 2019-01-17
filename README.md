@@ -6,7 +6,6 @@
 
 ## ---
 
-
 ### January 17, 2019
 
 - [Simple Icons](https://simpleicons.org/) Simple Icons
@@ -116,7 +115,6 @@
 
 ### December 18, 2018
 
-- [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : Chrome extension to display size of each file, download link and copy file contents directly to clipboard
 - [X] [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
 - [X] [fatedier/frp](https://github.com/fatedier/frp) : A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
@@ -124,16 +122,18 @@
 
 ## Chrome Extensions
 
-- [X] [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : 快速保存项目、链接到 github ![github][github]
-- [X] [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集 ![github][github]
-- [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符 ![github][github]
+- github.com ![github][github]
+  - [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : 显示项目大小，文件下载链接
+  - [X] [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : 快速保存项目、链接到 github
+  - [X] [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集
+  - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) : 源码快速跳转链接
+  - [pd4d10/octohint](https://github.com/pd4d10/octohint) : 源码点击高亮
+  - [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符
 
 - [X] [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
 - [X] [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
-- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
-- [X] [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) : 源码快速跳转链接
-- [pd4d10/octohint](https://github.com/pd4d10/octohint) : 源码点击高亮
+- [X] [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
+- [X] [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ![proxy][proxy]
 
 ## Awesome Lists
 
@@ -169,7 +169,8 @@
 - social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
 -->
 
-[github]: https://img.shields.io/badge/github-blue.svg?logo=github
+[github]: https://img.shields.io/badge/github-lightgrey.svg?logo=github
+[proxy]: https://img.shields.io/badge/proxy-lightgrey.svg?logo=github
 
 [macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg
 <!-- [chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg -->
