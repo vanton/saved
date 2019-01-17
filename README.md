@@ -68,83 +68,107 @@
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread.
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) : 快速的 Python web framework
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
-- [~~SeleniumHQ/selenium~~](https://github.com/SeleniumHQ/selenium) : *停止更新*
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) 深入理解 `call`，`apply` 和 `bind` - 一像素 - 博客园
 
-### December 26, 2018
+---
 
-- [kdabir/has](https://github.com/kdabir/has) : 检查命令是否存在
+## Dev tools
 
-### December 25, 2018
+### wakatime 开发时间记录
 
-- [X] [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212)
-- [X] [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理
+- [wakatime](https://github.com/wakatime/wakatime)
+- [zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
 
-### December 24, 2018
+### tldr 友好的帮助命令
 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : 友好的帮助命令
-- [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
-- [X] [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) `ncdu` 查看硬盘空间
-- [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
-- [X] [wakatime/wakatime](https://github.com/wakatime/wakatime)
-- [X] [wbingli/zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
+- [tldr](https://github.com/tldr-pages/tldr)
+- [tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
 
-### December 23, 2018
+## Shell
 
-- [X] [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) : 实时 web 日志监控
-- [X] [vesche/histstat](https://github.com/vesche/histstat) : history for `netstat`
-- [X] [hishamhm/htop](https://github.com/hishamhm/htop) : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`.
-- [X] [tstack/lnav](https://github.com/tstack/lnav) : 日志查看工具
-- [traviscross/mtr](https://github.com/traviscross/mtr) : Official repository for `mtr`, a network diagnostic tool
-- [jlevy/procdog](https://github.com/jlevy/procdog) : 轻量守护进程
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/)
+    > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 
-### December 22, 2018
+- [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
+    > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
 
-- [X] [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) `termux-ohmyzsh`
-- [X] [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-    > A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [nvbn/thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
-- [supercrabtree/k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
-- [X] [rupa/z](https://github.com/rupa/z) : `z` - jump around
-- [barryclark/bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
+- [z](https://github.com/rupa/z) : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件
+    > ![version](https://img.shields.io/github/release/rupa/z.svg) ![release-date](https://img.shields.io/github/release-date/rupa/z.svg) ![commits-since](https://img.shields.io/github/commits-since/rupa/z/v1.9.svg)
 
-### December 19, 2018
+- [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字
+    > ![last-commit](https://img.shields.io/github/last-commit/paoloantinori/hhighlighter.svg)
 
-- [X] [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API
+- [htop](https://github.com/hishamhm/htop) : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`.
+- [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) : `ncdu` 查看硬盘空间
+- [lnav](https://github.com/tstack/lnav) : 日志查看工具
+- [bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
+- [goaccess](https://github.com/allinurl/goaccess) : 实时 web 日志监控
+- [has](https://github.com/kdabir/has) : 检查命令是否存在
+- [histstat](https://github.com/vesche/histstat) : history for `netstat`
+- [k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
+- [mtr](https://github.com/traviscross/mtr) : Official repository for `mtr`, a network diagnostic tool
+- [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
+- [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
+- [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 
-### December 18, 2018
+## Headless Chrome
 
-- [X] [xxhomey19/github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, Gitlab, Bitbucket, gitea and gogs.
-- [X] [fatedier/frp](https://github.com/fatedier/frp) : A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless]
+    > ![version](https://img.shields.io/github/release/GoogleChrome/puppeteer.svg) ![release-date](https://img.shields.io/github/release-date/GoogleChrome/puppeteer.svg) ![commits-since](https://img.shields.io/github/commits-since/GoogleChrome/puppeteer/v1.11.0.svg)
+    >> ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
 
-### December 17, 2018
+- [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) : puppeteer 不支持验证代理，需要转成匿名代理
+- [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理
+    >> ![npm](https://nodei.co/npm/proxy-chain.png?compact=true)
+
+- ~~[selenium](https://github.com/SeleniumHQ/selenium) : 停止更新~~
+    > ![version](https://img.shields.io/github/release/SeleniumHQ/selenium.svg) ![release-date](https://img.shields.io/github/release-date/SeleniumHQ/selenium.svg) ![commits-since](https://img.shields.io/github/commits-since/SeleniumHQ/selenium/selenium-3.141.59.svg)
+    >> ![npm](https://nodei.co/npm/selenium.png?compact=true)
+
+- ~~[casperjs](https://github.com/casperjs/casperjs) : 停止更新~~
+    > ![version](https://img.shields.io/github/release/casperjs/casperjs.svg) ![release-date](https://img.shields.io/github/release-date/casperjs/casperjs.svg) ![commits-since](https://img.shields.io/github/commits-since/casperjs/casperjs/1.1.4-2.svg)
+    >> ![npm](https://nodei.co/npm/phantomjs-prebuilt.png?compact=true)
+    >> ![npm](https://nodei.co/npm/casperjs.png?compact=true)
+
+## Proxy
+
+- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ![proxy][proxy]
+    > ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.22.0.svg)
 
 ## Chrome Extensions
 
 - github.com ![github][github]
-  - [X] [softvar/enhanced-github](https://github.com/softvar/enhanced-github) : 显示项目大小，文件下载链接
-  - [X] [Idnan/like-on-github](https://github.com/Idnan/like-on-github) : 快速保存项目、链接到 github
-  - [X] [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集
-  - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) : 源码快速跳转链接
-  - [pd4d10/octohint](https://github.com/pd4d10/octohint) : 源码点击高亮
-  - [X] [glebm/render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符
-
-- [X] [zxlie/FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
-- [X] [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
-- [X] [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
-- [X] [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ![proxy][proxy]
+  - [enhanced-github](https://github.com/softvar/enhanced-github) : 显示项目大小，文件下载链接
+  - [github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 文件图标
+  - [like-on-github](https://github.com/Idnan/like-on-github) : 快速保存项目、链接到 github
+  - [octohint](https://github.com/pd4d10/octohint) : 源码点击高亮
+  - [OctoLinker](https://github.com/OctoLinker/OctoLinker) : 源码快速跳转链接
+  - [refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集
+  - [render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符
+- [FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ![proxy][proxy]
+- [violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
+- [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 
 ## Awesome Lists
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
-- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things. ![macos][macos] ![shell][shell]
-- [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things. ![shell][shell]
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. ![shell][shell]
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there. ![zsh][zsh]
-- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things. ![php][php]
+- [awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
+    > ![last-commit](https://img.shields.io/github/last-commit/sindresorhus/awesome.svg)
 
----
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things.
+    > ![last-commit](https://img.shields.io/github/last-commit/herrbischoff/awesome-macos-command-line.svg)
+
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things.
+    > ![last-commit](https://img.shields.io/github/last-commit/herrbischoff/awesome-command-line-apps.svg)
+
+- [awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+    > ![last-commit](https://img.shields.io/github/last-commit/alebcay/awesome-shell.svg)
+
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+    > ![last-commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins.svg)
+
+- [awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.
+    > ![last-commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php.svg)
 
 <!-- https://shields.io/#/examples/other -->
 <!-- https://simpleicons.org/ -->
@@ -153,8 +177,6 @@
 <!-- https://nodei.co/npm/puppeteer.png?compact=true -->
 
 <!-- name-status-color.svg -->
-<!-- brightgreen green yellowgreen yellow orange red lightgrey blue -->
-<!-- brown cyan grey magenta pink white -->
 <!-- ?style=flat&logo=appveyor -->
 <!-- ?colorA=abcdef&colorB=abcdef -->
 <!-- ?logoColor=violet&logoWidth=40 -->
@@ -169,13 +191,14 @@
 - social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
 -->
 
-[github]: https://img.shields.io/badge/github-lightgrey.svg?logo=github
-[proxy]: https://img.shields.io/badge/proxy-lightgrey.svg?logo=github
+[github]: https://img.shields.io/badge/github-blue.svg?logoColor=white&logo=github
+[headless]: https://img.shields.io/badge/headless-blue.svg?logoColor=white&logo=google-chrome
+[proxy]: https://img.shields.io/badge/proxy-blue.svg?logoColor=white&logo=google-chrome
 
 [macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg
 <!-- [chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg -->
 
-[shell]: https://img.shields.io/badge/language-shell-blue.svg
 [php]: https://img.shields.io/badge/language-php-blue.svg
+[shell]: https://img.shields.io/badge/language-shell-blue.svg
 
 [zsh]: https://img.shields.io/badge/shell-zsh-green.svg
