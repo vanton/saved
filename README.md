@@ -181,3 +181,5 @@
 [shell]: https://img.shields.io/badge/language-shell-blue.svg
 
 [zsh]: https://img.shields.io/badge/shell-zsh-green.svg
+- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
+
