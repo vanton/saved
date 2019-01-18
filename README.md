@@ -8,6 +8,11 @@
 
 ![style: styled-components](https://img.shields.io/badge/style-&#x1F4BB;_styled--components-orange.svg?colorB=daa357&colorA=db748e)
 
+
+### January 18, 2019 
+
+- [For the Badge](https://forthebadge.com/) For the Badge
+
 ### January 17, 2019
 
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
