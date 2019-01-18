@@ -9,6 +9,7 @@
 ### January 18, 2019
 
 - [For the Badge](https://forthebadge.com/) For the Badge
+- [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server#installation) : PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 
 ### January 17, 2019
 
