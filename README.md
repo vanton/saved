@@ -19,20 +19,22 @@
 
 ### 以上未整理
 
+---
+
 ## # Javascript / HTML
 
 - [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) : HTML Standard
 - [html](https://github.com/whatwg/html) : HTML Standard
 - [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
-- [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind` - 一像素 - 博客园
+- [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind`
 
 ## # PHP
 
 - [CurlFuture](https://github.com/coooold/CurlFuture) : PHP 的 `curl` 并行请求库
 - [easyswoole](https://github.com/easy-swoole/easyswoole) : 基于 `swoole` 的框架
 - [xhprof](https://github.com/preinheimer/xhprof) : php 性能工具
-- [Linux下PHP7使用xhprof分析性能](https://blog.csdn.net/lvchengbo/article/details/52849179) : Linux 下 PHP7 使用 `xhprof` 分析性能 - FocusOnTech - CSDN博客
+- [Linux下PHP7使用xhprof分析性能](https://blog.csdn.net/lvchengbo/article/details/52849179) : Linux 下 PHP7 使用 `xhprof` 分析性能
 
 ## # Python
 
@@ -44,7 +46,7 @@
 
 ## # Shell
 
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ![Like]
     > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 - [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
     > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
@@ -126,7 +128,7 @@
 - tldr 友好的帮助命令
   - [tldr](https://github.com/tldr-pages/tldr)
   - [tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
-- [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码 ![macos]
+- [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
   - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos]
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
