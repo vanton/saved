@@ -6,8 +6,6 @@
 
 ## --
 
-![style: styled-components](https://img.shields.io/badge/style-&#x1F4BB;_styled--components-orange.svg?colorB=daa357&colorA=db748e)
-
 ### January 17, 2019
 
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
@@ -98,12 +96,12 @@
 
 ## # Proxy
 
-- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ![proxy][proxy]
+- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ![Like]
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.22.0.svg)
 
-## # Chrome Extensions
+## # Chrome Extensions ![chrome]
 
-- github.com ![github][github]
+- github.com ![github]
   - [enhanced-github](https://github.com/softvar/enhanced-github) : 显示项目大小，文件下载链接
   - [github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 文件图标
   - [like-on-github](https://github.com/Idnan/like-on-github) : 快速保存项目、链接到 github
@@ -112,7 +110,7 @@
   - [refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集
   - [render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符
 - [FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
-- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ![proxy][proxy]
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 
@@ -124,9 +122,9 @@
 - tldr 友好的帮助命令
   - [tldr](https://github.com/tldr-pages/tldr)
   - [tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
-- [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码 ![macos][macos]
+- [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码 ![macos]
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
-  - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos][macos]
+  - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos]
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 
@@ -154,8 +152,26 @@
 - [color-name](https://github.com/colorjs/color-name) : A JSON with CSS color names
 - [nodei.co](https://nodei.co/) NPM 状态图片
 
+<!-- 变量 -->
+
+[Like]: https://img.shields.io/badge/&#128151;-Like-red.svg?style=social
+
+[github]: https://img.shields.io/badge/github-grey.svg?logoColor=white&logo=github
+[macos]: https://img.shields.io/badge/macOS-grey.svg?logo=apple&logoColor=white
+[chrome]: https://img.shields.io/badge/chrome-grey.svg?logo=google-chrome&logoColor=white
+
+[headless]: https://img.shields.io/badge/headless-grey.svg?logoColor=white&logo=google-chrome
+
+[php]: https://img.shields.io/badge/language-php-red.svg?logo=php&logoColor=white
+[python]: https://img.shields.io/badge/language-python-red.svg?logo=python&logoColor=white
+[shell]: https://img.shields.io/badge/language-shell-red.svg?logo=php&logoColor=white
+
+[zsh]: https://img.shields.io/badge/shell-zsh-green.svg
+
 <!-- https://shields.io/#/examples/other -->
 <!-- https://simpleicons.org/ -->
+
+<!-- https://forthebadge.com/ -->
 
 <!-- https://nodei.co/ -->
 <!-- https://nodei.co/npm/puppeteer.png?compact=true -->
@@ -165,25 +181,10 @@
 <!-- ?colorA=abcdef&colorB=abcdef -->
 <!-- ?logoColor=violet&logoWidth=40 -->
 
-<!--
-- plastic : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=plastic)
+<!-- - plastic : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=plastic)
 - flat : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=flat)
 - flat-square : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=flat-square)
 - for-the-badge : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=for-the-badge)
 - popout : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=popout)
 - popout-square : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=popout-square)
-- social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses)
--->
-
-[github]: https://img.shields.io/badge/github-blue.svg?logoColor=white&logo=github
-[headless]: https://img.shields.io/badge/headless-blue.svg?logoColor=white&logo=google-chrome
-<!-- [proxy]: https://img.shields.io/badge/proxy-blue.svg?logoColor=white&logo=google-chrome -->
-[proxy]: https://img.shields.io/badge/type-&#x1F4BB;_proxy-orange.svg?colorB=daa357&colorA=db748e
-
-[macos]: https://img.shields.io/badge/macOS-lightgrey.svg?logo=apple&logoColor=white
-[chrome]: https://img.shields.io/badge/platform-chrome-lightgrey.svg
-
-[php]: https://img.shields.io/badge/language-php-blue.svg
-[shell]: https://img.shields.io/badge/language-shell-blue.svg
-
-[zsh]: https://img.shields.io/badge/shell-zsh-green.svg
+- social : ![ ](https://img.shields.io/badge/style-plastic-green.svg?logo=appveyor&style=social&label=healthinesses) -->
