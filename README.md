@@ -6,6 +6,14 @@
 
 ## ---
 
+
+### January 21, 2019 
+
+- [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
+- [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/) SVG Icons - Ready to use SVG Icons for the web.
+- [Icons](https://useiconic.com/icons/) Icons
+
 ### January 18, 2019
 
 - [For the Badge](https://forthebadge.com/) For the Badge
