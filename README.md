@@ -10,6 +10,7 @@
 ### January 21, 2019 
 
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
 
 ### January 18, 2019
 
