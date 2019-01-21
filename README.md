@@ -133,7 +133,7 @@
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 
-## # Awesome Lists ![awesome]
+## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
 - [awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
     > ![last-commit](https://img.shields.io/github/last-commit/sindresorhus/awesome.svg)
@@ -162,8 +162,6 @@
 <!-- 变量 -->
 
 [Like]: https://img.shields.io/badge/&#128151;-Like-red.svg?style=social
-
-[awesome]: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg
 
 [github]: https://img.shields.io/badge/github-grey.svg?logoColor=white&logo=github
 [macos]: https://img.shields.io/badge/macOS-grey.svg?logo=apple&logoColor=white
