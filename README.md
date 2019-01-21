@@ -4,7 +4,7 @@
 
 <https://vanton.github.io/saved>
 
-## --
+## ---
 
 ### January 18, 2019
 
@@ -159,7 +159,11 @@
 - [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
 
+![test]
+
 <!-- 变量 -->
+
+[test]: https://useiconic.com/iconic/svg/envelope.svg =30x30
 
 [Like]: https://img.shields.io/badge/&#128151;-Like-red.svg?style=social
 
