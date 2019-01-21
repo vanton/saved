@@ -14,8 +14,6 @@
 ### January 17, 2019
 
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
-- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
-- [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
 ### 以上未整理
@@ -135,7 +133,7 @@
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 
-## # Awesome Lists
+## # Awesome Lists ![awesome]
 
 - [awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
     > ![last-commit](https://img.shields.io/github/last-commit/sindresorhus/awesome.svg)
@@ -158,10 +156,14 @@
 - [Simple Icons](https://simpleicons.org/) Simple Icons
 - [color-name](https://github.com/colorjs/color-name) : A JSON with CSS color names
 - [nodei.co](https://nodei.co/) NPM 状态图片
+- [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
+- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
 
 <!-- 变量 -->
 
 [Like]: https://img.shields.io/badge/&#128151;-Like-red.svg?style=social
+
+[awesome]: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg
 
 [github]: https://img.shields.io/badge/github-grey.svg?logoColor=white&logo=github
 [macos]: https://img.shields.io/badge/macOS-grey.svg?logo=apple&logoColor=white
