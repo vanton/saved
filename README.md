@@ -6,6 +6,11 @@
 
 ## --
 
+
+### January 21, 2019 
+
+- [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
+
 ### January 18, 2019
 
 - [For the Badge](https://forthebadge.com/) For the Badge
