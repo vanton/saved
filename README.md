@@ -7,7 +7,7 @@
 ## ---
 
 
-### January 21, 2019 
+### January 21, 2019
 
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
@@ -167,11 +167,7 @@
 - [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
 
-![test]
-
 <!-- 变量 -->
-
-[test]: https://useiconic.com/iconic/svg/envelope.svg =30x30
 
 [Like]: https://img.shields.io/badge/&#128151;-Like-red.svg?style=social
 
