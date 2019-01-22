@@ -15,6 +15,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) : Material Design icons by Google
 - [#6 - Sistemas de Ícones em SVG](https://willianjusten.com.br/sistemas-de-icones-em-svg/) #6 - Sistemas de Ícones em SVG
 - [New Bancomail - SVG Icons](http://elrumordelaluz.github.io/newbancomail/svg.html) New Bancomail - SVG Icons
+- [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/) SVG Morpheus - Morph SVG icons
 
 ### January 21, 2019
 
