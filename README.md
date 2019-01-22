@@ -7,6 +7,11 @@
 ## ---
 
 
+
+### January 22, 2019 
+
+- [HYBICON - Better together - Documentation](http://hybicon.softwaretailoring.net/documentation.html) HYBICON - Better together - Documentation
+
 ### January 21, 2019
 
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
