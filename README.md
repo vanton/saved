@@ -17,6 +17,7 @@
 - [New Bancomail - SVG Icons](http://elrumordelaluz.github.io/newbancomail/svg.html) New Bancomail - SVG Icons
 - [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/) SVG Morpheus - Morph SVG icons
 - [kessler/node-bcat](https://github.com/kessler/node-bcat) : A pipe to browser utility
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal.
 
 ### January 21, 2019
 
