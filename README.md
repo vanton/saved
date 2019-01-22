@@ -11,6 +11,7 @@
 ### January 22, 2019 
 
 - [HYBICON - Better together - Documentation](http://hybicon.softwaretailoring.net/documentation.html) HYBICON - Better together - Documentation
+- [SVG Loaders - Sam Herbert](http://samherbert.net/svg-loaders/) SVG Loaders - Sam Herbert
 
 ### January 21, 2019
 
