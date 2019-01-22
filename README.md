@@ -12,7 +12,6 @@
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
 - [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/) SVG Icons - Ready to use SVG Icons for the web.
-- [Icons](https://useiconic.com/icons/) Icons
 
 ### January 18, 2019
 
@@ -158,14 +157,21 @@
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
     > ![last-commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg)
 
-## # Markdown Tools
+## # Badges and Icons
 
-- [shields.io](https://shields.io) 状态图片
+- [shields.io](https://shields.io) 状态图片 ![badge](https://img.shields.io/badge/subject-status-red.svg?style=flat&logo=appveyor)
+
 - [Simple Icons](https://simpleicons.org/) Simple Icons
+
 - [color-name](https://github.com/colorjs/color-name) : A JSON with CSS color names
-- [nodei.co](https://nodei.co/) NPM 状态图片
-- [boennemann/badges](https://github.com/boennemann/badges) : Readme Badges – Gotta catch 'em all
-- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges
+
+- [nodei.co](https://nodei.co/) NPM 状态图片 ![npm](https://nodei.co/npm/npm.png?compact)
+
+- [boennemann/badges](https://github.com/boennemann/badges) : 各种 badges
+
+- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
+
+- [useiconic](https://useiconic.com/icons/) Icons
 
 <!-- 变量 -->
 
