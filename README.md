@@ -12,6 +12,7 @@
 ### January 23, 2019 
 
 - [axios/axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
+- [sindresorhus/ora](https://github.com/sindresorhus/ora) : Elegant terminal spinner
 
 ### January 22, 2019 
 
