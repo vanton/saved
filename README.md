@@ -8,6 +8,11 @@
 
 
 
+
+### January 23, 2019 
+
+- [axios/axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
+
 ### January 22, 2019 
 
 - [HYBICON - Better together - Documentation](http://hybicon.softwaretailoring.net/documentation.html) HYBICON - Better together - Documentation
