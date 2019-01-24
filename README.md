@@ -9,6 +9,11 @@
 
 
 
+
+### January 24, 2019 
+
+- [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) : An oh-my-zsh shell theme based on the Powerline Vim plugin
+
 ### January 23, 2019 
 
 - [axios/axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
