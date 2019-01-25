@@ -13,6 +13,7 @@
 - [jingweno/ccat](https://github.com/jingweno/ccat) : Colorizing `cat`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) : GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [traviscross/mtr](https://github.com/traviscross/mtr) : Official repository for mtr, a network diagnostic tool
+- [Xmader/aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 | An Aria2 GUI for Windows & Linux & MacOS
 
 ### January 24, 2019
 
