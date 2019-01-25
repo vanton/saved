@@ -6,9 +6,26 @@
 
 ## ---
 
+### January 24, 2019
+
+- [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) : An oh-my-zsh shell theme based on the Powerline Vim plugin
+
+### January 23, 2019
+
+- [axios/axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
+- [sindresorhus/ora](https://github.com/sindresorhus/ora) : Elegant terminal spinner
+- [SamVerschueren/listr](https://github.com/samverschueren/listr) : Terminal task list
+
 ### January 22, 2019
 
 - [HYBICON - Better together - Documentation](http://hybicon.softwaretailoring.net/documentation.html) HYBICON - Better together - Documentation
+- [SVG Loaders - Sam Herbert](http://samherbert.net/svg-loaders/) SVG Loaders - Sam Herbert
+- [google/material-design-icons](https://github.com/google/material-design-icons) : Material Design icons by Google
+- [#6 - Sistemas de Ícones em SVG](https://willianjusten.com.br/sistemas-de-icones-em-svg/) #6 - Sistemas de Ícones em SVG
+- [New Bancomail - SVG Icons](http://elrumordelaluz.github.io/newbancomail/svg.html) New Bancomail - SVG Icons
+- [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/) SVG Morpheus - Morph SVG icons
+- [kessler/node-bcat](https://github.com/kessler/node-bcat) : A pipe to browser utility
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal.
 
 ### January 21, 2019
 
