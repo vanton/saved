@@ -6,9 +6,7 @@
 
 ## ---
 
-
-
-### January 22, 2019 
+### January 22, 2019
 
 - [HYBICON - Better together - Documentation](http://hybicon.softwaretailoring.net/documentation.html) HYBICON - Better together - Documentation
 
