@@ -21,6 +21,7 @@
 - [Fink - Home](http://www.finkproject.org/) Fink - Home
 - [The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)](https://brew.sh/) The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)
 - [psyrendust/alf](https://github.com/psyrendust/alf) : Alf is an out of this world super fast and configurable framework for zsh; it's modeled after Prezto and Antigen while utilizing Oh My Zsh under the covers; and offers standard defaults, aliases, functions, auto completion, automated updates and installable prompt themes and plugins.
+- [getantibody/antibody](https://github.com/getantibody/antibody) : The fastest shell plugin manager.
 
 ### January 25, 2019 
 
