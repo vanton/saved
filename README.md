@@ -14,6 +14,7 @@
 - [jpr5/ngrep](https://github.com/jpr5/ngrep/) : ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
 - [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) vnStat - a network traffic monitor for Linux and BSD
 - [gizak/termui](https://github.com/gizak/termui) : Golang terminal dashboard
+- [sharkdp/fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
 
 ### January 25, 2019 
 
