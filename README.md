@@ -19,6 +19,7 @@
 - [netboot.xyz ](https://netboot.xyz/) :: netboot.xyz
 - [antonym/netboot.xyz](https://github.com/antonym/netboot.xyz) : Network bootable operating system installer based on iPXE
 - [Fink - Home](http://www.finkproject.org/) Fink - Home
+- [The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)](https://brew.sh/) The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)
 
 ### January 25, 2019 
 
