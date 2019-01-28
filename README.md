@@ -24,6 +24,7 @@
 - [getantibody/antibody](https://github.com/getantibody/antibody) : The fastest shell plugin manager.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
 - [zplug/zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
+- [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k) : The most awesome Powerline theme for ZSH around!
 
 ### January 25, 2019 
 
