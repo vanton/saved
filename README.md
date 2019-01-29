@@ -12,6 +12,7 @@
 ### January 29, 2019 
 
 - [nerd-fonts/readme.md at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#font-installation) nerd-fonts/readme.md at master · ryanoasis/nerd-fonts
+- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
 
 ### January 28, 2019 
 
