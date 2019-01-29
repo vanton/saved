@@ -8,6 +8,11 @@
 
 
 
+
+### January 29, 2019 
+
+- [nerd-fonts/readme.md at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#font-installation) nerd-fonts/readme.md at master · ryanoasis/nerd-fonts
+
 ### January 28, 2019 
 
 - [jq](https://stedolan.github.io/jq/) jq
