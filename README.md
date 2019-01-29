@@ -15,6 +15,7 @@
 - [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) : A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
 
 ### January 28, 2019 
 
