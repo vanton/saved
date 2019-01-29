@@ -14,6 +14,7 @@
 - [nerd-fonts/readme.md at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#font-installation) nerd-fonts/readme.md at master · ryanoasis/nerd-fonts
 - [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) : A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
 
 ### January 28, 2019 
 
