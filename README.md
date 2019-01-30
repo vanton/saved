@@ -14,6 +14,7 @@
 
 - [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) : Display feedback of terminal in the 🍏 Touchbar
+- [Linuxbrew | The Homebrew package manager for Linux](http://linuxbrew.sh/) Linuxbrew | The Homebrew package manager for Linux
 
 ### January 29, 2019 
 
