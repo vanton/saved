@@ -118,7 +118,7 @@
 - [glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) : `ncdu` 查看硬盘空间
 - [lnav](https://github.com/tstack/lnav) : 日志查看工具
-- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : curl 替代，命令行高亮
+- [httpie](https://github.com/jakubroztocil/httpie) : curl 替代，命令行高亮
     > 安装报错的话需要强制更新 `requests` `urllib3`
 
     ```bash
