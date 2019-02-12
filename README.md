@@ -72,16 +72,10 @@
 
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
-- [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/) SVG Icons - Ready to use SVG Icons for the web.
 
 ### January 18, 2019
 
-- [For the Badge](https://forthebadge.com/) For the Badge
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server#installation) : PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
-
-### January 17, 2019
-
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
 ### 以上未整理
 
@@ -94,6 +88,7 @@
 - [html](https://github.com/whatwg/html) : HTML Standard
 - [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind`
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
 ## # PHP
 
@@ -238,6 +233,10 @@
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
 - [useiconic](https://useiconic.com/icons/) Icons
+
+- [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/) SVG Icons - Ready to use SVG Icons for the web.
+
+- [For the Badge](https://forthebadge.com/) For the Badge
 
 <!-- 变量 -->
 
