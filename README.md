@@ -6,17 +6,13 @@
 
 ## ---
 
-
-
-
-
-### January 30, 2019 
+### January 30, 2019
 
 - [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) : Display feedback of terminal in the 🍏 Touchbar
 - [Linuxbrew | The Homebrew package manager for Linux](http://linuxbrew.sh/) Linuxbrew | The Homebrew package manager for Linux
 
-### January 29, 2019 
+### January 29, 2019
 
 - [nerd-fonts/readme.md at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#font-installation) nerd-fonts/readme.md at master · ryanoasis/nerd-fonts
 - [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
@@ -24,7 +20,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
 
-### January 28, 2019 
+### January 28, 2019
 
 - [jq](https://stedolan.github.io/jq/) jq
 - [jpr5/ngrep](https://github.com/jpr5/ngrep/) : ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
@@ -32,7 +28,7 @@
 - [gizak/termui](https://github.com/gizak/termui) : Golang terminal dashboard
 - [sharkdp/fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) : :rabbit2: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
-- [netboot.xyz ](https://netboot.xyz/) :: netboot.xyz
+- [netboot.xyz](https://netboot.xyz/) :: netboot.xyz
 - [antonym/netboot.xyz](https://github.com/antonym/netboot.xyz) : Network bootable operating system installer based on iPXE
 - [Fink - Home](http://www.finkproject.org/) Fink - Home
 - [The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)](https://brew.sh/) The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)
@@ -42,7 +38,7 @@
 - [zplug/zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
 - [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k) : The most awesome Powerline theme for ZSH around!
 
-### January 25, 2019 
+### January 25, 2019
 
 - [dokku/dokku](https://github.com/dokku/dokku) : A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [jingweno/ccat](https://github.com/jingweno/ccat) : Colorizing `cat`
@@ -85,7 +81,6 @@
 
 ### January 17, 2019
 
-- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : A better way to operate quick response code in Swift.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
 ### 以上未整理
@@ -133,10 +128,12 @@
 - [lnav](https://github.com/tstack/lnav) : 日志查看工具
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : curl 替代，命令行高亮
     > 安装报错的话需要强制更新 `requests` `urllib3`
+
     ```bash
     pip install requests urllib3  --force --upgrade
     pip install httpie
     ```
+
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
 - [goaccess](https://github.com/allinurl/goaccess) : 实时 web 日志监控
@@ -190,6 +187,10 @@
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
+
+## # swift
+
+- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : 神奇的二维码生成工具，可以使用任意图片背景，可以生成 gif 动图。
 
 ## # tools
 
