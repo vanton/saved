@@ -10,7 +10,7 @@
 
 - [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) : Display feedback of terminal in the 🍏 Touchbar
-- [Linuxbrew](http://linuxbrew.sh/) The Homebrew package manager for Linux
+- [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
 
 ### January 29, 2019
 
@@ -44,7 +44,7 @@
 - [jingweno/ccat](https://github.com/jingweno/ccat) : Colorizing `cat`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) : GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [traviscross/mtr](https://github.com/traviscross/mtr) : Official repository for mtr, a network diagnostic tool
-- [Xmader/aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 | An Aria2 GUI for Windows & Linux & MacOS
+- [Xmader/aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 \| An Aria2 GUI for Windows & Linux & MacOS
 - [wapznw/aria2desktop](https://github.com/wapznw/aria2desktop) : 一个漂亮的aria2的UI界面 aria2ui, aria2gui
 
 ### January 24, 2019
@@ -73,10 +73,6 @@
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
 
-### January 18, 2019
-
-- [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server#installation) : PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
-
 ### 以上未整理
 
 ---
@@ -96,6 +92,7 @@
 - [easyswoole](https://github.com/easy-swoole/easyswoole) : 基于 `swoole` 的框架
 - [xhprof](https://github.com/preinheimer/xhprof) : php 性能工具
 - [Linux下PHP7使用xhprof分析性能](https://blog.csdn.net/lvchengbo/article/details/52849179) : Linux 下 PHP7 使用 `xhprof` 分析性能
+- [php-language-server](https://github.com/felixfbecker/php-language-server#installation) : PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 
 ## # Python
 
@@ -185,7 +182,7 @@
 
 ## # swift
 
-- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) : 神奇的二维码生成工具，可以使用任意图片背景，可以生成 gif 动图。
+- [EFQRCode](https://github.com/EFPrefix/EFQRCode) : 神奇的二维码生成工具，可以使用任意图片背景，可以生成 gif 动图。
 
 ## # tools
 
@@ -198,7 +195,7 @@
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
   - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos]
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
+- [ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 
 ## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
