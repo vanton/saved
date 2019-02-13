@@ -78,7 +78,7 @@
 - [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
 - [ora](https://github.com/sindresorhus/ora) : 在终端显示 spinner
 
-    <img src="https://github.com/sindresorhus/ora/blob/master/screenshot-2.gif" width="50%">
+    <img src="https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot-2.gif" width="300px">
 
 ## # PHP
 
