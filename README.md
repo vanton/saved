@@ -77,7 +77,8 @@
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal. 代码文件转化为截图。
 - [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
 - [ora](https://github.com/sindresorhus/ora) : 在终端显示 spinner
-    ![ora](https://github.com/sindresorhus/ora/raw/master/screenshot.svg?sanitize=true)
+
+    ![ora](https://github.com/sindresorhus/ora/blob/master/screenshot-2.gif)
 
 ## # PHP
 
