@@ -22,9 +22,6 @@
 
 ### January 28, 2019
 
-- [jq](https://stedolan.github.io/jq/) jq
-- [jpr5/ngrep](https://github.com/jpr5/ngrep/) : ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
-- [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) vnStat - a network traffic monitor for Linux and BSD
 - [gizak/termui](https://github.com/gizak/termui) : Golang terminal dashboard
 - [sharkdp/fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) : :rabbit2: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
@@ -37,24 +34,6 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
 - [zplug/zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
 - [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k) : The most awesome Powerline theme for ZSH around!
-
-### January 25, 2019
-
-- [dokku/dokku](https://github.com/dokku/dokku) : A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [jingweno/ccat](https://github.com/jingweno/ccat) : Colorizing `cat`
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) : GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [traviscross/mtr](https://github.com/traviscross/mtr) : Official repository for mtr, a network diagnostic tool
-- [Xmader/aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 \| An Aria2 GUI for Windows & Linux & MacOS
-- [wapznw/aria2desktop](https://github.com/wapznw/aria2desktop) : 一个漂亮的aria2的UI界面 aria2ui, aria2gui
-
-### January 24, 2019
-
-
-### January 23, 2019
-
-
-### January 22, 2019
-
 
 ### 以上未整理
 
@@ -75,16 +54,11 @@
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal. 代码文件转化为截图。
 - [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
 - [ora](https://github.com/sindresorhus/ora) : 在终端显示 spinner
-
-    <img src="https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot-2.gif" width="200px">
-
+    > <img src="https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot-2.gif" width="200px">
 - [listr](https://github.com/samverschueren/listr) : Terminal task list
-
-    <img src="https://raw.githubusercontent.com/SamVerschueren/listr/master/media/screenshot.gif" width="300px">
-
+    > <img src="https://raw.githubusercontent.com/SamVerschueren/listr/master/media/screenshot.gif" width="300px">
 - [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) : An oh-my-zsh shell theme based on the Powerline Vim plugin
-
-    <img src="https://camo.githubusercontent.com/c5b0c78df1c3ca27bb2c5577114a92018bbdbee0/687474703a2f2f7261772e6769746875622e636f6d2f6361696f676f6e64696d2f62756c6c65742d747261696e2d6f682d6d792d7a73682d7468656d652f6d61737465722f696d672f707265766965772e676966" width="600px">
+    > <img src="https://camo.githubusercontent.com/c5b0c78df1c3ca27bb2c5577114a92018bbdbee0/687474703a2f2f7261772e6769746875622e636f6d2f6361696f676f6e64696d2f62756c6c65742d747261696e2d6f682d6d792d7a73682d7468656d652f6d61737465722f696d672f707265766965772e676966" width="600px">
 
 ## # PHP
 
@@ -104,21 +78,21 @@
 
 ## # Shell
 
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ![Like]
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ![Like] ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 - [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
     > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
-- [z](https://github.com/rupa/z) : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件
+- [z](https://github.com/rupa/z) : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/rupa/z.svg) ![release-date](https://img.shields.io/github/release-date/rupa/z.svg) ![version](https://img.shields.io/github/release/rupa/z.svg) ![commits-since](https://img.shields.io/github/commits-since/rupa/z/v1.9.svg)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
     > ![last-commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting.svg)
-- [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字
+- [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/paoloantinori/hhighlighter.svg)
-- [htop](https://github.com/hishamhm/htop) : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`.
+- [htop](https://github.com/hishamhm/htop) : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`. ⭕️
 - [glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
-- [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) : `ncdu` 查看硬盘空间
+- [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) : `ncdu` 查看硬盘空间 ⭕️
 - [lnav](https://github.com/tstack/lnav) : 日志查看工具
-- [httpie](https://github.com/jakubroztocil/httpie) : curl 替代，命令行高亮
+- [httpie](https://github.com/jakubroztocil/httpie) : curl 替代，命令行高亮 ⭕️
     > 安装报错的话需要强制更新 `requests` `urllib3`
 
     ```bash
@@ -132,14 +106,18 @@
 - [has](https://github.com/kdabir/has) : 检查命令是否存在
 - [histstat](https://github.com/vesche/histstat) : history for `netstat`
 - [k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
-- [mtr](https://github.com/traviscross/mtr) : Official repository for `mtr`, a network diagnostic tool
 - [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
 - [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
 - [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
+- [ccat](https://github.com/jingweno/ccat) : 🌈 彩色化 `cat`
+- [mtr](https://github.com/traviscross/mtr) : 替代 `traceroute` 和 `ping` 的网络工具
+- [jq](https://stedolan.github.io/jq/) : 格式化输出 `json` ⭕️
+- [ngrep](https://github.com/jpr5/ngrep/) : 用于网络的 `grep` 工具
+- [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) ⭕️
 
 ## # Headless Chrome
 
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless]
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless] ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/GoogleChrome/puppeteer.svg) ![release-date](https://img.shields.io/github/release-date/GoogleChrome/puppeteer.svg) ![version](https://img.shields.io/github/release/GoogleChrome/puppeteer.svg) ![commits-since](https://img.shields.io/github/commits-since/GoogleChrome/puppeteer/v1.11.0.svg)
     >> ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
 - [rize](https://github.com/g-plane/rize) : puppeteer 包装
@@ -147,8 +125,8 @@
 - [Rize 文档](https://rize.js.org/zh-CN/getting-started.html)
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) : puppeteer 的 python 实现
 - [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) : puppeteer 不支持验证代理，需要转成匿名代理
-- [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理
-    >> ![npm](https://nodei.co/npm/proxy-chain.png?compact=true)
+- [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理 ⭕️
+    > ![npm](https://nodei.co/npm/proxy-chain.png?compact=true)
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 puppeteer 脚本
 - [thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
@@ -162,7 +140,7 @@
 
 ## # Proxy
 
-- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ![Like]
+- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ![Like] ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
 
 ## # Chrome Extensions ![chrome]
@@ -180,11 +158,15 @@
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 
-## # swift
+## # Swift
 
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) : 神奇的二维码生成工具，可以使用任意图片背景，可以生成 gif 动图。
 
-## # tools
+## # Doker
+
+- [dokku](https://github.com/dokku/dokku) : A docker-powered PaaS that helps you build and manage the lifecycle of applications
+
+## # Tools
 
 - wakatime 开发时间记录
   - [wakatime](https://github.com/wakatime/wakatime)
@@ -197,6 +179,8 @@
   - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos]
 - [ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
+- [aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 \| An Aria2 GUI for Windows & Linux & MacOS
+- [aria2desktop](https://github.com/wapznw/aria2desktop) : 一个漂亮的aria2的UI界面 aria2ui, aria2gui
 
 ## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
