@@ -53,25 +53,10 @@
 
 ### January 23, 2019
 
-- [axios/axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
-- [sindresorhus/ora](https://github.com/sindresorhus/ora) : Elegant terminal spinner
 - [SamVerschueren/listr](https://github.com/samverschueren/listr) : Terminal task list
 
 ### January 22, 2019
 
-- [HYBICON - Better together - Documentation](http://hybicon.softwaretailoring.net/documentation.html) HYBICON - Better together - Documentation
-- [SVG Loaders - Sam Herbert](http://samherbert.net/svg-loaders/) SVG Loaders - Sam Herbert
-- [google/material-design-icons](https://github.com/google/material-design-icons) : Material Design icons by Google
-- [#6 - Sistemas de Ícones em SVG](https://willianjusten.com.br/sistemas-de-icones-em-svg/) #6 - Sistemas de Ícones em SVG
-- [New Bancomail - SVG Icons](http://elrumordelaluz.github.io/newbancomail/svg.html) New Bancomail - SVG Icons
-- [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/) SVG Morpheus - Morph SVG icons
-- [kessler/node-bcat](https://github.com/kessler/node-bcat) : A pipe to browser utility
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal.
-
-### January 21, 2019
-
-- [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
-- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
 
 ### 以上未整理
 
@@ -85,6 +70,14 @@
 - [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind`
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+
+## # Node.js
+
+- [node-bcat](https://github.com/kessler/node-bcat) : A pipe to browser utility
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal. 代码文件转化为截图。
+- [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
+- [ora](https://github.com/sindresorhus/ora) : 在终端显示 spinner
+    ![ora](https://github.com/sindresorhus/ora/raw/master/screenshot.svg?sanitize=true)
 
 ## # PHP
 
@@ -214,12 +207,14 @@
     > ![last-commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php.svg)
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
     > ![last-commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg)
+- [awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
 
 ## # Badges and Icons
 
 - [shields.io](https://shields.io) 状态图片 ![badge](https://img.shields.io/badge/subject-status-red.svg?style=flat&logo=appveyor)
 
-- [Simple Icons](https://simpleicons.org/) Simple Icons
+- [Simple Icons](https://simpleicons.org/)
 
 - [color-name](https://github.com/colorjs/color-name) : A JSON with CSS color names
 
@@ -227,13 +222,25 @@
 
 - [boennemann/badges](https://github.com/boennemann/badges) : 各种 badges
 
-- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
+- [open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
 - [useiconic](https://useiconic.com/icons/) Icons
 
-- [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/) SVG Icons - Ready to use SVG Icons for the web.
+- [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/)
 
-- [For the Badge](https://forthebadge.com/) For the Badge
+- [For the Badge](https://forthebadge.com/)
+
+- [HYBICON - Better together](http://hybicon.softwaretailoring.net/documentation.html)
+
+- [SVG Loaders - Sam Herbert](http://samherbert.net/svg-loaders/) SVG loading 动画
+
+- [material-design-icons](https://github.com/google/material-design-icons) : Material Design icons by Google
+
+- [#6 - Sistemas de Ícones em SVG](https://willianjusten.com.br/sistemas-de-icones-em-svg/)
+
+- [New Bancomail - SVG Icons](http://elrumordelaluz.github.io/newbancomail/svg.html)
+
+- [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/)
 
 <!-- 变量 -->
 
