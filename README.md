@@ -22,7 +22,6 @@
 
 ### January 28, 2019
 
-- [gizak/termui](https://github.com/gizak/termui) : Golang terminal dashboard
 - [sharkdp/fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) : :rabbit2: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [netboot.xyz](https://netboot.xyz/) :: netboot.xyz
@@ -78,13 +77,13 @@
 
 ## # Shell
 
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ![Like] ⭕️
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 - [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
     > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
 - [z](https://github.com/rupa/z) : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/rupa/z.svg) ![release-date](https://img.shields.io/github/release-date/rupa/z.svg) ![version](https://img.shields.io/github/release/rupa/z.svg) ![commits-since](https://img.shields.io/github/commits-since/rupa/z/v1.9.svg)
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting.svg)
 - [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/paoloantinori/hhighlighter.svg)
@@ -140,7 +139,7 @@
 
 ## # Proxy
 
-- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ![Like] ⭕️
+- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
 
 ## # Chrome Extensions ![chrome]
