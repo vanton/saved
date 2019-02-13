@@ -53,7 +53,6 @@
 
 ### January 23, 2019
 
-- [SamVerschueren/listr](https://github.com/samverschueren/listr) : Terminal task list
 
 ### January 22, 2019
 
@@ -78,7 +77,11 @@
 - [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
 - [ora](https://github.com/sindresorhus/ora) : 在终端显示 spinner
 
-    <img src="https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot-2.gif" width="300px">
+    <img src="https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot-2.gif" width="200px">
+
+- [listr](https://github.com/samverschueren/listr) : Terminal task list
+
+    <img src="https://raw.githubusercontent.com/SamVerschueren/listr/master/media/screenshot.gif" width="300px">
 
 ## # PHP
 
