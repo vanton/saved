@@ -13,6 +13,7 @@
 - [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/) Hack | A typeface designed for source code
 - [nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts
 - [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
+- [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 
 ### January 30, 2019
 
