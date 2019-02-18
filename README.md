@@ -16,6 +16,7 @@
 - [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) : 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) : 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [alim0x/Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) : 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 
 ### January 30, 2019
 
