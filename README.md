@@ -12,6 +12,7 @@
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/) Hack | A typeface designed for source code
 - [nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts
+- [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
 
 ### January 30, 2019
 
