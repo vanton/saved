@@ -6,8 +6,7 @@
 
 ## ---
 
-
-### February 18, 2019 
+### February 18, 2019
 
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/) Hack | A typeface designed for source code
@@ -59,11 +58,8 @@
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal. 代码文件转化为截图。
 - [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
 - [ora](https://github.com/sindresorhus/ora) : 在终端显示 spinner
-    > <img src="https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot-2.gif" width="200px">
 - [listr](https://github.com/samverschueren/listr) : Terminal task list
-    > <img src="https://raw.githubusercontent.com/SamVerschueren/listr/master/media/screenshot.gif" width="300px">
 - [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) : An oh-my-zsh shell theme based on the Powerline Vim plugin
-    > <img src="https://camo.githubusercontent.com/c5b0c78df1c3ca27bb2c5577114a92018bbdbee0/687474703a2f2f7261772e6769746875622e636f6d2f6361696f676f6e64696d2f62756c6c65742d747261696e2d6f682d6d792d7a73682d7468656d652f6d61737465722f696d672f707265766965772e676966" width="600px">
 
 ## # PHP
 
