@@ -6,6 +6,11 @@
 
 ## ---
 
+
+### February 22, 2019 
+
+- [koekeishiya/chunkwm](https://github.com/koekeishiya/chunkwm) : Tiling window manager for macOS based on plugin architecture
+
 ### February 18, 2019
 
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
