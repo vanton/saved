@@ -7,6 +7,11 @@
 ## ---
 
 
+
+### February 27, 2019 
+
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) : Stylish, intuitive and user-friendly prompts.
+
 ### February 22, 2019 
 
 - [koekeishiya/chunkwm](https://github.com/koekeishiya/chunkwm) : Tiling window manager for macOS based on plugin architecture
