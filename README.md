@@ -13,6 +13,7 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) : Stylish, intuitive and user-friendly prompts.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) : A collection of common interactive command line user interfaces.
 - [EvilCult/moviecatcher](https://github.com/EvilCult/moviecatcher) : 电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。
+- [Learning D3.JS - 十二月咖啡馆](http://d3.decembercafe.org/index.html) Learning D3.JS - 十二月咖啡馆
 
 ### February 22, 2019 
 
