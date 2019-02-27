@@ -11,6 +11,7 @@
 ### February 27, 2019 
 
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) : Stylish, intuitive and user-friendly prompts.
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) : A collection of common interactive command line user interfaces.
 
 ### February 22, 2019 
 
