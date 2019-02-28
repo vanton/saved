@@ -14,6 +14,7 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
 - [terkelg/prompts](https://github.com/terkelg/prompts) : ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [videojs/video.js](https://github.com/videojs/video.js) : Video.js - open source HTML5 & Flash video player
+- [cli-table/cli-table3](https://github.com/cli-table/cli-table3) : Pretty unicode tables for the command line
 
 ### February 27, 2019 
 
