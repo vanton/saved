@@ -12,6 +12,7 @@
 ### February 28, 2019 
 
 - [trailofbits/algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
+- [terkelg/prompts](https://github.com/terkelg/prompts) : ❯ Lightweight, beautiful and user-friendly interactive prompts.
 
 ### February 27, 2019 
 
