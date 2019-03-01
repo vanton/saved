@@ -20,6 +20,7 @@
 - [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [Mckinsey666/bullet](https://github.com/Mckinsey666/bullet) : 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) : Gitbook
+- [nosir/cleave.js](https://github.com/nosir/cleave.js) : Format input text content when you are typing...
 
 ### February 28, 2019 
 
