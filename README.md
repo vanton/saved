@@ -9,6 +9,11 @@
 
 
 
+
+### March 1, 2019 
+
+- [dylanbai8/frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
+
 ### February 28, 2019 
 
 - [trailofbits/algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
