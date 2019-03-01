@@ -21,6 +21,7 @@
 - [Mckinsey666/bullet](https://github.com/Mckinsey666/bullet) : 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) : Gitbook
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) : Format input text content when you are typing...
+- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit#demo) : Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 
 ### February 28, 2019 
 
