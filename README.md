@@ -18,6 +18,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) : A full-featured download manager.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) : 😋 技术面试必备基础知识
 - [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
+- [Mckinsey666/bullet](https://github.com/Mckinsey666/bullet) : 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
 
 ### February 28, 2019 
 
