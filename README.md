@@ -15,6 +15,7 @@
 - [dylanbai8/frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
 - [mmastrac/iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) : Automatic ZModem support for iTerm 2
 - [imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) : A full-featured download manager.
 
 ### February 28, 2019 
 
