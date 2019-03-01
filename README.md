@@ -16,6 +16,7 @@
 - [mmastrac/iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) : Automatic ZModem support for iTerm 2
 - [imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) : A full-featured download manager.
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) : 😋 技术面试必备基础知识
 
 ### February 28, 2019 
 
