@@ -14,6 +14,7 @@
 ### March 5, 2019 
 
 - [ivanseidel/node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
+- [baryon/tracer](https://github.com/baryon/tracer) : A powerful and customizable logging library for node.js
 
 ### March 1, 2019 
 
