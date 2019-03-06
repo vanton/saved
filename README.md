@@ -9,6 +9,7 @@
 ### March 6, 2019
 
 - [chalk/chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
 
 ### March 5, 2019
 
