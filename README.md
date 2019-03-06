@@ -122,7 +122,6 @@
 - [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
 - [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
 - [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) ⭕️
-- [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 - [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
 - [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
 
@@ -154,6 +153,7 @@
 - [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
 - [algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
+- [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 
 ## # Chrome Extensions ![chrome]
 
