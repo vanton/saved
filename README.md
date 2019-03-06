@@ -6,12 +6,6 @@
 
 ## ---
 
-
-
-
-
-
-
 ### March 6, 2019
 
 - [chalk/chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right
