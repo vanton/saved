@@ -4,31 +4,7 @@
 
 <https://vanton.github.io/saved>
 
-## ---
-
-### March 6, 2019
-
-- [chalk/chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
-
-### March 5, 2019
-
-- [ivanseidel/node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
-- [baryon/tracer](https://github.com/baryon/tracer) : A powerful and customizable logging library for node.js
-
-### March 1, 2019
-
-- [dylanbai8/frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
-- [mmastrac/iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) : Automatic ZModem support for iTerm 2
-- [imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) : A full-featured download manager.
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) : 😋 技术面试必备基础知识
-- [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
-- [Mckinsey666/bullet](https://github.com/Mckinsey666/bullet) : 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
-- [Micropoor/Micro8](https://github.com/Micropoor/Micro8) : Gitbook
-- [nosir/cleave.js](https://github.com/nosir/cleave.js) : Format input text content when you are typing...
-- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit#demo) : Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+## tmp
 
 ### 以上未整理
 
@@ -41,10 +17,13 @@
 - [html](https://github.com/whatwg/html) : HTML Standard
 - [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind`
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [D3.js入门教程](http://wiki.jikexueyuan.com/project/d3wiki/) D3.js开发中文手册[PDF]下载-极客学院Wiki
+- [styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [D3.js入门教程](http://wiki.jikexueyuan.com/project/d3wiki/) : D3.js开发中文手册[PDF]下载-极客学院Wiki
 - [Learning D3.JS - 十二月咖啡馆](http://d3.decembercafe.org/index.html)
-- [video.js](https://github.com/videojs/video.js) : Video.js - open source HTML5 & Flash video player
+- [video.js](https://github.com/videojs/video.js) : open source HTML5 & Flash video player
+- [material-kit](https://github.com/creativetimofficial/material-kit#demo) : Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
+- [cleave.js](https://github.com/nosir/cleave.js) : Format input text content when you are typing...
+- [ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 ## # Node.js
 
@@ -56,10 +35,14 @@
 - [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) : An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [enquirer](https://github.com/enquirer/enquirer) : Stylish, intuitive and user-friendly prompts.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) : A collection of common interactive command line user interfaces.
-- [colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console
 - [commander.js](https://github.com/tj/commander.js) : node.js command-line interfaces made easy
 - [cli-table3](https://github.com/cli-table/cli-table3) : Pretty unicode tables for the command line
-- [prompts](https://github.com/terkelg/prompts) : ❯ Lightweight, beautiful and user-friendly interactive prompts.
+- [prompts](https://github.com/terkelg/prompts) : ❯ Lightweight, beautiful and user-friendly interactive prompts. ⭕️
+- [Motrix](https://github.com/agalwood/Motrix) : A full-featured download manager.
+- [tracer](https://github.com/baryon/tracer) : A powerful and customizable logging library for node.js  ⭕️
+- [colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console
+- [chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right ⭕️
+- [node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
 
 ## # PHP
 
@@ -77,6 +60,7 @@
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
 - [vibora](https://github.com/vibora-io/vibora) : 快速的 Python web framework
 - [moviecatcher](https://github.com/EvilCult/moviecatcher) : 电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。
+- [bullet](https://github.com/Mckinsey666/bullet) : 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
 
 ## # Shell
 
@@ -95,7 +79,7 @@
 - [glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) : `ncdu` 查看硬盘空间 ⭕️
 - [lnav](https://github.com/tstack/lnav) : 日志查看工具
-- [httpie](https://github.com/jakubroztocil/httpie) : curl 替代，命令行高亮 ⭕️
+- [httpie](https://github.com/jakubroztocil/httpie) : `curl` 替代，命令行高亮 ⭕️
     > 安装报错的话需要强制更新 `requests` `urllib3`
 
     ```bash
@@ -104,17 +88,18 @@
     ```
 
 - [brew.sh](https://brew.sh/) The missing package manager for macOS (or Linux) ⭕️
-- [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux ⭕️
+- [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
 
 - [antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
 - [ccat](https://github.com/jingweno/ccat) : 🌈 彩色化 `cat`
-- [fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
+- [fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to `find`
 - [Fink](http://www.finkproject.org/) The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
 - [goaccess](https://github.com/allinurl/goaccess) : 实时 web 日志监控
 - [has](https://github.com/kdabir/has) : 检查命令是否存在
 - [histstat](https://github.com/vesche/histstat) : history for `netstat`
+- [iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) : Automatic ZModem support for iTerm 2
 - [jq](https://stedolan.github.io/jq/) : 格式化输出 `json` ⭕️
 - [k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
 - [mtr](https://github.com/traviscross/mtr) : 替代 `traceroute` 和 `ping` 的网络工具
@@ -123,7 +108,7 @@
 - [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
 - [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
 - [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) ⭕️
-- [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
+- [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
 - [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
 
 ## # Headless Chrome
@@ -153,8 +138,11 @@
 
 - [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS ⭕️
+
 - [algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
 - [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
+- [frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
 
 ## # Chrome Extensions ![chrome]
 
@@ -167,7 +155,7 @@
   - [refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集
   - [render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符
 - [FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
-- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ⭕️
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 
@@ -182,14 +170,14 @@
 ## # Tools
 
 - wakatime 开发时间记录
-  - [wakatime](https://github.com/wakatime/wakatime)
-  - [zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime
+  - [wakatime](https://github.com/wakatime/wakatime) ⭕️
+  - [zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime ⭕️
 - tldr 友好的帮助命令
   - [tldr](https://github.com/tldr-pages/tldr)
   - [tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
-  - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos]
+  - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos] ⭕️
 - [ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 \| An Aria2 GUI for Windows & Linux & MacOS
@@ -197,6 +185,9 @@
 - [netboot.xyz](https://netboot.xyz/) :: netboot.xyz
 - [netboot.xyz](https://github.com/antonym/netboot.xyz) : Network bootable operating system installer based on iPXE
 - [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) : Display feedback of terminal in the 🍏 Touchbar
+- [Micro8](https://github.com/Micropoor/Micro8) : Gitbook
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) : 😋 技术面试必备基础知识
+- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 
 ## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
@@ -216,8 +207,9 @@
     > ![last-commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg)
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
-- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) : 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [alim0x/Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) : 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) : 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) : 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## # Badges and Icons and Fonts
 
@@ -251,11 +243,10 @@
 
 - [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/)
 
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
-- [nerd-fonts/readme.md](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#font-installation) nerd-fonts/readme.md at master · ryanoasis/nerd-fonts
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack ⭕️
+- [nerd-fonts/patched-fonts/Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts ⭕️
 - [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
-- [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/) Hack | A typeface designed for source code
-- [nerd-fonts/patched-fonts/Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts
+- [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 - [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
 - [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 
