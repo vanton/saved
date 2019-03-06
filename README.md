@@ -11,6 +11,11 @@
 
 
 
+
+### March 6, 2019 
+
+- [chalk/chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right
+
 ### March 5, 2019 
 
 - [ivanseidel/node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
