@@ -6,17 +6,12 @@
 
 ## ---
 
-
-
-
-
-
-### March 5, 2019 
+### March 5, 2019
 
 - [ivanseidel/node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
 - [baryon/tracer](https://github.com/baryon/tracer) : A powerful and customizable logging library for node.js
 
-### March 1, 2019 
+### March 1, 2019
 
 - [dylanbai8/frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
 - [mmastrac/iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) : Automatic ZModem support for iTerm 2
@@ -30,67 +25,6 @@
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit#demo) : Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-### February 28, 2019 
-
-- [trailofbits/algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
-- [terkelg/prompts](https://github.com/terkelg/prompts) : ❯ Lightweight, beautiful and user-friendly interactive prompts.
-- [videojs/video.js](https://github.com/videojs/video.js) : Video.js - open source HTML5 & Flash video player
-- [cli-table/cli-table3](https://github.com/cli-table/cli-table3) : Pretty unicode tables for the command line
-- [Marak/colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console
-- [tj/commander.js](https://github.com/tj/commander.js) : node.js command-line interfaces made easy
-- [tj/commander.js](https://github.com/tj/commander.js) : node.js command-line interfaces made easy
-
-### February 27, 2019 
-
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) : Stylish, intuitive and user-friendly prompts.
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) : A collection of common interactive command line user interfaces.
-- [EvilCult/moviecatcher](https://github.com/EvilCult/moviecatcher) : 电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。
-- [Learning D3.JS - 十二月咖啡馆](http://d3.decembercafe.org/index.html) Learning D3.JS - 十二月咖啡馆
-- [D3.js入门教程_D3.js开发中文手册[PDF]下载-极客学院Wiki](http://wiki.jikexueyuan.com/project/d3wiki/) D3.js入门教程_D3.js开发中文手册[PDF]下载-极客学院Wiki
-- [klaussinani/signale](https://github.com/klaussinani/signale) : 👋 Hackable console logger
-
-### February 22, 2019 
-
-- [koekeishiya/chunkwm](https://github.com/koekeishiya/chunkwm) : Tiling window manager for macOS based on plugin architecture
-
-### February 18, 2019
-
-- [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
-- [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/) Hack | A typeface designed for source code
-- [nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts
-- [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
-- [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
-- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) : 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [alim0x/Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) : 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
-
-### January 30, 2019
-
-- [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
-- [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) : Display feedback of terminal in the 🍏 Touchbar
-- [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
-
-### January 29, 2019
-
-- [nerd-fonts/readme.md at master · ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#font-installation) nerd-fonts/readme.md at master · ryanoasis/nerd-fonts
-- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
-- [athityakumar/colorls](https://github.com/athityakumar/colorls) : A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : Simplified and community-driven man pages
-
-### January 28, 2019
-
-- [sharkdp/fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
-- [p-e-w/maybe](https://github.com/p-e-w/maybe) : :rabbit2: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
-- [netboot.xyz](https://netboot.xyz/) :: netboot.xyz
-- [antonym/netboot.xyz](https://github.com/antonym/netboot.xyz) : Network bootable operating system installer based on iPXE
-- [Fink - Home](http://www.finkproject.org/) Fink - Home
-- [The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)](https://brew.sh/) The missing package manager for macOS (or Linux) — The missing package manager for macOS (or Linux)
-- [psyrendust/alf](https://github.com/psyrendust/alf) : Alf is an out of this world super fast and configurable framework for zsh; it's modeled after Prezto and Antigen while utilizing Oh My Zsh under the covers; and offers standard defaults, aliases, functions, auto completion, automated updates and installable prompt themes and plugins.
-- [getantibody/antibody](https://github.com/getantibody/antibody) : The fastest shell plugin manager.
-- [zsh-users/antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
-- [zplug/zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
-- [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k) : The most awesome Powerline theme for ZSH around!
-
 ### 以上未整理
 
 ---
@@ -103,6 +37,9 @@
 - [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind`
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [D3.js入门教程](http://wiki.jikexueyuan.com/project/d3wiki/) D3.js开发中文手册[PDF]下载-极客学院Wiki
+- [Learning D3.JS - 十二月咖啡馆](http://d3.decembercafe.org/index.html)
+- [video.js](https://github.com/videojs/video.js) : Video.js - open source HTML5 & Flash video player
 
 ## # Node.js
 
@@ -112,6 +49,12 @@
 - [ora](https://github.com/sindresorhus/ora) : 在终端显示 spinner
 - [listr](https://github.com/samverschueren/listr) : Terminal task list
 - [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) : An oh-my-zsh shell theme based on the Powerline Vim plugin
+- [enquirer](https://github.com/enquirer/enquirer) : Stylish, intuitive and user-friendly prompts.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) : A collection of common interactive command line user interfaces.
+- [colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console
+- [commander.js](https://github.com/tj/commander.js) : node.js command-line interfaces made easy
+- [cli-table3](https://github.com/cli-table/cli-table3) : Pretty unicode tables for the command line
+- [prompts](https://github.com/terkelg/prompts) : ❯ Lightweight, beautiful and user-friendly interactive prompts.
 
 ## # PHP
 
@@ -128,6 +71,7 @@
 - [pipenv](https://github.com/pypa/pipenv) : 友好的 `pip` 管理工具，类似 (`bundler`, `composer`, `npm`, `cargo`, `yarn`, etc.)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms.
 - [vibora](https://github.com/vibora-io/vibora) : 快速的 Python web framework
+- [moviecatcher](https://github.com/EvilCult/moviecatcher) : 电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。
 
 ## # Shell
 
@@ -140,6 +84,7 @@
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting.svg)
 - [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字 ⭕️
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
     > ![last-commit](https://img.shields.io/github/last-commit/paoloantinori/hhighlighter.svg)
 - [htop](https://github.com/hishamhm/htop) : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`. ⭕️
 - [glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
@@ -153,26 +98,35 @@
     pip install httpie
     ```
 
+- [brew.sh](https://brew.sh/) The missing package manager for macOS (or Linux) ⭕️
+- [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux ⭕️
+
+- [antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
+- [ccat](https://github.com/jingweno/ccat) : 🌈 彩色化 `cat`
+- [fd](https://github.com/sharkdp/fd) : A simple, fast and user-friendly alternative to 'find'
+- [Fink](http://www.finkproject.org/) The Fink project wants to bring the full world of Unix Open Source software to Darwin and Mac OS X.
 - [goaccess](https://github.com/allinurl/goaccess) : 实时 web 日志监控
 - [has](https://github.com/kdabir/has) : 检查命令是否存在
 - [histstat](https://github.com/vesche/histstat) : history for `netstat`
+- [jq](https://stedolan.github.io/jq/) : 格式化输出 `json` ⭕️
 - [k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
+- [mtr](https://github.com/traviscross/mtr) : 替代 `traceroute` 和 `ping` 的网络工具
+- [ngrep](https://github.com/jpr5/ngrep/) : 用于网络的 `grep` 工具
+- [powerlevel9k](https://github.com/bhilburn/powerlevel9k) : 主题
 - [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
 - [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
-- [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
-- [ccat](https://github.com/jingweno/ccat) : 🌈 彩色化 `cat`
-- [mtr](https://github.com/traviscross/mtr) : 替代 `traceroute` 和 `ping` 的网络工具
-- [jq](https://stedolan.github.io/jq/) : 格式化输出 `json` ⭕️
-- [ngrep](https://github.com/jpr5/ngrep/) : 用于网络的 `grep` 工具
 - [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) ⭕️
+- [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
+- [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
+- [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
 
 ## # Headless Chrome
 
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless] ⭕️
-    > ![last-commit](https://img.shields.io/github/last-commit/GoogleChrome/puppeteer.svg) ![release-date](https://img.shields.io/github/release-date/GoogleChrome/puppeteer.svg) ![version](https://img.shields.io/github/release/GoogleChrome/puppeteer.svg) ![commits-since](https://img.shields.io/github/commits-since/GoogleChrome/puppeteer/v1.11.0.svg)
-    >> ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
+    <!-- > ![last-commit](https://img.shields.io/github/last-commit/GoogleChrome/puppeteer.svg) ![release-date](https://img.shields.io/github/release-date/GoogleChrome/puppeteer.svg) ![version](https://img.shields.io/github/release/GoogleChrome/puppeteer.svg) ![commits-since](https://img.shields.io/github/commits-since/GoogleChrome/puppeteer/v1.11.0.svg) -->
+    > ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
 - [rize](https://github.com/g-plane/rize) : puppeteer 包装
     > 代码比较简洁，有点问题，还需要评估。
 - [Rize 文档](https://rize.js.org/zh-CN/getting-started.html)
@@ -184,17 +138,18 @@
 - [thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
 - ~~[selenium](https://github.com/SeleniumHQ/selenium) : 停止更新~~
-    > ![last-commit](https://img.shields.io/github/last-commit/SeleniumHQ/selenium.svg) ![release-date](https://img.shields.io/github/release-date/SeleniumHQ/selenium.svg) ![version](https://img.shields.io/github/release/SeleniumHQ/selenium.svg) ![commits-since](https://img.shields.io/github/commits-since/SeleniumHQ/selenium/selenium-3.141.59.svg)
-    >> ![npm](https://nodei.co/npm/selenium.png?compact=true)
+    <!-- > ![last-commit](https://img.shields.io/github/last-commit/SeleniumHQ/selenium.svg) ![release-date](https://img.shields.io/github/release-date/SeleniumHQ/selenium.svg) ![version](https://img.shields.io/github/release/SeleniumHQ/selenium.svg) ![commits-since](https://img.shields.io/github/commits-since/SeleniumHQ/selenium/selenium-3.141.59.svg) -->
+    > ![npm](https://nodei.co/npm/selenium.png?compact=true)
 - ~~[casperjs](https://github.com/casperjs/casperjs) : 停止更新~~
-    > ![last-commit](https://img.shields.io/github/last-commit/casperjs/casperjs.svg) ![release-date](https://img.shields.io/github/release-date/casperjs/casperjs.svg) ![version](https://img.shields.io/github/release/casperjs/casperjs.svg) ![commits-since](https://img.shields.io/github/commits-since/casperjs/casperjs/1.1.4-2.svg)
-    >> ![npm](https://nodei.co/npm/phantomjs-prebuilt.png?compact=true)
-    >> ![npm](https://nodei.co/npm/casperjs.png?compact=true)
+    <!-- > ![last-commit](https://img.shields.io/github/last-commit/casperjs/casperjs.svg) ![release-date](https://img.shields.io/github/release-date/casperjs/casperjs.svg) ![version](https://img.shields.io/github/release/casperjs/casperjs.svg) ![commits-since](https://img.shields.io/github/commits-since/casperjs/casperjs/1.1.4-2.svg) -->
+    > ![npm](https://nodei.co/npm/phantomjs-prebuilt.png?compact=true)
+    > ![npm](https://nodei.co/npm/casperjs.png?compact=true)
 
 ## # Proxy
 
 - [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
+- [algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
 
 ## # Chrome Extensions ![chrome]
 
@@ -234,6 +189,9 @@
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 \| An Aria2 GUI for Windows & Linux & MacOS
 - [aria2desktop](https://github.com/wapznw/aria2desktop) : 一个漂亮的aria2的UI界面 aria2ui, aria2gui
+- [netboot.xyz](https://netboot.xyz/) :: netboot.xyz
+- [netboot.xyz](https://github.com/antonym/netboot.xyz) : Network bootable operating system installer based on iPXE
+- [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) : Display feedback of terminal in the 🍏 Touchbar
 
 ## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
@@ -253,8 +211,10 @@
     > ![last-commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg)
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
+- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) : 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [alim0x/Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) : 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 
-## # Badges and Icons
+## # Badges and Icons and Fonts
 
 - [shields.io](https://shields.io) 状态图片 ![badge](https://img.shields.io/badge/subject-status-red.svg?style=flat&logo=appveyor)
 
@@ -285,6 +245,14 @@
 - [New Bancomail - SVG Icons](http://elrumordelaluz.github.io/newbancomail/svg.html)
 
 - [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/)
+
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
+- [nerd-fonts/readme.md](https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#font-installation) nerd-fonts/readme.md at master · ryanoasis/nerd-fonts
+- [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
+- [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/) Hack | A typeface designed for source code
+- [nerd-fonts/patched-fonts/Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts
+- [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
+- [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 
 <!-- 变量 -->
 
