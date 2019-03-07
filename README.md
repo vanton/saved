@@ -16,6 +16,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
 - [mas-cli/mas](https://github.com/mas-cli/mas) : Mac App Store command line interface
 - [SeasX/SeasLog](https://github.com/SeasX/SeasLog) : An effective,fast,stable log extension for PHP.http://pecl.php.net/package/SeasLog http://php.net/SeasLog
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 
 ### March 6, 2019 
 
