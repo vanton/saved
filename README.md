@@ -7,6 +7,11 @@
 ## tmp
 
 
+
+### March 7, 2019 
+
+- [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7) CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog
+
 ### March 6, 2019 
 
 - [91yun/serverspeeder](https://github.com/91yun/serverspeeder) : 锐速破解版
