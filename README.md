@@ -20,6 +20,7 @@
 - [adamschwartz/log](https://github.com/adamschwartz/log) : Console.log with style.
 - [How can I pretty-print JSON using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript/7220510#7220510) How can I pretty-print JSON using JavaScript? - Stack Overflow
 - [creationix/nvm](https://github.com/creationix/nvm) : Node Version Manager - Simple bash script to manage multiple active node.js versions
+- [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) : This project is intended to protest against the police in Japan
 
 ### March 6, 2019 
 
