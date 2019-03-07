@@ -26,6 +26,7 @@
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) : My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [flutter/flutter](https://github.com/flutter/flutter) : Flutter makes it easy and fast to build beautiful mobile apps.
 - [pomber/git-history](https://github.com/pomber/git-history) : Quickly browse the history of a file from any git repository
+- [toddmotto/public-apis](https://github.com/toddmotto/public-apis) : A collective list of free APIs for use in software and web development.
 
 ### March 6, 2019 
 
