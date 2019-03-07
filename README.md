@@ -28,6 +28,7 @@
 - [pomber/git-history](https://github.com/pomber/git-history) : Quickly browse the history of a file from any git repository
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) : A collective list of free APIs for use in software and web development.
 - [didi/DoraemonKit](https://github.com/didi/DoraemonKit) : 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
+- [google/clusterfuzz](https://github.com/google/clusterfuzz) : Scalable fuzzing infrastructure.
 
 ### March 6, 2019 
 
