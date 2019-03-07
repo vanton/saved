@@ -14,6 +14,7 @@
 - [ringohub/sh-spinner](https://github.com/ringohub/sh-spinner) : Simplest spinner in bash implementation.
 - [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : zsh syntax highlighting with dircolors in realtime
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
+- [mas-cli/mas](https://github.com/mas-cli/mas) : Mac App Store command line interface
 
 ### March 6, 2019 
 
