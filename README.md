@@ -23,6 +23,7 @@
 - [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) : This project is intended to protest against the police in Japan
 - [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) : 关于python的面试题
 - [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python各大网站登陆方式与一些简单的爬虫，希望对你们有所帮助❤️
+- [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) : My simple Swiss Army knife for http/https troubleshooting and profiling.
 
 ### March 6, 2019 
 
