@@ -13,6 +13,7 @@
 - [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7) CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog
 - [ringohub/sh-spinner](https://github.com/ringohub/sh-spinner) : Simplest spinner in bash implementation.
 - [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : zsh syntax highlighting with dircolors in realtime
+- [stark/Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
 
 ### March 6, 2019 
 
