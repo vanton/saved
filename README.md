@@ -15,6 +15,7 @@
 - [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : zsh syntax highlighting with dircolors in realtime
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
 - [mas-cli/mas](https://github.com/mas-cli/mas) : Mac App Store command line interface
+- [SeasX/SeasLog](https://github.com/SeasX/SeasLog) : An effective,fast,stable log extension for PHP.http://pecl.php.net/package/SeasLog http://php.net/SeasLog
 
 ### March 6, 2019 
 
