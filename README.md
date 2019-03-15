@@ -12,6 +12,7 @@
 ### March 15, 2019 
 
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
+- [youzan/vant-weapp](https://github.com/youzan/vant-weapp) : 轻量、可靠的小程序 UI 组件库
 
 ### March 7, 2019 
 
