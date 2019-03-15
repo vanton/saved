@@ -8,6 +8,11 @@
 
 
 
+
+### March 15, 2019 
+
+- [josdejong/mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
+
 ### March 7, 2019 
 
 - [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7) CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog
