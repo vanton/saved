@@ -13,6 +13,7 @@
 
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) : 轻量、可靠的小程序 UI 组件库
+- [youzan/vant](https://github.com/youzan/vant) : Lightweight Mobile UI Components built on Vue
 
 ### March 7, 2019 
 
