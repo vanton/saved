@@ -14,6 +14,7 @@
 
 - [iawia002/annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
 - [antvis/g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
+- [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) : 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 
 ### March 15, 2019 
 
