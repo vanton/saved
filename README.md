@@ -13,6 +13,7 @@
 ### March 19, 2019 
 
 - [iawia002/annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
+- [antvis/g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
 
 ### March 15, 2019 
 
