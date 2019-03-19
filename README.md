@@ -16,6 +16,7 @@
 - [antvis/g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) : 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) List of languages that compile to JS · jashkenas/coffeescript Wiki
+- [G2 基础图表类库 - AntV](https://antv.alipay.com/zh-cn/g2/3.x/index.html) G2 基础图表类库 - AntV
 
 ### March 15, 2019 
 
