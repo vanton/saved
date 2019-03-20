@@ -17,6 +17,7 @@
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
 - [深入理解 TypeScript | 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) 深入理解 TypeScript | 深入理解 TypeScript
 - [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
+- [全国电视直播---bddn.cn](http://bddn.cn/zb.htm) 全国电视直播---bddn.cn
 
 ### March 19, 2019 
 
