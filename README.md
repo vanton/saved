@@ -14,6 +14,7 @@
 ### March 20, 2019 
 
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
+- [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
 
 ### March 19, 2019 
 
