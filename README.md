@@ -10,6 +10,11 @@
 
 
 
+
+### March 20, 2019 
+
+- [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
+
 ### March 19, 2019 
 
 - [iawia002/annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
