@@ -18,6 +18,7 @@
 - [深入理解 TypeScript | 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) 深入理解 TypeScript | 深入理解 TypeScript
 - [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
 - [全国电视直播---bddn.cn](http://bddn.cn/zb.htm) 全国电视直播---bddn.cn
+- [果汁排行榜 - 各类榜单排名大全](http://guozhivip.com/rank/) 果汁排行榜 - 各类榜单排名大全
 
 ### March 19, 2019 
 
