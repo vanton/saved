@@ -16,6 +16,7 @@
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
 - [深入理解 TypeScript | 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) 深入理解 TypeScript | 深入理解 TypeScript
+- [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
 
 ### March 19, 2019 
 
