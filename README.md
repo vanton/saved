@@ -18,6 +18,7 @@
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) : Check your npm module for unused dependencies
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) : Make images smaller using best-in-class codecs, right in the browser.
+- [lyricat/wechat-format](https://github.com/lyricat/wechat-format) : 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 
 ### March 20, 2019 
 
