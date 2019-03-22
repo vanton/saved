@@ -15,6 +15,7 @@
 ### March 22, 2019 
 
 - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A Zsh prompt for Astronauts
+- [FullHuman/purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
 
 ### March 20, 2019 
 
