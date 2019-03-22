@@ -17,6 +17,7 @@
 - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A Zsh prompt for Astronauts
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) : Check your npm module for unused dependencies
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) : Make images smaller using best-in-class codecs, right in the browser.
 
 ### March 20, 2019 
 
