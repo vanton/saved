@@ -11,6 +11,11 @@
 
 
 
+
+### March 22, 2019 
+
+- [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A Zsh prompt for Astronauts
+
 ### March 20, 2019 
 
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
