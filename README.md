@@ -16,6 +16,7 @@
 
 - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A Zsh prompt for Astronauts
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
+- [depcheck/depcheck](https://github.com/depcheck/depcheck) : Check your npm module for unused dependencies
 
 ### March 20, 2019 
 
