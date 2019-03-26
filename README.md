@@ -19,6 +19,7 @@
 - [javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgithub.com%2Fdavatorium%2Frofi) PageSpeed Insights
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
+- [github/gitignore](https://github.com/github/gitignore) : A collection of useful .gitignore templates
 
 ### March 25, 2019 
 
