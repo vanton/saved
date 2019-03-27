@@ -14,6 +14,11 @@
 
 
 
+
+### March 27, 2019 
+
+- [bestony/logoly](https://github.com/bestony/logoly) : A Pornhub Flavour Logo Generator
+
 ### March 26, 2019 
 
 - [javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms
