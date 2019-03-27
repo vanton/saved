@@ -18,6 +18,7 @@
 ### March 27, 2019 
 
 - [bestony/logoly](https://github.com/bestony/logoly) : A Pornhub Flavour Logo Generator
+- [Tnfe/TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
 
 ### March 26, 2019 
 
