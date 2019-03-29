@@ -27,6 +27,7 @@
 - [Ant Design of Vue - Ant Design Vue](https://vue.ant.design/docs/vue/introduce/) Ant Design of Vue - Ant Design Vue
 - [ant-design/ant-design](https://github.com/ant-design/ant-design/) : 🌈 A UI Design Language
 - [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/) Vue.js Material Component Framework — Vuetify.js
+- [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/) Vue.js Material Component Framework — Vuetify.js
 
 ### March 27, 2019 
 
