@@ -22,6 +22,7 @@
 - [peachdocs/peach](https://github.com/peachdocs/peach) : Peach is a web server for multi-language, real-time synchronization and searchable documentation.
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) : 955 不加班的公司名单
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) : ⚡ Zero config GUI for Jest
+- [codercom/code-server](https://github.com/codercom/code-server) : Run VS Code on a remote server.
 
 ### March 27, 2019 
 
