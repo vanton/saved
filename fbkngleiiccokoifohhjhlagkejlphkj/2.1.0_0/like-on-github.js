@@ -102,26 +102,26 @@
 
         // Templates
         MAIN_TEMPLATE: '<div class="logh">' +
-        '<h3>Like On GitHub</h3>' +
-        '<div class="clogl">' +
-        '<div class="lbllogh"><span class="reqlogh">*</span>Title (label for the link)</div>' +
-        '<input type="text" name="title">' +
-        '</div>' +
-        '<div class="clogl">' +
-        '<input type="hidden" name="url">' +
-        '</div>' +
-        '<div class="clogl">' +
-        '<div class="lbllogh"><span class="reqlogh">*</span>Comment (commit message)</div>' +
-        '<textarea name="comment"></textarea>' +
-        '</div>' +
-        '<div id="action-btns">' +
-        '<div class="btn btn-primary" id="logh_btn_save">Save</div>' +
-        '<div class="btn" id="logh_btn_cancel">Cancel</div>' +
-        '</div>' +
-        '<div class="elogh hlogh">' +
-        '<p></p>' +
-        '</div>' +
-        '</div>',
+            '<h3>Like On GitHub</h3>' +
+            '<div class="clogl">' +
+            '<div class="lbllogh"><span class="reqlogh">*</span>Title (label for the link)</div>' +
+            '<input type="text" name="title">' +
+            '</div>' +
+            '<div class="clogl">' +
+            '<input type="hidden" name="url">' +
+            '</div>' +
+            '<div class="clogl">' +
+            '<div class="lbllogh"><span class="reqlogh">*</span>Comment (commit message)</div>' +
+            '<textarea name="comment"></textarea>' +
+            '</div>' +
+            '<div id="action-btns">' +
+            '<div class="btn btn-primary" id="logh_btn_save">Save</div>' +
+            '<div class="btn" id="logh_btn_cancel">Cancel</div>' +
+            '</div>' +
+            '<div class="elogh hlogh">' +
+            '<p></p>' +
+            '</div>' +
+            '</div>',
 
         // References to DOM elements
         EX_COTAINER: '.logh',
@@ -166,7 +166,9 @@
                 callback(activeTab);
             }
 
-            chrome.extension.sendMessage({type: 'getActiveTab'}, function (tab) {
+            chrome.extension.sendMessage({
+                type: 'getActiveTab'
+            }, function (tab) {
 
                 if (!tab) {
                     return false;
@@ -300,7 +302,7 @@
          */
         getDateHeader: function () {
             // 标题建议前后各有一个空行
-            return `\n### ${Repo.getCurrentDate()} \n\n`;
+            return `### ${Repo.getCurrentDate()}\n\n`;
         },
 
         /**
@@ -342,7 +344,7 @@
      * @returns {{loadExtension: loadExtension, bindUI: bindUI}}
      * @constructor
      */
-    function LikeOnGithub() {
+    function LikeOnGithub () {
 
         /**
          * Appends the tab switcher HTML to the $container
@@ -350,7 +352,7 @@
          * @param $container
          * @returns {*}
          */
-        function appendLikeOnGithubHtml($container) {
+        function appendLikeOnGithubHtml ($container) {
             if (!($container instanceof jQuery)) {
                 $container = $($container);
             }
