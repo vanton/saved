@@ -6,109 +6,6 @@
 
 ## tmp
 
-### April 1, 2019
-
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-### March 29, 2019
-
-- [gogs/gogs](https://github.com/gogs/gogs) : Gogs is a painless self-hosted Git service.
-- [peachdocs/peach](https://github.com/peachdocs/peach) : Peach is a web server for multi-language, real-time synchronization and searchable documentation.
-- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) : 955 不加班的公司名单
-- [Raathigesh/majestic](https://github.com/Raathigesh/majestic) : ⚡ Zero config GUI for Jest
-- [codercom/code-server](https://github.com/codercom/code-server) : Run VS Code on a remote server.
-- [free-programming-books/free-programming-books-zh.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) free-programming-books/free-programming-books-zh.md at master · EbookFoundation/free-programming-books
-- [Ant Design of Vue - Ant Design Vue](https://vue.ant.design/docs/vue/introduce/) Ant Design of Vue - Ant Design Vue
-- [ant-design/ant-design](https://github.com/ant-design/ant-design/) : 🌈 A UI Design Language
-- [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/) Vue.js Material Component Framework — Vuetify.js
-
-### March 27, 2019
-
-- [bestony/logoly](https://github.com/bestony/logoly) : A Pornhub Flavour Logo Generator
-- [Tnfe/TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
-- [todayqq/PHPerInterviewGuide](https://github.com/todayqq/PHPerInterviewGuide) : 这应该是史上最全、最具有指导意义的 PHPer 面试指南
-
-### March 26, 2019
-
-- [javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgithub.com%2Fdavatorium%2Frofi) PageSpeed Insights
-- [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
-- [github/gitignore](https://github.com/github/gitignore) : A collection of useful .gitignore templates
-- [tc39/proposals](https://github.com/tc39/proposals) : Tracking ECMAScript Proposals
-
-### March 25, 2019
-
-- [nestjs/nest](https://github.com/nestjs/nest) : A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [cnlh/nps](https://github.com/cnlh/nps) : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。
-
-### March 22, 2019
-
-- [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A Zsh prompt for Astronauts
-- [FullHuman/purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
-- [depcheck/depcheck](https://github.com/depcheck/depcheck) : Check your npm module for unused dependencies
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) : Make images smaller using best-in-class codecs, right in the browser.
-- [lyricat/wechat-format](https://github.com/lyricat/wechat-format) : 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
-
-### March 20, 2019
-
-- [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
-- [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
-- [深入理解 TypeScript | 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) 深入理解 TypeScript | 深入理解 TypeScript
-- [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
-- [全国电视直播---bddn.cn](http://bddn.cn/zb.htm) 全国电视直播---bddn.cn
-- [果汁排行榜 - 各类榜单排名大全](http://guozhivip.com/rank/) 果汁排行榜 - 各类榜单排名大全
-- [Readhub](https://readhub.cn/topics) Readhub
-- [全球直播频道-高清无插件在线电视直播-TVVTVV.com](http://tvvtvv.com/) 全球直播频道-高清无插件在线电视直播-TVVTVV.com
-- [猿学 - 你所学的，不仅是技术](http://www.yuanxue365.com/) 猿学 - 你所学的，不仅是技术
-- [Free stock videos · Pexels Videos](https://www.pexels.com/videos/) Free stock videos · Pexels Videos
-- [免费的在线文档翻译器——保留原文档的排版（Word、PDF、Excel、Powerpoint、OpenOffice、文本）](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器——保留原文档的排版（Word、PDF、Excel、Powerpoint、OpenOffice、文本）
-
-### March 19, 2019
-
-- [iawia002/annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
-- [antvis/g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
-- [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) : 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
-- [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) List of languages that compile to JS · jashkenas/coffeescript Wiki
-- [G2 基础图表类库 - AntV](https://antv.alipay.com/zh-cn/g2/3.x/index.html) G2 基础图表类库 - AntV
-- [JavaScript 教程 - 网道](https://wangdoc.com/javascript/index.html) JavaScript 教程 - 网道
-
-### March 15, 2019
-
-- [josdejong/mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
-- [youzan/vant-weapp](https://github.com/youzan/vant-weapp) : 轻量、可靠的小程序 UI 组件库
-- [youzan/vant](https://github.com/youzan/vant) : Lightweight Mobile UI Components built on Vue
-- [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-- [第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/5) 第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question
-
-### March 7, 2019
-
-- [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7) CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog
-- [ringohub/sh-spinner](https://github.com/ringohub/sh-spinner) : Simplest spinner in bash implementation.
-- [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : zsh syntax highlighting with dircolors in realtime
-- [stark/Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
-- [mas](https://github.com/mas-cli/mas) : Mac App Store command line interface
-- [SeasLog](https://github.com/SeasX/SeasLog) : An effective,fast,stable log extension for PHP.<http://pecl.php.net/package/SeasLog> <http://php.net/SeasLog>
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-- [adamschwartz/log](https://github.com/adamschwartz/log) : Console.log with style.
-- [How can I pretty-print JSON using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript/7220510#7220510) How can I pretty-print JSON using JavaScript? - Stack Overflow
-- [creationix/nvm](https://github.com/creationix/nvm) : Node Version Manager - Simple bash script to manage multiple active node.js versions
-- [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) : This project is intended to protest against the police in Japan
-- [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) : 关于python的面试题
-- [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python各大网站登陆方式与一些简单的爬虫，希望对你们有所帮助❤️
-- [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) : My simple Swiss Army knife for http/https troubleshooting and profiling.
-- [flutter/flutter](https://github.com/flutter/flutter) : Flutter makes it easy and fast to build beautiful mobile apps.
-- [pomber/git-history](https://github.com/pomber/git-history) : Quickly browse the history of a file from any git repository
-- [toddmotto/public-apis](https://github.com/toddmotto/public-apis) : A collective list of free APIs for use in software and web development.
-- [didi/DoraemonKit](https://github.com/didi/DoraemonKit) : 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
-- [google/clusterfuzz](https://github.com/google/clusterfuzz) : Scalable fuzzing infrastructure.
-- [proYang/outils](https://github.com/proYang/outils) : 前端业务代码工具库
-- [marko-js/marko](https://github.com/marko-js/marko) : A friendly (and fast!) UI library from eBay that makes building web apps fun
-
-### March 6, 2019
-
-- [91yun/serverspeeder](https://github.com/91yun/serverspeeder) : 锐速破解版
-
 ### 以上未整理
 
 ---
@@ -127,6 +24,26 @@
 - [material-kit](https://github.com/creativetimofficial/material-kit#demo) : Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [cleave.js](https://github.com/nosir/cleave.js) : Format input text content when you are typing...
 - [ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
+- [outils](https://github.com/proYang/outils) : 前端业务代码工具库
+- [How can I pretty-print JSON using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript/7220510#7220510)
+- [driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/5)
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [vant-weapp](https://github.com/youzan/vant-weapp) : 轻量、可靠的小程序 UI 组件库
+- [vant](https://github.com/youzan/vant) : Lightweight Mobile UI Components built on Vue
+- [mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
+- [JavaScript 教程 - 网道](https://wangdoc.com/javascript/index.html)
+- [g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
+- [G2 基础图表类库 - AntV](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
+- [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
+- [es6tutorial](https://github.com/ruanyf/es6tutorial) : 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [javascript-algorithms/README.zh-CN.md](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+- [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
+- [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/)
+- [ant-design](https://github.com/ant-design/ant-design/) : 🌈 A UI Design Language
+- [Ant Design of Vue - Ant Design Vue](https://vue.ant.design/docs/vue/introduce/)
 
 ## # Node.js
 
@@ -146,6 +63,12 @@
 - [colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console
 - [chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right ⭕️
 - [node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
+- [nvm](https://github.com/creationix/nvm) : Node Version Manager - Simple `bash` script to manage multiple active node.js versions  ⭕️
+- [depcheck](https://github.com/depcheck/depcheck) : Check your `npm` module for unused dependencies
+- [purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
+- [nest](https://github.com/nestjs/nest) : A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [logoly](https://github.com/bestony/logoly) : A Pornhub Flavour Logo Generator
+- [majestic](https://github.com/Raathigesh/majestic) : ⚡ Zero config GUI for Jest
 
 ## # PHP
 
@@ -154,6 +77,8 @@
 - [xhprof](https://github.com/preinheimer/xhprof) : php 性能工具
 - [Linux下PHP7使用xhprof分析性能](https://blog.csdn.net/lvchengbo/article/details/52849179) : Linux 下 PHP7 使用 `xhprof` 分析性能
 - [php-language-server](https://github.com/felixfbecker/php-language-server#installation) : PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
+- [SeasLog](https://github.com/SeasX/SeasLog) : An effective,fast,stable log extension for PHP.<http://pecl.php.net/package/SeasLog> <http://php.net/SeasLog>
+- [PHPerInterviewGuide](https://github.com/todayqq/PHPerInterviewGuide) : 这应该是史上最全、最具有指导意义的 PHPer 面试指南
 
 ## # Python
 
@@ -164,6 +89,10 @@
 - [vibora](https://github.com/vibora-io/vibora) : 快速的 Python web framework
 - [moviecatcher](https://github.com/EvilCult/moviecatcher) : 电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。
 - [bullet](https://github.com/Mckinsey666/bullet) : 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
+- [clusterfuzz](https://github.com/google/clusterfuzz) : Scalable fuzzing infrastructure.
+- [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python各大网站登陆方式与一些简单的爬虫，希望对你们有所帮助❤️
+- [python_interview_question](https://github.com/kenwoodjw/python_interview_question) : 关于python的面试题
+- [flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
 
 ## # Shell
 
@@ -173,8 +102,9 @@
     > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
 - [z](https://github.com/rupa/z) : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/rupa/z.svg) ![release-date](https://img.shields.io/github/release-date/rupa/z.svg) ![version](https://img.shields.io/github/release/rupa/z.svg) ![commits-since](https://img.shields.io/github/commits-since/rupa/z/v1.9.svg)
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : zsh 高亮命令显示 ⭕️
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : `zsh` 高亮命令显示 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting.svg)
+- [zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : `zsh` syntax highlighting with dircolors in realtime
 - [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字 ⭕️
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
     > ![last-commit](https://img.shields.io/github/last-commit/paoloantinori/hhighlighter.svg)
@@ -211,22 +141,29 @@
 - [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
 - [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
 - [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) ⭕️
-- [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for Zsh
-- [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for zsh
+- [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for `zsh`
+- [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for `zsh`
+- [htrace.sh](https://github.com/trimstray/htrace.sh) : My simple Swiss Army knife for http/https troubleshooting and profiling.
+- [log](https://github.com/adamschwartz/log) : `console.log` with style.
+- [Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
+- [sh-spinner](https://github.com/ringohub/sh-spinner) : Simplest spinner in `bash` implementation. ⭕️
+- [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7)
+- [annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
+- [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
 
 ## # Headless Chrome
 
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless] ⭕️
     <!-- > ![last-commit](https://img.shields.io/github/last-commit/GoogleChrome/puppeteer.svg) ![release-date](https://img.shields.io/github/release-date/GoogleChrome/puppeteer.svg) ![version](https://img.shields.io/github/release/GoogleChrome/puppeteer.svg) ![commits-since](https://img.shields.io/github/commits-since/GoogleChrome/puppeteer/v1.11.0.svg) -->
     > ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
-- [rize](https://github.com/g-plane/rize) : puppeteer 包装
+- [rize](https://github.com/g-plane/rize) : `puppeteer` 包装
     > 代码比较简洁，有点问题，还需要评估。
 - [Rize 文档](https://rize.js.org/zh-CN/getting-started.html)
-- [pyppeteer](https://github.com/miyakogi/pyppeteer) : puppeteer 的 python 实现
-- [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) : puppeteer 不支持验证代理，需要转成匿名代理
+- [pyppeteer](https://github.com/miyakogi/pyppeteer) : `puppeteer` 的 python 实现
+- [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) : `puppeteer` 不支持验证代理，需要转成匿名代理
 - [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理 ⭕️
     > ![npm](https://nodei.co/npm/proxy-chain.png?compact=true)
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 puppeteer 脚本
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 `puppeteer` 脚本
 - [thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
 - ~~[selenium](https://github.com/SeleniumHQ/selenium) : 停止更新~~
@@ -241,11 +178,13 @@
 
 - [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
-- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS ⭕️
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own `IPsec` VPN server, with `IPsec`/`L2TP` and Cisco `IPsec` on Ubuntu, Debian and CentOS ⭕️
 
-- [algo](https://github.com/trailofbits/algo) : Set up a personal IPSEC VPN in the cloud
+- [algo](https://github.com/trailofbits/algo) : Set up a personal `IPsec` VPN in the cloud
 - [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 - [frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
+- [serverspeeder](https://github.com/91yun/serverspeeder) : 锐速破解版，代理加速，实际对 vpn 没有作用。
+- [nps](https://github.com/cnlh/nps) : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。 ⭕️
 
 ## # Chrome Extensions ![chrome]
 
@@ -261,10 +200,13 @@
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ⭕️
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
+- [git-history](https://github.com/pomber/git-history) : Quickly browse the history of a file from any `git` repository
 
-## # Swift
+## # Mobile
 
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) : 神奇的二维码生成工具，可以使用任意图片背景，可以生成 gif 动图。
+- [DoraemonKit](https://github.com/didi/DoraemonKit) : 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
+- [flutter](https://github.com/flutter/flutter) : Flutter makes it easy and fast to build beautiful mobile apps.
 
 ## # Doker
 
@@ -288,9 +230,33 @@
 - [netboot.xyz](https://netboot.xyz/) :: netboot.xyz
 - [netboot.xyz](https://github.com/antonym/netboot.xyz) : Network bootable operating system installer based on iPXE
 - [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) : Display feedback of terminal in the 🍏 Touchbar
+- [mas](https://github.com/mas-cli/mas) : Mac App Store command line interface
+- [免费的在线文档翻译器——保留原文档的排版（Word、PDF、Excel、Powerpoint、OpenOffice、文本）](https://www.onlinedoctranslator.com/)
+- [wechat-format](https://github.com/lyricat/wechat-format) : 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) : Make images smaller using best-in-class codecs, right in the browser.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgithub.com%2Fdavatorium%2Frofi)
+- [code-server](https://github.com/codercom/code-server) : Run `VS Code` on a remote server.
+- [gogs](https://github.com/gogs/gogs) : Gogs is a painless self-hosted Git service.
+- [peach](https://github.com/peachdocs/peach) : Peach is a web server for multi-language, real-time synchronization and searchable documentation.
+
+## # Others
+
+- [996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [955.WLB](https://github.com/formulahendry/955.WLB) : 955 不加班的公司名单
+- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。
+- [gitignore](https://github.com/github/gitignore) : A collection of useful .gitignore templates
+- [free-programming-books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
+- [猿学 - 你所学的，不仅是技术](http://www.yuanxue365.com/) 猿学 - 你所学的，不仅是技术
+- [全球直播频道-高清无插件在线电视直播-TVVTVV.com](http://tvvtvv.com/)
+- [Readhub](https://readhub.cn/topics)
+- [全国电视直播---bddn.cn](http://bddn.cn/zb.htm)
+- [果汁排行榜 - 各类榜单排名大全](http://guozhivip.com/rank/)
+- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [Micro8](https://github.com/Micropoor/Micro8) : Gitbook
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) : 😋 技术面试必备基础知识
-- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+- [public-apis](https://github.com/toddmotto/public-apis) : A collective list of free APIs for use in software and web development.
+- [Free stock videos · Pexels Videos](https://www.pexels.com/videos/)
+- [Choose the best - Slant](https://www.slant.co/)
 
 ## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
