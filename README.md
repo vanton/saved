@@ -6,6 +6,11 @@
 
 ## tmp
 
+
+### April 1, 2019 
+
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
 ### March 29, 2019
 
 - [gogs/gogs](https://github.com/gogs/gogs) : Gogs is a painless self-hosted Git service.
