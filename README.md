@@ -6,17 +6,7 @@
 
 ## tmp
 
-
-
-
-
-
-
-
-
-
-
-### March 29, 2019 
+### March 29, 2019
 
 - [gogs/gogs](https://github.com/gogs/gogs) : Gogs is a painless self-hosted Git service.
 - [peachdocs/peach](https://github.com/peachdocs/peach) : Peach is a web server for multi-language, real-time synchronization and searchable documentation.
@@ -29,13 +19,13 @@
 - [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/) Vue.js Material Component Framework — Vuetify.js
 - [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/) Vue.js Material Component Framework — Vuetify.js
 
-### March 27, 2019 
+### March 27, 2019
 
 - [bestony/logoly](https://github.com/bestony/logoly) : A Pornhub Flavour Logo Generator
 - [Tnfe/TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
 - [todayqq/PHPerInterviewGuide](https://github.com/todayqq/PHPerInterviewGuide) : 这应该是史上最全、最具有指导意义的 PHPer 面试指南
 
-### March 26, 2019 
+### March 26, 2019
 
 - [javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgithub.com%2Fdavatorium%2Frofi) PageSpeed Insights
@@ -43,12 +33,12 @@
 - [github/gitignore](https://github.com/github/gitignore) : A collection of useful .gitignore templates
 - [tc39/proposals](https://github.com/tc39/proposals) : Tracking ECMAScript Proposals
 
-### March 25, 2019 
+### March 25, 2019
 
 - [nestjs/nest](https://github.com/nestjs/nest) : A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [cnlh/nps](https://github.com/cnlh/nps) : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。
 
-### March 22, 2019 
+### March 22, 2019
 
 - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A Zsh prompt for Astronauts
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
@@ -56,7 +46,7 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) : Make images smaller using best-in-class codecs, right in the browser.
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) : 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 
-### March 20, 2019 
+### March 20, 2019
 
 - [noirbizarre/flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
@@ -70,7 +60,7 @@
 - [Free stock videos · Pexels Videos](https://www.pexels.com/videos/) Free stock videos · Pexels Videos
 - [免费的在线文档翻译器——保留原文档的排版（Word、PDF、Excel、Powerpoint、OpenOffice、文本）](https://www.onlinedoctranslator.com/) 免费的在线文档翻译器——保留原文档的排版（Word、PDF、Excel、Powerpoint、OpenOffice、文本）
 
-### March 19, 2019 
+### March 19, 2019
 
 - [iawia002/annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
 - [antvis/g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
@@ -79,7 +69,7 @@
 - [G2 基础图表类库 - AntV](https://antv.alipay.com/zh-cn/g2/3.x/index.html) G2 基础图表类库 - AntV
 - [JavaScript 教程 - 网道](https://wangdoc.com/javascript/index.html) JavaScript 教程 - 网道
 
-### March 15, 2019 
+### March 15, 2019
 
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) : 轻量、可靠的小程序 UI 组件库
@@ -87,14 +77,14 @@
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/5) 第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question
 
-### March 7, 2019 
+### March 7, 2019
 
 - [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7) CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog
 - [ringohub/sh-spinner](https://github.com/ringohub/sh-spinner) : Simplest spinner in bash implementation.
 - [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : zsh syntax highlighting with dircolors in realtime
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
-- [mas-cli/mas](https://github.com/mas-cli/mas) : Mac App Store command line interface
-- [SeasX/SeasLog](https://github.com/SeasX/SeasLog) : An effective,fast,stable log extension for PHP.http://pecl.php.net/package/SeasLog http://php.net/SeasLog
+- [mas](https://github.com/mas-cli/mas) : Mac App Store command line interface
+- [SeasLog](https://github.com/SeasX/SeasLog) : An effective,fast,stable log extension for PHP.<http://pecl.php.net/package/SeasLog> <http://php.net/SeasLog>
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [adamschwartz/log](https://github.com/adamschwartz/log) : Console.log with style.
 - [How can I pretty-print JSON using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript/7220510#7220510) How can I pretty-print JSON using JavaScript? - Stack Overflow
@@ -111,7 +101,7 @@
 - [proYang/outils](https://github.com/proYang/outils) : 前端业务代码工具库
 - [marko-js/marko](https://github.com/marko-js/marko) : A friendly (and fast!) UI library from eBay that makes building web apps fun
 
-### March 6, 2019 
+### March 6, 2019
 
 - [91yun/serverspeeder](https://github.com/91yun/serverspeeder) : 锐速破解版
 
