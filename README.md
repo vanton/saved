@@ -9,6 +9,7 @@
 ### April 1, 2019
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 ### March 29, 2019
 
