@@ -14,6 +14,7 @@
 - [alexfoxy/laxxx](https://github.com/alexfoxy/laxxx) : Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) : The best design tools for everything 👉
 - [WarpPrism/AutoPiano](https://github.com/WarpPrism/AutoPiano) : 自由钢琴 AutoPiano
+- [axios/axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
 
 ### April 1, 2019
 
