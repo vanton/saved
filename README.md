@@ -16,6 +16,7 @@
 - [WarpPrism/AutoPiano](https://github.com/WarpPrism/AutoPiano) : 自由钢琴 AutoPiano
 - [axios/axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) : 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
 
 ### April 1, 2019
 
