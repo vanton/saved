@@ -6,6 +6,10 @@
 
 ## tmp
 
+### April 2, 2019
+
+- [How to](http://www.topcaver.com/go-get-through-socks5-proxy) : go get through socks5 proxy
+
 ### April 1, 2019
 
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) : Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
