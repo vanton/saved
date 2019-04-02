@@ -12,6 +12,7 @@
 - [Recent Sandboxes - CodeSandbox](https://codesandbox.io/dashboard/recent) Recent Sandboxes - CodeSandbox
 - [CriseLYJ/Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) : python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
 - [alexfoxy/laxxx](https://github.com/alexfoxy/laxxx) : Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+- [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) : The best design tools for everything 👉
 
 ### April 1, 2019
 
