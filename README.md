@@ -10,6 +10,7 @@
 
 - [How to](http://www.topcaver.com/go-get-through-socks5-proxy) : go get through socks5 proxy
 - [Recent Sandboxes - CodeSandbox](https://codesandbox.io/dashboard/recent) Recent Sandboxes - CodeSandbox
+- [CriseLYJ/Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) : python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
 
 ### April 1, 2019
 
