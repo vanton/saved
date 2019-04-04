@@ -11,6 +11,7 @@
 - [3.7.3 Documentation](https://docs.python.org/zh-cn/3.7/) 3.7.3 Documentation
 - [别再说找不到Python练手项目了，这80个拿去过冬 - 知乎](https://zhuanlan.zhihu.com/p/52550223) 别再说找不到Python练手项目了，这80个拿去过冬 - 知乎
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 免费的计算机编程类中文书籍，欢迎投稿
+- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) : 微信小程序开发资源汇总 :100:
 
 ### April 3, 2019
 
