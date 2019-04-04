@@ -13,6 +13,7 @@
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 免费的计算机编程类中文书籍，欢迎投稿
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) : 微信小程序开发资源汇总 :100:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) : Monospaced font with programming ligatures
+- [kriadmin/30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) : Python implementation of 30-seconds-of-code
 
 ### April 3, 2019
 
