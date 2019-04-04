@@ -9,6 +9,7 @@
 ### April 4, 2019
 
 - [3.7.3 Documentation](https://docs.python.org/zh-cn/3.7/) 3.7.3 Documentation
+- [别再说找不到Python练手项目了，这80个拿去过冬 - 知乎](https://zhuanlan.zhihu.com/p/52550223) 别再说找不到Python练手项目了，这80个拿去过冬 - 知乎
 
 ### April 3, 2019
 
