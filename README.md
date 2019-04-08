@@ -6,6 +6,10 @@
 
 ## tmp
 
+### April 8, 2019
+
+- [Vue完整视频教程免费分享 - 中文 - Vue Forum](https://forum.vuejs.org/t/vue/56497) Vue完整视频教程免费分享 - 中文 - Vue Forum
+
 ### April 4, 2019
 
 - [3.7.3 Documentation](https://docs.python.org/zh-cn/3.7/) 3.7.3 Documentation
