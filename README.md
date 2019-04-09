@@ -11,6 +11,7 @@
 - [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) : 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) : A fast, extensible progress bar for Python and CLI
 - [Python Cookbook 3rd Edition Documentation — python3-cookbook 3.0.0 文档](https://python3-cookbook.readthedocs.io/zh_CN/latest/) Python Cookbook 3rd Edition Documentation — python3-cookbook 3.0.0 文档
+- [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) Python教程 - 廖雪峰的官方网站
 
 ### April 8, 2019
 
