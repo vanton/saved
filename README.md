@@ -6,6 +6,10 @@
 
 ## tmp
 
+### April 9, 2019
+
+- [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) : 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
+
 ### April 8, 2019
 
 - [Vue完整视频教程免费分享 - 中文 - Vue Forum](https://forum.vuejs.org/t/vue/56497) Vue完整视频教程免费分享 - 中文 - Vue Forum
