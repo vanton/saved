@@ -6,16 +6,6 @@
 
 ## tmp
 
-### April 11, 2019
-
-- [Vonng/ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
-- [dt-fe/weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
-- [dt-fe/weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
-
-### April 10, 2019
-
-- [PHP7新特性整理介绍篇 · PHPer进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259) PHP7新特性整理介绍篇 · PHPer进阶 · 看云
-
 ### 以上未整理
 
 ---
@@ -97,6 +87,7 @@
 - [SeasLog](https://github.com/SeasX/SeasLog) : An effective,fast,stable log extension for PHP.<http://pecl.php.net/package/SeasLog> <http://php.net/SeasLog>
 - [PHPerInterviewGuide](https://github.com/todayqq/PHPerInterviewGuide) : 这应该是史上最全、最具有指导意义的 PHPer 面试指南
 - [php-engineer-interview-questions](https://github.com/hookover/php-engineer-interview-questions) : PHP工程师面试题目
+- [PHP7新特性整理介绍篇 · PHPer进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259)
 
 ## # Python
 
@@ -290,6 +281,8 @@
 - [FiraCode](https://github.com/tonsky/FiraCode) : Monospaced font with programming ligatures
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 免费的计算机编程类中文书籍，欢迎投稿
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) : 微信小程序开发资源汇总 :100:
+- [ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
+- [weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
 
 ## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
