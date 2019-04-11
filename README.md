@@ -10,6 +10,7 @@
 
 - [Vonng/ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
 - [dt-fe/weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
+- [dt-fe/weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
 
 ### April 10, 2019
 
