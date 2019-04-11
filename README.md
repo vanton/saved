@@ -6,6 +6,10 @@
 
 ## tmp
 
+### April 11, 2019
+
+- [Vonng/ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
+
 ### April 10, 2019
 
 - [PHP7新特性整理介绍篇 · PHPer进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259) PHP7新特性整理介绍篇 · PHPer进阶 · 看云
