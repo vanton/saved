@@ -10,6 +10,7 @@
 
 - [mermaid · GitBook](https://mermaidjs.github.io/) mermaid · GitBook
 - [knsv/mermaid](https://github.com/knsv/mermaid) : Generation of diagram and flowchart from text in a similar manner as markdown
+- [Firefox Monitor](https://monitor.firefox.com/) Firefox Monitor
 
 ### April 11, 2019
 
