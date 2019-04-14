@@ -12,6 +12,7 @@
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) : binary releases of VS Code without MS branding/telemetry/licensing
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
+- [carykh/jumpcutter](https://github.com/carykh/jumpcutter) : Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 
 ### April 12, 2019
 
