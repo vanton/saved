@@ -11,6 +11,7 @@
 - [Repl.it - Import from GitHub](https://repl.it/github/https://github.com/amasad/water.css?lang=nodejs&ref=button) Repl.it - Import from GitHub
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) : binary releases of VS Code without MS branding/telemetry/licensing
+- [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 
 ### April 12, 2019
 
