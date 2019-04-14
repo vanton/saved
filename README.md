@@ -13,6 +13,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) : binary releases of VS Code without MS branding/telemetry/licensing
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [carykh/jumpcutter](https://github.com/carykh/jumpcutter) : Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
+- [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) : A curated list of tech stacks for building different applications & features
 
 ### April 12, 2019
 
