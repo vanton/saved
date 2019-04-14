@@ -9,6 +9,7 @@
 ### April 14, 2019
 
 - [Repl.it - Import from GitHub](https://repl.it/github/https://github.com/amasad/water.css?lang=nodejs&ref=button) Repl.it - Import from GitHub
+- [busyloop/lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
 
 ### April 12, 2019
 
