@@ -14,6 +14,7 @@
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [carykh/jumpcutter](https://github.com/carykh/jumpcutter) : Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) : A curated list of tech stacks for building different applications & features
+- [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
 ### April 12, 2019
 
