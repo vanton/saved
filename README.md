@@ -9,6 +9,7 @@
 ### April 15, 2019
 
 - [robertboloc/lolcatjs](https://github.com/robertboloc/lolcatjs) : For the lols
+- [jaywcjlove/oscnews](https://github.com/jaywcjlove/oscnews) : Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 
 ### April 14, 2019
 
