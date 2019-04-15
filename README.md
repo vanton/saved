@@ -11,6 +11,7 @@
 - [robertboloc/lolcatjs](https://github.com/robertboloc/lolcatjs) : For the lols
 - [jaywcjlove/oscnews](https://github.com/jaywcjlove/oscnews) : Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 - [iView - A high quality UI Toolkit based on Vue.js](https://www.iviewui.com/) iView - A high quality UI Toolkit based on Vue.js
+- [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) : 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 
 ### April 14, 2019
 
