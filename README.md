@@ -6,6 +6,10 @@
 
 ## tmp
 
+### April 16, 2019
+
+- [jjqqkk/chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
+
 ### April 15, 2019
 
 - [robertboloc/lolcatjs](https://github.com/robertboloc/lolcatjs) : For the lols
