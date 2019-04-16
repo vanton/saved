@@ -9,6 +9,7 @@
 ### April 16, 2019
 
 - [jjqqkk/chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
+- [将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客](https://blog.csdn.net/MrLevo520/article/details/51840217) 将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客
 
 ### April 15, 2019
 
