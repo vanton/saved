@@ -11,6 +11,7 @@
 - [jjqqkk/chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
 - [将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客](https://blog.csdn.net/MrLevo520/article/details/51840217) 将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客
 - [🌈Chrome插件英雄榜(20篇评测,图文详尽) - 知乎](https://zhuanlan.zhihu.com/p/58716908) 🌈Chrome插件英雄榜(20篇评测,图文详尽) - 知乎
+- [adam-p/markdown-here](https://github.com/adam-p/markdown-here) : Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
 ### April 15, 2019
 
