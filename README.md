@@ -9,6 +9,7 @@
 ### April 17, 2019
 
 - [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
+- [nswbmw/N-blog](https://github.com/nswbmw/N-blog) : 《一起学 Node.js》
 
 ### April 16, 2019
 
