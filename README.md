@@ -10,6 +10,7 @@
 
 - [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
 - [nswbmw/N-blog](https://github.com/nswbmw/N-blog) : 《一起学 Node.js》
+- [alsotang/node-lessons](https://github.com/alsotang/node-lessons) : 《Node.js 包教不包会》 by alsotang
 
 ### April 16, 2019
 
