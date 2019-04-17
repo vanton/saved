@@ -6,6 +6,10 @@
 
 ## tmp
 
+### April 17, 2019
+
+- [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
+
 ### April 16, 2019
 
 - [jjqqkk/chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
