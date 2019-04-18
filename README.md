@@ -14,6 +14,7 @@
 - [独立](https://josephchang10.github.io/chinese-indie-hackers/) 独立
 - [balenaEtcher - Home](https://www.balena.io/etcher/) balenaEtcher - Home
 - [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) : A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
+- [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) : 网易云音乐第三方
 
 ### April 17, 2019
 
