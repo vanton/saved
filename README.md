@@ -11,6 +11,7 @@
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) : A modern, native macOS markdown editor
 - [uTools - 你的生产力工具集](https://u.tools/) uTools - 你的生产力工具集
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) : 🚀 Awesome list of open source applications for macOS.
+- [独立](https://josephchang10.github.io/chinese-indie-hackers/) 独立
 
 ### April 17, 2019
 
