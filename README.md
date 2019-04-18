@@ -16,6 +16,7 @@
 - [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) : A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) : 网易云音乐第三方
 - [yulingtianxia/FishChat](https://github.com/yulingtianxia/FishChat) : Hook WeChat.app on non-jailbroken devices.
+- [Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件](https://www.appinn.com/notion/) Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件
 
 ### April 17, 2019
 
