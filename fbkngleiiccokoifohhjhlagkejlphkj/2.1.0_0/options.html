@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Options | Like on GitHub</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/css/like-on-github.css">
+</head>
+<body>
+
+<div class="columns">
+
+    <div class="header">
+        <h1>Like on GitHub <span class="muted">Options</span></h1>
+    </div>
+
+    <div class="options-content">
+
+        <p class="quote-item border-bottom">Make sure to fill these fields with correct details, for extension to
+            work.</p>
+
+        <h3>GitHub Username</h3>
+        <span class="small-muted">The user or organization name under which the repository exists</span>
+        <input type="text" name="owner" id="owner" placeholder="idnan" class="git_token btn"/>
+
+        <h3>Repository Name</h3>
+        <span class="small-muted">To which the links will be saved. Make sure that you have write access to it</span>
+        <input type="text" name="repo" id="repo" placeholder="like-on-git" class="git_token btn"/>
+
+        <h3>Committer Name</h3>
+        <span class="small-muted">The name that will be on commit</span>
+        <input type="text" name="name" id="committer_name" placeholder="Adnan Ahmed" class="git_token btn"/>
+
+        <h3>Committer Email</h3>
+        <span class="small-muted">The email that will be on commit</span>
+        <input type="text" name="email" id="committer_email" placeholder="mahradnan@hotmail.com" class="git_token btn"/>
+
+        <h3>Relative File Path</h3>
+        <span class="small-muted">Relative path to the file where links will be put</span>
+        <input type="text" name="path" id="path" placeholder="README.md" class="git_token btn"/>
+
+        <h3>Add API Token (<a href="https://github.com/settings/tokens/new"
+                                                             class="underline"
+                                                             target="_blank">generate a token</a>)</h3>
+        <span class="small-muted">A valid API token is required</span>
+        <input type="text" name="git_token" id="token" class="git_token btn"/>
+        <a href="#" class="btn btn-save">Save</a>
+    </div>
+
+</div>
+
+<script src=assets/lib/jquery.js></script>
+<script src=assets/lib/options.js></script>
+
+</body>
+</html>

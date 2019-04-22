@@ -1,0 +1,26 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "assets/icons/standard-16.png",
+      "default_title": "Like on GitHub"
+   },
+   "description": "Use this extension to save your links to your GitHub repo.",
+   "homepage_url": "http://github.com/idnan",
+   "icons": {
+      "128": "assets/icons/standard-128.png",
+      "16": "assets/icons/standard-16.png",
+      "48": "assets/icons/standard-48.png",
+      "64": "assets/icons/standard-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjOXvnYSG4QVmbGXh84kKOj2secIwphQl5lFDAQFnnbKWFGdeKX5xIFFSojgd1kbMXaswBSWejG/3UnEPxbUR9NajB/Q8fnu1r18dWakjf6sIyc23KnIHiPzHcGnryyMGwp2zsB8rUEnTTUlNIr1EXokyqkoOJsVlrYXaq9+O1hyxXJfOzbq+cW6YmXrzcN3erCvnlXvgwG5wN3vALXW0pphpvDkGSIb8bDDlBGPmOuzHzUUeIM4Kuw5oodrVrfBs2H5HnH5dLbSMTrUynWr7UrSr4FP+n9A9Fq5X8QdYh44zkPf8B3njntA6IIaSV/RpjuzX94wTCgUC3jZAj45BtwIDAQAB",
+   "manifest_version": 2,
+   "name": "Like on GitHub",
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs", "http://*/*", "https://*/*" ],
+   "short_name": "LikeOnGitHub",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.0"
+}
