@@ -6,6 +6,10 @@
 
 ## tmp
 
+### April 22, 2019
+
+- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) : 《Python Cookbook》 3rd Edition Translation
+
 ### April 18, 2019
 
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) : A modern, native macOS markdown editor
