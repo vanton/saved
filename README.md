@@ -9,6 +9,7 @@
 ### April 22, 2019
 
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) : 《Python Cookbook》 3rd Edition Translation
+- [Yixiaohan/codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
 
 ### April 18, 2019
 
