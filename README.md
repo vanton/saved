@@ -4,67 +4,9 @@
 
 <https://vanton.github.io/saved>
 
+[TOC]
+
 ## tmp
-
-### April 22, 2019
-
-- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) : 《Python Cookbook》 3rd Edition Translation
-- [Yixiaohan/codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
-- [内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务](http://outofmemory.cn/#csdn) 内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务
-
-### April 18, 2019
-
-- [lukakerr/Pine](https://github.com/lukakerr/Pine) : A modern, native macOS markdown editor
-- [uTools - 你的生产力工具集](https://u.tools/) uTools - 你的生产力工具集
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) : 🚀 Awesome list of open source applications for macOS.
-- [独立](https://josephchang10.github.io/chinese-indie-hackers/) 独立
-- [balenaEtcher - Home](https://www.balena.io/etcher/) balenaEtcher - Home
-- [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) : A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
-- [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) : 网易云音乐第三方
-- [yulingtianxia/FishChat](https://github.com/yulingtianxia/FishChat) : Hook WeChat.app on non-jailbroken devices.
-- [Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件](https://www.appinn.com/notion/) Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件
-
-### April 17, 2019
-
-- [Choose the best - Slant](https://www.slant.co/) Choose the best - Slant
-- [nswbmw/N-blog](https://github.com/nswbmw/N-blog) : 《一起学 Node.js》
-- [alsotang/node-lessons](https://github.com/alsotang/node-lessons) : 《Node.js 包教不包会》 by alsotang
-- [tj/n](https://github.com/tj/n) : Node version management
-
-### April 16, 2019
-
-- [jjqqkk/chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
-- [将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客](https://blog.csdn.net/MrLevo520/article/details/51840217) 将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客
-- [🌈Chrome插件英雄榜(20篇评测,图文详尽) - 知乎](https://zhuanlan.zhihu.com/p/58716908) 🌈Chrome插件英雄榜(20篇评测,图文详尽) - 知乎
-- [adam-p/markdown-here](https://github.com/adam-p/markdown-here) : Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-
-### April 15, 2019
-
-- [robertboloc/lolcatjs](https://github.com/robertboloc/lolcatjs) : For the lols
-- [jaywcjlove/oscnews](https://github.com/jaywcjlove/oscnews) : Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
-- [iView - A high quality UI Toolkit based on Vue.js](https://www.iviewui.com/) iView - A high quality UI Toolkit based on Vue.js
-- [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) : 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-
-### April 14, 2019
-
-- [Repl.it - Import from GitHub](https://repl.it/github/https://github.com/amasad/water.css?lang=nodejs&ref=button) Repl.it - Import from GitHub
-- [busyloop/lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) : binary releases of VS Code without MS branding/telemetry/licensing
-- [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
-- [carykh/jumpcutter](https://github.com/carykh/jumpcutter) : Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
-- [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) : A curated list of tech stacks for building different applications & features
-- [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
-- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-
-### April 12, 2019
-
-- [mermaid · GitBook](https://mermaidjs.github.io/) mermaid · GitBook
-- [knsv/mermaid](https://github.com/knsv/mermaid) : Generation of diagram and flowchart from text in a similar manner as markdown
-- [Firefox Monitor](https://monitor.firefox.com/) Firefox Monitor
-
-### April 11, 2019
-
-- [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/) ProcessOn - 免费在线作图，实时协作
 
 ### 以上未整理
 
@@ -110,6 +52,9 @@
 - [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [AutoPiano](https://github.com/WarpPrism/AutoPiano) : 自由钢琴 AutoPiano
 - [laxxx](https://github.com/alexfoxy/laxxx) : Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+- [mermaid · GitBook](https://mermaidjs.github.io/) 流程图、甘特图、关系图解析生成
+- [mermaid](https://github.com/knsv/mermaid) : Generation of diagram and flowchart from text in a similar manner as markdown
+- [iView - A high quality UI Toolkit based on Vue.js](https://www.iviewui.com/)
 
 ## # Node.js
 
@@ -130,12 +75,15 @@
 - [chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right ⭕️
 - [node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
 - [nvm](https://github.com/creationix/nvm) : Node Version Manager - Simple `bash` script to manage multiple active node.js versions  ⭕️
+- [n](https://github.com/tj/n) : Node version management
 - [depcheck](https://github.com/depcheck/depcheck) : Check your `npm` module for unused dependencies
 - [purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
 - [nest](https://github.com/nestjs/nest) : A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [logoly](https://github.com/bestony/logoly) : A Pornhub Flavour Logo Generator
 - [majestic](https://github.com/Raathigesh/majestic) : ⚡ Zero config GUI for Jest
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) : The largest Node.js best practices list (April 2019)
+- [Repl.it - Import from GitHub](https://repl.it/github/https://github.com/amasad/water.css?lang=nodejs&ref=button) Repl.it - Import from GitHub
+- [lolcatjs](https://github.com/robertboloc/lolcatjs) : For the lols
 
 ## # PHP
 
@@ -170,6 +118,9 @@
 - [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) : Python implementation of 30-seconds-of-code
 - [3.7.3 Documentation](https://docs.python.org/zh-cn/3.7/) 3.7.3 Documentation
 - [别再说找不到Python练手项目了，这80个拿去过冬 - 知乎](https://zhuanlan.zhihu.com/p/52550223) 别再说找不到Python练手项目了，这80个拿去过冬 - 知乎
+- [python3-cookbook](https://github.com/yidao620c/python3-cookbook) : 《Python Cookbook》 3rd Edition Translation
+- [codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
+- [将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客](https://blog.csdn.net/MrLevo520/article/details/51840217)
 
 ## # Shell
 
@@ -191,15 +142,12 @@
 - [lnav](https://github.com/tstack/lnav) : 日志查看工具
 - [httpie](https://github.com/jakubroztocil/httpie) : `curl` 替代，命令行高亮 ⭕️
     > 安装报错的话需要强制更新 `requests` `urllib3`
-
-    ```bash
-    pip install requests urllib3  --force --upgrade
-    pip install httpie
-    ```
-
+    > ```bash
+    > pip install requests urllib3  --force --upgrade
+    > pip install httpie
+    > ```
 - [brew.sh](https://brew.sh/) The missing package manager for macOS (or Linux) ⭕️
 - [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
-
 - [antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
@@ -229,6 +177,9 @@
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
 - [How to](http://www.topcaver.com/go-get-through-socks5-proxy) : go get through socks5 proxy
 - [crontab.guru - the cron schedule expression editor](https://crontab.guru/#*_*_*_*_*) ⭕️
+- [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
+- [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
+- [lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
 
 ## # Headless Chrome
 
@@ -258,12 +209,12 @@
 - [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own `IPsec` VPN server, with `IPsec`/`L2TP` and Cisco `IPsec` on Ubuntu, Debian and CentOS ⭕️
-
 - [algo](https://github.com/trailofbits/algo) : Set up a personal `IPsec` VPN in the cloud
 - [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 - [frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
 - [serverspeeder](https://github.com/91yun/serverspeeder) : 锐速破解版，代理加速，实际对 vpn 没有作用。
 - [nps](https://github.com/cnlh/nps) : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。 ⭕️
+- [chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
 
 ## # Chrome Extensions ![chrome]
 
@@ -281,6 +232,10 @@
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 - [git-history](https://github.com/pomber/git-history) : Quickly browse the history of a file from any `git` repository
 - [baiduyun](https://github.com/syhyz1990/baiduyun) : 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
+- [🌈Chrome插件英雄榜(20篇评测,图文详尽) - 知乎](https://zhuanlan.zhihu.com/p/58716908)
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [oscnews](https://github.com/jaywcjlove/oscnews) : Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
+- [markdown-here](https://github.com/adam-p/markdown-here) : Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
 ## # Mobile
 
@@ -319,6 +274,17 @@
 - [gogs](https://github.com/gogs/gogs) : Gogs is a painless self-hosted Git service.
 - [peach](https://github.com/peachdocs/peach) : Peach is a web server for multi-language, real-time synchronization and searchable documentation.
 - [Recent Sandboxes - CodeSandbox](https://codesandbox.io/dashboard/recent)
+- [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/)
+- [Firefox Monitor](https://monitor.firefox.com/) 账号泄露监控
+- [Pine](https://github.com/lukakerr/Pine) : A modern, native macOS markdown editor
+- [uTools - 你的生产力工具集](https://u.tools/)
+- [balenaEtcher](https://www.balena.io/etcher/) U盘刻录工具
+- [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) : A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 ⭕️
+- [FishChat](https://github.com/yulingtianxia/FishChat) : Hook WeChat.app on non-jailbroken devices.
+- [jumpcutter](https://github.com/carykh/jumpcutter) : Automatically edits vidx. Explanation here: <https://www.youtube.com/watch?v=DQ8orIurGxw>
+- [vscodium](https://github.com/VSCodium/vscodium) : binary releases of VS Code without MS branding/telemetry/licensing
+- [Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件](https://www.appinn.com/notion/) Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件
+- [ieaseMusic](https://github.com/trazyn/ieaseMusic) : 网易云音乐第三方
 
 ## # Others
 
@@ -343,6 +309,10 @@
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) : 微信小程序开发资源汇总 :100:
 - [ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
 - [weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
+- [内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务](http://outofmemory.cn/#csdn)
+- [handbook](https://github.com/jaywcjlove/handbook) : 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
+- [node-lessons](https://github.com/alsotang/node-lessons) : 《Node.js 包教不包会》 by alsotang
+- [N-blog](https://github.com/nswbmw/N-blog) : 《一起学 Node.js》
 
 ## # Awesome Lists <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
@@ -366,39 +336,28 @@
 - [Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) : 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) : The best design tools for everything 👉
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) : 🚀 Awesome list of open source applications for macOS.
+- [独立](https://josephchang10.github.io/chinese-indie-hackers/) 中国独立 iOS 和 macOS 开发者图鉴
+- [awesome-stacks](https://github.com/stackshareio/awesome-stacks) : A curated list of tech stacks for building different applications & features
+- [Choose the best - Slant](https://www.slant.co/)
 
 ## # Badges and Icons and Fonts
 
 - [shields.io](https://shields.io) 状态图片 ![badge](https://img.shields.io/badge/subject-status-red.svg?style=flat&logo=appveyor)
-
 - [Simple Icons](https://simpleicons.org/)
-
 - [color-name](https://github.com/colorjs/color-name) : A JSON with CSS color names
-
 - [nodei.co](https://nodei.co/) NPM 状态图片 ![npm](https://nodei.co/npm/npm.png?compact)
-
 - [boennemann/badges](https://github.com/boennemann/badges) : 各种 badges
-
 - [open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
-
 - [useiconic](https://useiconic.com/icons/) Icons
-
 - [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/)
-
 - [For the Badge](https://forthebadge.com/)
-
 - [HYBICON - Better together](http://hybicon.softwaretailoring.net/documentation.html)
-
 - [SVG Loaders - Sam Herbert](http://samherbert.net/svg-loaders/) SVG loading 动画
-
 - [material-design-icons](https://github.com/google/material-design-icons) : Material Design icons by Google
-
 - [#6 - Sistemas de Ícones em SVG](https://willianjusten.com.br/sistemas-de-icones-em-svg/)
-
 - [New Bancomail - SVG Icons](http://elrumordelaluz.github.io/newbancomail/svg.html)
-
 - [SVG Morpheus - Morph SVG icons](http://alexk111.github.io/SVG-Morpheus/)
-
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack ⭕️
 - [nerd-fonts/patched-fonts/Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts ⭕️
 - [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
