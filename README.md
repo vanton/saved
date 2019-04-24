@@ -8,6 +8,10 @@
 
 ## tmp
 
+### April 24, 2019
+
+- [luin/medis](https://github.com/luin/medis) : 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+
 ### April 23, 2019
 
 - [快速上手 - iView](https://www.iviewui.com/docs/guide/start) 快速上手 - iView
