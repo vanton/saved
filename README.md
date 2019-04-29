@@ -8,6 +8,10 @@
 
 ## tmp
 
+### April 29, 2019
+
+- [AliyunOpenAPI/php-aliyun-open-api-sls](https://github.com/AliyunOpenAPI/php-aliyun-open-api-sls) : The SLS SDK for Aliyun OpenAPI
+
 ### April 24, 2019
 
 - [luin/medis](https://github.com/luin/medis) : 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
