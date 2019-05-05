@@ -13,6 +13,8 @@
   - [April 23, 2019](#april-23-2019)
   - [以上未整理](#以上未整理)
 - [Javascript / HTML](#javascript--html)
+  - [文档、教程](#文档教程)
+  - [类库、工具](#类库工具)
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [Python](#python)
@@ -61,42 +63,47 @@
 
 ## Javascript / HTML
 
-- [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
+### 文档、教程
+
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) : HTML Standard
 - [html](https://github.com/whatwg/html) : HTML Standard
-- [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 - [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind`
-- [styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [D3.js入门教程](http://wiki.jikexueyuan.com/project/d3wiki/) : D3.js开发中文手册[PDF]下载-极客学院Wiki
+- [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
+- [D3.js入门教程](http://wiki.jikexueyuan.com/project/d3wiki/) : D3.js开发中文手册 - 极客学院Wiki
 - [Learning D3.JS - 十二月咖啡馆](http://d3.decembercafe.org/index.html)
+- [How can I pretty-print JSON using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript/7220510#7220510)
+- [第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/5)
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [JavaScript 教程 - 网道](https://wangdoc.com/javascript/index.html)
+- [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
+- [es6tutorial](https://github.com/ruanyf/es6tutorial) : 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
+- [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+
+### 类库、工具
+
+- [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
+- [styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [video.js](https://github.com/videojs/video.js) : open source HTML5 & Flash video player
 - [material-kit](https://github.com/creativetimofficial/material-kit#demo) : Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [cleave.js](https://github.com/nosir/cleave.js) : Format input text content when you are typing...
 - [ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [outils](https://github.com/proYang/outils) : 前端业务代码工具库
-- [How can I pretty-print JSON using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript/7220510#7220510)
 - [driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-- [第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/5)
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [vant-weapp](https://github.com/youzan/vant-weapp) : 轻量、可靠的小程序 UI 组件库
 - [vant](https://github.com/youzan/vant) : Lightweight Mobile UI Components built on Vue
 - [mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
-- [JavaScript 教程 - 网道](https://wangdoc.com/javascript/index.html)
 - [g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
 - [G2 基础图表类库 - AntV](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
-- [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
-- [es6tutorial](https://github.com/ruanyf/es6tutorial) : 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
-- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
-- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [javascript-algorithms/README.zh-CN.md](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
-- [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
 - [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/)
 - [ant-design](https://github.com/ant-design/ant-design/) : 🌈 A UI Design Language
 - [Ant Design of Vue - Ant Design Vue](https://vue.ant.design/docs/vue/introduce/)
 - [Vue完整视频教程免费分享 - 中文 - Vue Forum](https://forum.vuejs.org/t/vue/56497)
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) : Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [storybook](https://github.com/storybooks/storybook) : UI component dev & test: React, Vue, Angular, React Native, Ember & more!
-- [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [AutoPiano](https://github.com/WarpPrism/AutoPiano) : 自由钢琴 AutoPiano
 - [laxxx](https://github.com/alexfoxy/laxxx) : Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [mermaid · GitBook](https://mermaidjs.github.io/) 流程图、甘特图、关系图解析生成
