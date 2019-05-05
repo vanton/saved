@@ -39,6 +39,7 @@
 
 - [稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/) 稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog
 - [玩转SSH端口转发 | Fundebug博客](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/) 玩转SSH端口转发 | Fundebug博客
+- [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/) autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog
 
 ### 以上未整理
 
