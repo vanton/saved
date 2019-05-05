@@ -40,6 +40,7 @@
 ### May 5, 2019
 
 - [facebook/Docusaurus](https://github.com/facebook/Docusaurus) : Easy to maintain open source documentation websites.
+- [strapi/strapi](https://github.com/strapi/strapi) : 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 
 ### 以上未整理
 
