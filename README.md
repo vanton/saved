@@ -46,6 +46,7 @@
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) : Cybernetically enhanced web apps
 - [在线生成 GitHub README.md 目录 - SleepEatCode](https://sleepeatcode.com/ghtoc) 在线生成 GitHub README.md 目录 - SleepEatCode
+- [elainekoo/laravel-sls - Packagist](https://packagist.org/packages/elainekoo/laravel-sls) elainekoo/laravel-sls - Packagist
 
 ### April 24, 2019
 
