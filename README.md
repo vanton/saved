@@ -7,8 +7,6 @@
 <!-- [TOC] -->
 - [tmp](#tmp)
   - [May 5, 2019](#may-5-2019)
-  - [April 30, 2019](#april-30-2019)
-  - [April 29, 2019](#april-29-2019)
   - [April 24, 2019](#april-24-2019)
   - [April 23, 2019](#april-23-2019)
   - [以上未整理](#以上未整理)
@@ -47,16 +45,7 @@
 - [nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) : Cybernetically enhanced web apps
-- [langren1353/GM_script](https://github.com/langren1353/GM_script/) : 我就是来分享脚本玩玩的
 - [在线生成 GitHub README.md 目录 - SleepEatCode](https://sleepeatcode.com/ghtoc) 在线生成 GitHub README.md 目录 - SleepEatCode
-
-### April 30, 2019
-
-- [langren1353/GM_script](https://github.com/langren1353/GM_script/) : 我就是来分享脚本玩玩的
-
-### April 29, 2019
-
-- [AliyunOpenAPI/php-aliyun-open-api-sls](https://github.com/AliyunOpenAPI/php-aliyun-open-api-sls) : The SLS SDK for Aliyun OpenAPI
 
 ### April 24, 2019
 
@@ -326,6 +315,7 @@
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 - [oscnews](https://github.com/jaywcjlove/oscnews) : Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 - [markdown-here](https://github.com/adam-p/markdown-here) : Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [langren1353/GM_script](https://github.com/langren1353/GM_script/) : AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
 
 ## Mobile
 
