@@ -43,6 +43,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) : 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [cdr/sshcode](https://github.com/cdr/sshcode) : Run VS Code on any server over SSH.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) : Git with a cup of tea, painless self-hosted git service
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) : A JavaScript / Python / PHP cryptocurrency trading API with support for more than 130 bitcoin/altcoin exchanges
 
 ### 以上未整理
 
