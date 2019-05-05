@@ -59,6 +59,9 @@
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
 - [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [Vue完整视频教程免费分享 - 中文 - Vue Forum](https://forum.vuejs.org/t/vue/56497)
+- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) : Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [storybook](https://github.com/storybooks/storybook) : UI component dev & test: React, Vue, Angular, React Native, Ember & more!
 
 ### Javascript/HTML 类库、工具
 
@@ -79,9 +82,6 @@
 - [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/)
 - [ant-design](https://github.com/ant-design/ant-design/) : 🌈 A UI Design Language
 - [Ant Design of Vue - Ant Design Vue](https://vue.ant.design/docs/vue/introduce/)
-- [Vue完整视频教程免费分享 - 中文 - Vue Forum](https://forum.vuejs.org/t/vue/56497)
-- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) : Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [storybook](https://github.com/storybooks/storybook) : UI component dev & test: React, Vue, Angular, React Native, Ember & more!
 - [AutoPiano](https://github.com/WarpPrism/AutoPiano) : 自由钢琴 AutoPiano
 - [laxxx](https://github.com/alexfoxy/laxxx) : Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [mermaid · GitBook](https://mermaidjs.github.io/) 流程图、甘特图、关系图解析生成
