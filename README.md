@@ -35,6 +35,10 @@
 
 ## tmp
 
+### May 5, 2019
+
+- [稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/) 稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog
+
 ### 以上未整理
 
 ---
