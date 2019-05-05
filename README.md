@@ -18,6 +18,8 @@
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [Python](#python)
+  - [Python 文档教程](#python-文档教程)
+  - [Python 类库、工具](#python-类库工具)
 - [Shell](#shell)
   - [Shell 文档教程](#shell-文档教程)
   - [zsh, oh my zsh](#zsh-oh-my-zsh)
@@ -31,7 +33,7 @@
 - [Doker](#doker)
 - [Tools](#tools)
 - [Others](#others)
-  - [其他文档教程](#其他文档教程)
+  - [其他文档、教程](#其他文档教程)
   - [其他项目](#其他项目)
 - [Awesome Lists](#awesome-lists)
 - [Badges and Icons and Fonts](#badges-and-icons-and-fonts)
@@ -40,7 +42,6 @@
 
 ### May 5, 2019
 
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Python - 100天从新手到大师
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [liamg/tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices
@@ -160,6 +161,23 @@
 
 ## Python
 
+### Python 文档教程
+
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Python - 100天从新手到大师
+- [将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客](https://blog.csdn.net/MrLevo520/article/details/51840217)
+- [python_interview_question](https://github.com/kenwoodjw/python_interview_question) : 关于python的面试题
+- [interesting-python](https://github.com/Alfred1984/interesting-python) : 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
+- [Python Cookbook 3rd Edition Documentation — python3-cookbook 3.0.0 文档](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+- [python3-cookbook](https://github.com/yidao620c/python3-cookbook) : 《Python Cookbook》 3rd Edition Translation
+- [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+- [Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) : python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
+- [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) : Python implementation of 30-seconds-of-code
+- [3.7.3 Documentation](https://docs.python.org/zh-cn/3.7/) 3.7.3 Documentation
+- [别再说找不到Python练手项目了，这80个拿去过冬 - 知乎](https://zhuanlan.zhihu.com/p/52550223) 别再说找不到Python练手项目了，这80个拿去过冬 - 知乎
+- [codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
+
+### Python 类库、工具
+
 - [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) : 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread.
 - [pipenv](https://github.com/pypa/pipenv) : 友好的 `pip` 管理工具，类似 (`bundler`, `composer`, `npm`, `cargo`, `yarn`, etc.)
@@ -169,19 +187,8 @@
 - [bullet](https://github.com/Mckinsey666/bullet) : 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
 - [clusterfuzz](https://github.com/google/clusterfuzz) : Scalable fuzzing infrastructure.
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python各大网站登陆方式与一些简单的爬虫，希望对你们有所帮助❤️
-- [python_interview_question](https://github.com/kenwoodjw/python_interview_question) : 关于python的面试题
 - [flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
-- [interesting-python](https://github.com/Alfred1984/interesting-python) : 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
 - [tqdm](https://github.com/tqdm/tqdm) : A fast, extensible progress bar for Python and CLI
-- [Python Cookbook 3rd Edition Documentation — python3-cookbook 3.0.0 文档](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
-- [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-- [Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) : python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
-- [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) : Python implementation of 30-seconds-of-code
-- [3.7.3 Documentation](https://docs.python.org/zh-cn/3.7/) 3.7.3 Documentation
-- [别再说找不到Python练手项目了，这80个拿去过冬 - 知乎](https://zhuanlan.zhihu.com/p/52550223) 别再说找不到Python练手项目了，这80个拿去过冬 - 知乎
-- [python3-cookbook](https://github.com/yidao620c/python3-cookbook) : 《Python Cookbook》 3rd Edition Translation
-- [codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
-- [将自己的python程序打包成.exe/.app(秀同学一脸呐) - MrLevo520的博客 - CSDN博客](https://blog.csdn.net/MrLevo520/article/details/51840217)
 
 ## Shell
 
@@ -369,7 +376,7 @@
 
 ## Others
 
-### 其他文档教程
+### 其他文档、教程
 
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。
 - [free-programming-books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
