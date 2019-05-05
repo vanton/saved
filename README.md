@@ -438,7 +438,7 @@
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack ⭕️
 - [nerd-fonts/patched-fonts/Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts ⭕️
 - [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
-- [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+- [Hack / A typeface designed for source code](https://sourcefoundry.org/hack/)
 - [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
 - [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 
