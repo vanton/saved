@@ -6,9 +6,6 @@
 
 <!-- [TOC] -->
 - [tmp](#tmp)
-  - [May 5, 2019](#may-5-2019)
-  - [April 24, 2019](#april-24-2019)
-  - [April 23, 2019](#april-23-2019)
   - [以上未整理](#以上未整理)
 - [Javascript/HTML](#javascripthtml)
   - [Javascript/HTML 文档、教程](#javascripthtml-文档教程)
@@ -31,31 +28,12 @@
 - [Doker](#doker)
 - [Tools](#tools)
 - [Others](#others)
-  - [其他文档、教程](#其他文档教程)
+  - [其他文档教程](#其他文档教程)
   - [其他项目](#其他项目)
 - [Awesome Lists](#awesome-lists)
 - [Badges and Icons and Fonts](#badges-and-icons-and-fonts)
 
 ## tmp
-
-### May 5, 2019
-
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [liamg/tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
-- [nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices
-- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) : Cybernetically enhanced web apps
-- [在线生成 GitHub README.md 目录 - SleepEatCode](https://sleepeatcode.com/ghtoc) 在线生成 GitHub README.md 目录 - SleepEatCode
-- [elainekoo/laravel-sls - Packagist](https://packagist.org/packages/elainekoo/laravel-sls) elainekoo/laravel-sls - Packagist
-
-### April 24, 2019
-
-- [luin/medis](https://github.com/luin/medis) : 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-- [Tinywan/dnmp](https://github.com/Tinywan/dnmp/) : 使用 docker-compose 部署 LNMP 环境，Base Linux、Nginx、MySQL5.7、PHP7.2、Redis5.0、PHPMyAdmin
-
-### April 23, 2019
-
-- [快速上手 - iView](https://www.iviewui.com/docs/guide/start) 快速上手 - iView
 
 ### 以上未整理
 
@@ -109,6 +87,7 @@
 - [mermaid · GitBook](https://mermaidjs.github.io/) 流程图、甘特图、关系图解析生成
 - [mermaid](https://github.com/knsv/mermaid) : Generation of diagram and flowchart from text in a similar manner as markdown
 - [iView - A high quality UI Toolkit based on Vue.js](https://www.iviewui.com/)
+- [快速上手 - iView](https://www.iviewui.com/docs/guide/start)
 
 ## Node.js
 
@@ -138,6 +117,8 @@
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices) : The largest Node.js best practices list (April 2019)
 - [Repl.it - Import from GitHub](https://repl.it/github/https://github.com/amasad/water.css?lang=nodejs&ref=button) Repl.it - Import from GitHub
 - [lolcatjs](https://github.com/robertboloc/lolcatjs) : For the lols
+- [svelte](https://github.com/sveltejs/svelte) : Cybernetically enhanced web apps
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) Node.js 最佳实践
 
 ## PHP
 
@@ -150,6 +131,7 @@
 - [PHPerInterviewGuide](https://github.com/todayqq/PHPerInterviewGuide) : 这应该是史上最全、最具有指导意义的 PHPer 面试指南
 - [php-engineer-interview-questions](https://github.com/hookover/php-engineer-interview-questions) : PHP工程师面试题目
 - [PHP7新特性整理介绍篇 · PHPer进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259)
+- [laravel-sls - Packagist](https://packagist.org/packages/elainekoo/laravel-sls) elainekoo/laravel-sls - Packagist
 
 ## Python
 
@@ -190,6 +172,7 @@
 - [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
 - [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
+- [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ### zsh, oh my zsh
 
@@ -225,7 +208,6 @@
     > pip install requests urllib3  --force --upgrade
     > pip install httpie
     > ```
-
 - [brew.sh](https://brew.sh/) The missing package manager for macOS (or Linux) ⭕️
 - [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
@@ -253,6 +235,7 @@
 - [annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
 - [crontab.guru - the cron schedule expression editor](https://crontab.guru/#*_*_*_*_*) ⭕️
 - [lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
+- [tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 
 ## Headless Chrome
 
@@ -316,7 +299,7 @@
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 - [oscnews](https://github.com/jaywcjlove/oscnews) : Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 - [markdown-here](https://github.com/adam-p/markdown-here) : Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [langren1353/GM_script](https://github.com/langren1353/GM_script/) : AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
+- [GM_script](https://github.com/langren1353/GM_script/) : AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
 
 ## Mobile
 
@@ -327,6 +310,7 @@
 ## Doker
 
 - [dokku](https://github.com/dokku/dokku) : A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dnmp](https://github.com/Tinywan/dnmp/) : 使用 docker-compose 部署 LNMP 环境，Base Linux、Nginx、MySQL5.7、PHP7.2、Redis5.0、PHPMyAdmin
 
 ## Tools
 
@@ -366,10 +350,12 @@
 - [vscodium](https://github.com/VSCodium/vscodium) : binary releases of VS Code without MS branding/telemetry/licensing
 - [Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件](https://www.appinn.com/notion/) Notion - 火爆的「你到底是什么」工具，病毒式营销又一案例 - 小众软件
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) : 网易云音乐第三方
+- [medis](https://github.com/luin/medis) : 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+- [在线生成 GitHub README.md 目录 - SleepEatCode](https://sleepeatcode.com/ghtoc) 在线生成 GitHub README.md 目录 - SleepEatCode
 
 ## Others
 
-### 其他文档、教程
+### 其他文档教程
 
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。
 - [free-programming-books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -383,6 +369,7 @@
 - [node-lessons](https://github.com/alsotang/node-lessons) : 《Node.js 包教不包会》 by alsotang
 - [ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
 - [猿学 - 你所学的，不仅是技术](http://www.yuanxue365.com/) 猿学 - 你所学的，不仅是技术
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
 ### 其他项目
 
