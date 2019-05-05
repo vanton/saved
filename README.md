@@ -15,6 +15,7 @@
 - [liamg/tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) : Cybernetically enhanced web apps
 
 ### April 30, 2019
 
