@@ -38,6 +38,7 @@
 ### May 5, 2019
 
 - [稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/) 稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog
+- [玩转SSH端口转发 | Fundebug博客](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/) 玩转SSH端口转发 | Fundebug博客
 
 ### 以上未整理
 
