@@ -42,6 +42,7 @@
 - [facebook/Docusaurus](https://github.com/facebook/Docusaurus) : Easy to maintain open source documentation websites.
 - [strapi/strapi](https://github.com/strapi/strapi) : 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [cdr/sshcode](https://github.com/cdr/sshcode) : Run VS Code on any server over SSH.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) : Git with a cup of tea, painless self-hosted git service
 
 ### 以上未整理
 
