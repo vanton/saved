@@ -23,6 +23,8 @@
   - [puppeteer](#puppeteer)
   - [Headless Chrome 其他](#headless-chrome-其他)
 - [Proxy](#proxy)
+  - [代理工具及脚本](#代理工具及脚本)
+  - [ssh 管道 socks5 代理](#ssh-管道-socks5-代理)
 - [Chrome Extensions](#chrome-extensions)
 - [Mobile](#mobile)
 - [Doker](#doker)
@@ -34,12 +36,6 @@
 - [Badges and Icons and Fonts](#badges-and-icons-and-fonts)
 
 ## tmp
-
-### May 5, 2019
-
-- [稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/) 稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog
-- [玩转SSH端口转发 | Fundebug博客](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/) 玩转SSH端口转发 | Fundebug博客
-- [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/) autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog
 
 ### 以上未整理
 
@@ -270,6 +266,8 @@
 
 ## Proxy
 
+### 代理工具及脚本
+
 - [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
     ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg)
     ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg)
@@ -282,6 +280,13 @@
 - [serverspeeder](https://github.com/91yun/serverspeeder) : 锐速破解版，代理加速，实际对 vpn 没有作用。
 - [nps](https://github.com/cnlh/nps) : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。 ⭕️
 - [chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
+
+### ssh 管道 socks5 代理
+
+- [稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/) 稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog
+- [玩转SSH端口转发 | Fundebug博客](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/) 玩转SSH端口转发 | Fundebug博客
+- [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/) autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog
+
 
 ## Chrome Extensions
 
