@@ -285,8 +285,7 @@
 
 - [稳定的Socks代理：AutoSSH+SSH动态端口转发](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/)
 - [玩转SSH端口转发](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/)
-- [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/) autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog
-
+- [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/)
 
 ## Chrome Extensions
 
