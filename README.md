@@ -283,8 +283,8 @@
 
 ### ssh 管道 socks5 代理
 
-- [稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/) 稳定的Socks代理：AutoSSH+SSH动态端口转发 | PZXBC's blog
-- [玩转SSH端口转发 | Fundebug博客](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/) 玩转SSH端口转发 | Fundebug博客
+- [稳定的Socks代理：AutoSSH+SSH动态端口转发](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/)
+- [玩转SSH端口转发](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/)
 - [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/) autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理 - Lester Zhao's Blog
 
 
@@ -449,7 +449,7 @@
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) : Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack ⭕️
 - [nerd-fonts/patched-fonts/Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) nerd-fonts/patched-fonts/Hack at master · ryanoasis/nerd-fonts ⭕️
 - [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) : Tools and instructions on how to have awesome symbols in a terminal with a monospace font
-- [Hack / A typeface designed for source code](https://sourcefoundry.org/hack/)
+- [Hack \| A typeface designed for source code](https://sourcefoundry.org/hack/)
 - [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
 - [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 
