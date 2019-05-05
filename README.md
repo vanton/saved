@@ -12,15 +12,15 @@
   - [April 24, 2019](#april-24-2019)
   - [April 23, 2019](#april-23-2019)
   - [以上未整理](#以上未整理)
-- [Javascript / HTML](#javascript--html)
-  - [Javascript / HTML 文档、教程](#javascript--html-文档教程)
-  - [Javascript / HTML 类库、工具](#javascript--html-类库工具)
+- [Javascript/HTML](#javascripthtml)
+  - [Javascript/HTML 文档、教程](#javascripthtml-文档教程)
+  - [Javascript/HTML 类库、工具](#javascripthtml-类库工具)
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [Python](#python)
 - [Shell](#shell)
-  - [Shell 文档、教程](#shell-文档教程)
-  - [zsh & oh my zsh](#zsh--oh-my-zsh)
+  - [Shell 文档教程](#shell-文档教程)
+  - [zsh, oh my zsh](#zsh-oh-my-zsh)
   - [Shell 工具、命令](#shell-工具命令)
 - [Headless Chrome](#headless-chrome)
   - [puppeteer](#puppeteer)
@@ -31,7 +31,7 @@
 - [Doker](#doker)
 - [Tools](#tools)
 - [Others](#others)
-  - [文档、教程](#文档教程)
+  - [其他文档教程](#其他文档教程)
   - [其他项目](#其他项目)
 - [Awesome Lists](#awesome-lists)
 - [Badges and Icons and Fonts](#badges-and-icons-and-fonts)
@@ -68,9 +68,9 @@
 
 ---
 
-## Javascript / HTML
+## Javascript/HTML
 
-### Javascript / HTML 文档、教程
+### Javascript/HTML 文档、教程
 
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) : HTML Standard
 - [html](https://github.com/whatwg/html) : HTML Standard
@@ -89,7 +89,7 @@
 - [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
 - [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 
-### Javascript / HTML 类库、工具
+### Javascript/HTML 类库、工具
 
 - [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
 - [styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
@@ -185,14 +185,14 @@
 
 ## Shell
 
-### Shell 文档、教程
+### Shell 文档教程
 
 - [How to](http://www.topcaver.com/go-get-through-socks5-proxy) : go get through socks5 proxy
 - [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
 - [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
 
-### zsh & oh my zsh
+### zsh, oh my zsh
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ⭕️
     ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
@@ -260,15 +260,14 @@
 ### puppeteer
 
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless] ⭕️
-    <!-- > ![last-commit](https://img.shields.io/github/last-commit/GoogleChrome/puppeteer.svg) ![release-date](https://img.shields.io/github/release-date/GoogleChrome/puppeteer.svg) ![version](https://img.shields.io/github/release/GoogleChrome/puppeteer.svg) ![commits-since](https://img.shields.io/github/commits-since/GoogleChrome/puppeteer/v1.11.0.svg) -->
-    > ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
+    ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
 - [rize](https://github.com/g-plane/rize) : `puppeteer` 包装
     > 代码比较简洁，有点问题，还需要评估。
 - [Rize 文档](https://rize.js.org/zh-CN/getting-started.html)
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) : `puppeteer` 的 python 实现
 - [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) : `puppeteer` 不支持验证代理，需要转成匿名代理
 - [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理 ⭕️
-    > ![npm](https://nodei.co/npm/proxy-chain.png?compact=true)
+    ![npm](https://nodei.co/npm/proxy-chain.png?compact=true)
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 `puppeteer` 脚本
 - [thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
@@ -276,17 +275,18 @@
 ### Headless Chrome 其他
 
 - ~~[selenium](https://github.com/SeleniumHQ/selenium) : 停止更新~~
-    <!-- > ![last-commit](https://img.shields.io/github/last-commit/SeleniumHQ/selenium.svg) ![release-date](https://img.shields.io/github/release-date/SeleniumHQ/selenium.svg) ![version](https://img.shields.io/github/release/SeleniumHQ/selenium.svg) ![commits-since](https://img.shields.io/github/commits-since/SeleniumHQ/selenium/selenium-3.141.59.svg) -->
-    > ![npm](https://nodei.co/npm/selenium.png?compact=true)
+    ![npm](https://nodei.co/npm/selenium.png?compact=true)
 - ~~[casperjs](https://github.com/casperjs/casperjs) : 停止更新~~
-    <!-- > ![last-commit](https://img.shields.io/github/last-commit/casperjs/casperjs.svg) ![release-date](https://img.shields.io/github/release-date/casperjs/casperjs.svg) ![version](https://img.shields.io/github/release/casperjs/casperjs.svg) ![commits-since](https://img.shields.io/github/commits-since/casperjs/casperjs/1.1.4-2.svg) -->
-    > ![npm](https://nodei.co/npm/phantomjs-prebuilt.png?compact=true)
-    > ![npm](https://nodei.co/npm/casperjs.png?compact=true)
+    ![npm](https://nodei.co/npm/phantomjs-prebuilt.png?compact=true)
+    ![npm](https://nodei.co/npm/casperjs.png?compact=true)
 
 ## Proxy
 
 - [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
-    > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg) ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg) ![version](https://img.shields.io/github/release/fatedier/frp.svg) ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg)
+    ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg)
+    ![version](https://img.shields.io/github/release/fatedier/frp.svg)
+    ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own `IPsec` VPN server, with `IPsec`/`L2TP` and Cisco `IPsec` on Ubuntu, Debian and CentOS ⭕️
 - [algo](https://github.com/trailofbits/algo) : Set up a personal `IPsec` VPN in the cloud
 - [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
@@ -299,7 +299,8 @@
 
 ![chrome]
 
-- github.com ![github]
+- github.com
+    ![github]
   - [enhanced-github](https://github.com/softvar/enhanced-github) : 显示项目大小，文件下载链接
   - [github-file-icon](https://github.com/xxhomey19/github-file-icon) : 🌈 🗂 文件图标
   - [like-on-github](https://github.com/Idnan/like-on-github) : 快速保存项目、链接到 github
@@ -368,7 +369,7 @@
 
 ## Others
 
-### 文档、教程
+### 其他文档教程
 
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。
 - [free-programming-books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -404,19 +405,19 @@
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
 - [awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
-    > ![last-commit](https://img.shields.io/github/last-commit/sindresorhus/awesome.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/sindresorhus/awesome.svg)
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#appearance) : Use your macOS terminal shell to do awesome things.
-    > ![last-commit](https://img.shields.io/github/last-commit/herrbischoff/awesome-macos-command-line.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/herrbischoff/awesome-macos-command-line.svg)
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) : Use your terminal shell to do awesome things.
-    > ![last-commit](https://img.shields.io/github/last-commit/herrbischoff/awesome-command-line-apps.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/herrbischoff/awesome-command-line-apps.svg)
 - [awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-    > ![last-commit](https://img.shields.io/github/last-commit/alebcay/awesome-shell.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/alebcay/awesome-shell.svg)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) : A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
-    > ![last-commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins.svg)
 - [awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things.
-    > ![last-commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/ziadoz/awesome-php.svg)
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) : A curated list of awesome puppeteer resources.
-    > ![last-commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer.svg)
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) : A curated list of awesome curated lists of many topics.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) : A curated list of awesome awesomeness
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) : 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -430,10 +431,12 @@
 
 ## Badges and Icons and Fonts
 
-- [shields.io](https://shields.io) 状态图片 ![badge](https://img.shields.io/badge/subject-status-red.svg?style=flat&logo=appveyor)
+- [shields.io](https://shields.io) 状态图片
+    ![badge](https://img.shields.io/badge/subject-status-red.svg?style=flat&logo=appveyor)
 - [Simple Icons](https://simpleicons.org/)
 - [color-name](https://github.com/colorjs/color-name) : A JSON with CSS color names
-- [nodei.co](https://nodei.co/) NPM 状态图片 ![npm](https://nodei.co/npm/npm.png?compact)
+- [nodei.co](https://nodei.co/) NPM 状态图片
+    ![npm](https://nodei.co/npm/npm.png?compact)
 - [boennemann/badges](https://github.com/boennemann/badges) : 各种 badges
 - [open-source-badges](https://github.com/ellerbrock/open-source-badges) : Open Source & Licence Badges ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 - [useiconic](https://useiconic.com/icons/) Icons
