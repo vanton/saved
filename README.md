@@ -47,6 +47,7 @@
 - [nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) nodebestpractices/README.chinese.md at master · i0natan/nodebestpractices
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) : Cybernetically enhanced web apps
+- [langren1353/GM_script](https://github.com/langren1353/GM_script/) : 我就是来分享脚本玩玩的
 
 ### April 30, 2019
 
