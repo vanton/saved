@@ -8,6 +8,10 @@
 
 ## tmp
 
+### May 5, 2019
+
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Python - 100天从新手到大师
+
 ### April 30, 2019
 
 - [langren1353/GM_script](https://github.com/langren1353/GM_script/) : 我就是来分享脚本玩玩的
