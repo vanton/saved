@@ -13,19 +13,26 @@
   - [April 23, 2019](#april-23-2019)
   - [以上未整理](#以上未整理)
 - [Javascript / HTML](#javascript--html)
-  - [文档、教程](#文档教程)
-  - [类库、工具](#类库工具)
+  - [Javascript / HTML 文档、教程](#javascript--html-文档教程)
+  - [Javascript / HTML 类库、工具](#javascript--html-类库工具)
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [Python](#python)
 - [Shell](#shell)
+  - [Shell 文档、教程](#shell-文档教程)
+  - [zsh & oh my zsh](#zsh--oh-my-zsh)
+  - [Shell 工具、命令](#shell-工具命令)
 - [Headless Chrome](#headless-chrome)
+  - [puppeteer](#puppeteer)
+  - [Headless Chrome 其他](#headless-chrome-其他)
 - [Proxy](#proxy)
 - [Chrome Extensions](#chrome-extensions)
 - [Mobile](#mobile)
 - [Doker](#doker)
 - [Tools](#tools)
 - [Others](#others)
+  - [文档、教程](#文档教程)
+  - [其他项目](#其他项目)
 - [Awesome Lists](#awesome-lists)
 - [Badges and Icons and Fonts](#badges-and-icons-and-fonts)
 
@@ -63,7 +70,7 @@
 
 ## Javascript / HTML
 
-### 文档、教程
+### Javascript / HTML 文档、教程
 
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) : HTML Standard
 - [html](https://github.com/whatwg/html) : HTML Standard
@@ -82,7 +89,7 @@
 - [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目
 - [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 
-### 类库、工具
+### Javascript / HTML 类库、工具
 
 - [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
 - [styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
@@ -178,31 +185,50 @@
 
 ## Shell
 
+### Shell 文档、教程
+
+- [How to](http://www.topcaver.com/go-get-through-socks5-proxy) : go get through socks5 proxy
+- [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
+- [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
+- [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
+
+### zsh & oh my zsh
+
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ⭕️
-    > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 - [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
-    > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
 - [z](https://github.com/rupa/z) : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件 ⭕️
-    > ![last-commit](https://img.shields.io/github/last-commit/rupa/z.svg) ![release-date](https://img.shields.io/github/release-date/rupa/z.svg) ![version](https://img.shields.io/github/release/rupa/z.svg) ![commits-since](https://img.shields.io/github/commits-since/rupa/z/v1.9.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/rupa/z.svg)
+    ![release-date](https://img.shields.io/github/release-date/rupa/z.svg)
+    ![version](https://img.shields.io/github/release/rupa/z.svg)
+    ![commits-since](https://img.shields.io/github/commits-since/rupa/z/v1.9.svg)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : `zsh` 高亮命令显示 ⭕️
-    > ![last-commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting.svg)
 - [zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : `zsh` syntax highlighting with dircolors in realtime
-- [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字 ⭕️
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
-    > ![last-commit](https://img.shields.io/github/last-commit/paoloantinori/hhighlighter.svg)
+    ![last-commit](https://img.shields.io/github/last-commit/paoloantinori/hhighlighter.svg)
+- [antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
+- [powerlevel9k](https://github.com/bhilburn/powerlevel9k) : 主题
+- [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for `zsh`
+
+### Shell 工具、命令
+
+- [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字 ⭕️
 - [htop](https://github.com/hishamhm/htop) : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`. ⭕️
 - [glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
 - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) : `ncdu` 查看硬盘空间 ⭕️
 - [lnav](https://github.com/tstack/lnav) : 日志查看工具
 - [httpie](https://github.com/jakubroztocil/httpie) : `curl` 替代，命令行高亮 ⭕️
     > 安装报错的话需要强制更新 `requests` `urllib3`
+    >
     > ```bash
     > pip install requests urllib3  --force --upgrade
     > pip install httpie
     > ```
+
 - [brew.sh](https://brew.sh/) The missing package manager for macOS (or Linux) ⭕️
 - [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
-- [antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
 - [ccat](https://github.com/jingweno/ccat) : 🌈 彩色化 `cat`
@@ -216,26 +242,22 @@
 - [k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
 - [mtr](https://github.com/traviscross/mtr) : 替代 `traceroute` 和 `ping` 的网络工具
 - [ngrep](https://github.com/jpr5/ngrep/) : 用于网络的 `grep` 工具
-- [powerlevel9k](https://github.com/bhilburn/powerlevel9k) : 主题
 - [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
 - [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
 - [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) ⭕️
 - [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for `zsh`
-- [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for `zsh`
 - [htrace.sh](https://github.com/trimstray/htrace.sh) : My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [log](https://github.com/adamschwartz/log) : `console.log` with style.
 - [Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
 - [sh-spinner](https://github.com/ringohub/sh-spinner) : Simplest spinner in `bash` implementation. ⭕️
 - [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7)
 - [annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
-- [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
-- [How to](http://www.topcaver.com/go-get-through-socks5-proxy) : go get through socks5 proxy
 - [crontab.guru - the cron schedule expression editor](https://crontab.guru/#*_*_*_*_*) ⭕️
-- [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
-- [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
 
 ## Headless Chrome
+
+### puppeteer
 
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless] ⭕️
     <!-- > ![last-commit](https://img.shields.io/github/last-commit/GoogleChrome/puppeteer.svg) ![release-date](https://img.shields.io/github/release-date/GoogleChrome/puppeteer.svg) ![version](https://img.shields.io/github/release/GoogleChrome/puppeteer.svg) ![commits-since](https://img.shields.io/github/commits-since/GoogleChrome/puppeteer/v1.11.0.svg) -->
@@ -250,6 +272,9 @@
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 `puppeteer` 脚本
 - [thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；
+
+### Headless Chrome 其他
+
 - ~~[selenium](https://github.com/SeleniumHQ/selenium) : 停止更新~~
     <!-- > ![last-commit](https://img.shields.io/github/last-commit/SeleniumHQ/selenium.svg) ![release-date](https://img.shields.io/github/release-date/SeleniumHQ/selenium.svg) ![version](https://img.shields.io/github/release/SeleniumHQ/selenium.svg) ![commits-since](https://img.shields.io/github/commits-since/SeleniumHQ/selenium/selenium-3.141.59.svg) -->
     > ![npm](https://nodei.co/npm/selenium.png?compact=true)
@@ -284,7 +309,6 @@
   - [render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符
 - [FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ⭕️
-- [violentmonkey](https://github.com/violentmonkey/violentmonkey) : 用户脚本
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 - [git-history](https://github.com/pomber/git-history) : Quickly browse the history of a file from any `git` repository
 - [baiduyun](https://github.com/syhyz1990/baiduyun) : 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
@@ -344,31 +368,36 @@
 
 ## Others
 
+### 文档、教程
+
+- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。
+- [free-programming-books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
+- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+- [public-apis](https://github.com/toddmotto/public-apis) : A collective list of free APIs for use in software and web development.
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 免费的计算机编程类中文书籍，欢迎投稿
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) : 微信小程序开发资源汇总 :100:
+- [weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
+- [handbook](https://github.com/jaywcjlove/handbook) : 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
+- [N-blog](https://github.com/nswbmw/N-blog) : 《一起学 Node.js》
+- [node-lessons](https://github.com/alsotang/node-lessons) : 《Node.js 包教不包会》 by alsotang
+- [ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
+- [猿学 - 你所学的，不仅是技术](http://www.yuanxue365.com/) 猿学 - 你所学的，不仅是技术
+
+### 其他项目
+
 - [996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [955.WLB](https://github.com/formulahendry/955.WLB) : 955 不加班的公司名单
-- [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。
 - [gitignore](https://github.com/github/gitignore) : A collection of useful .gitignore templates
-- [free-programming-books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
-- [猿学 - 你所学的，不仅是技术](http://www.yuanxue365.com/) 猿学 - 你所学的，不仅是技术
 - [全球直播频道-高清无插件在线电视直播-TVVTVV.com](http://tvvtvv.com/)
 - [Readhub](https://readhub.cn/topics)
 - [全国电视直播---bddn.cn](http://bddn.cn/zb.htm)
 - [果汁排行榜 - 各类榜单排名大全](http://guozhivip.com/rank/)
-- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) : 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [Micro8](https://github.com/Micropoor/Micro8) : Gitbook
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) : 😋 技术面试必备基础知识
 - [public-apis](https://github.com/toddmotto/public-apis) : A collective list of free APIs for use in software and web development.
 - [Free stock videos · Pexels Videos](https://www.pexels.com/videos/)
 - [Choose the best - Slant](https://www.slant.co/)
 - [FiraCode](https://github.com/tonsky/FiraCode) : Monospaced font with programming ligatures
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) : 免费的计算机编程类中文书籍，欢迎投稿
-- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) : 微信小程序开发资源汇总 :100:
-- [ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
-- [weekly](https://github.com/dt-fe/weekly) : 前端精读周刊
 - [内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务](http://outofmemory.cn/#csdn)
-- [handbook](https://github.com/jaywcjlove/handbook) : 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-- [node-lessons](https://github.com/alsotang/node-lessons) : 《Node.js 包教不包会》 by alsotang
-- [N-blog](https://github.com/nswbmw/N-blog) : 《一起学 Node.js》
 
 ## Awesome Lists
 
