@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # saved
 
 > saved on git
