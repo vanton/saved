@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # saved
 
 > saved on git
@@ -176,7 +180,7 @@
 - [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
 - [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
-- [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
 
 ### zsh, oh my zsh
 
@@ -212,6 +216,7 @@
     > pip install requests urllib3  --force --upgrade
     > pip install httpie
     > ```
+
 - [brew.sh](https://brew.sh/) The missing package manager for macOS (or Linux) ⭕️
 - [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
@@ -404,7 +409,8 @@
 
 ## Awesome Lists
 
-<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!-- <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> -->
 
 - [awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
     > ![last-commit](https://img.shields.io/github/last-commit/sindresorhus/awesome.svg)
