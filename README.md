@@ -37,6 +37,10 @@
 
 ## tmp
 
+### May 7, 2019
+
+- [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
+
 ### 以上未整理
 
 ---
