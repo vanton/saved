@@ -48,6 +48,7 @@
 - [前端公共库CDN加速-静态资源公共库,免费CDN公共库](https://cdnjs.net/) 前端公共库CDN加速-静态资源公共库,免费CDN公共库
 - [Staticfile CDN](http://www.staticfile.org/) Staticfile CDN
 - [UNPKG](https://unpkg.com/) UNPKG
+- [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) : A responsive theme for Nginx Fancyindex module . Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form , aims to handle thousands of files without any problems
 
 ### 以上未整理
 
