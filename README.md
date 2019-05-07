@@ -209,7 +209,7 @@
 
     > 安装报错的话需要强制更新 `requests` `urllib3`
     >
-    > ```batch
+    > ```shell
     > pip install requests urllib3  --force --upgrade
     > pip install httpie
     > ```
