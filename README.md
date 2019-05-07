@@ -104,14 +104,19 @@
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) : A collection of common interactive command line user interfaces.
 - [commander.js](https://github.com/tj/commander.js) : node.js command-line interfaces made easy
 - [cli-table3](https://github.com/cli-table/cli-table3) : Pretty unicode tables for the command line
-- [prompts](https://github.com/terkelg/prompts) : ❯ Lightweight, beautiful and user-friendly interactive prompts. ⭕️
+- [prompts](https://github.com/terkelg/prompts)
+    : ❯ Lightweight, beautiful and user-friendly interactive prompts. ⭕️
 - [Motrix](https://github.com/agalwood/Motrix) : A full-featured download manager.
-- [tracer](https://github.com/baryon/tracer) : A powerful and customizable logging library for node.js  ⭕️
+- [tracer](https://github.com/baryon/tracer)
+    : A powerful and customizable logging library for node.js  ⭕️
 - [colors.js](https://github.com/Marak/colors.js) : get colors in your node.js console
-- [chalk](https://github.com/chalk/chalk#readme) : 🖍 Terminal string styling done right ⭕️
+- [chalk](https://github.com/chalk/chalk#readme)
+    : 🖍 Terminal string styling done right ⭕️
 - [node-draftlog](https://github.com/ivanseidel/node-draftlog) : 📜 Create updatable log lines into the terminal, and give life to your logs!
-- [nvm](https://github.com/creationix/nvm) : Node Version Manager - Simple `bash` script to manage multiple active node.js versions  ⭕️
-- [n](https://github.com/tj/n) : Node version management
+- [nvm](https://github.com/creationix/nvm)
+    : Node Version Manager - Simple `bash` script to manage multiple active node.js versions ⭕️
+- [n](https://github.com/tj/n)
+    : Node version management ~这个比较好用~ ⭕️
 - [depcheck](https://github.com/depcheck/depcheck) : Check your `npm` module for unused dependencies
 - [purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
 - [nest](https://github.com/nestjs/nest) : A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -180,16 +185,19 @@
 
 ### zsh, oh my zsh
 
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ⭕️
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+    : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ~linux必备~ ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 - [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
     > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
-- [z](https://github.com/rupa/z) : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件 ⭕️
+- [z](https://github.com/rupa/z)
+    : `z` - 快速跳转目录, `oh-my-zsh` 包含此插件 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/rupa/z.svg)
     > ![release-date](https://img.shields.io/github/release-date/rupa/z.svg)
     > ![version](https://img.shields.io/github/release/rupa/z.svg)
     > ![commits-since](https://img.shields.io/github/commits-since/rupa/z/v1.9.svg)
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) : `zsh` 高亮命令显示 ⭕️
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+    : `zsh` 高亮命令显示 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting.svg)
 - [zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) : `zsh` syntax highlighting with dircolors in realtime
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting#installation) : Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes (short name F-Sy-H)
@@ -200,12 +208,17 @@
 
 ### Shell 工具、命令
 
-- [hhighlighter](https://github.com/paoloantinori/hhighlighter) : shell 高亮关键字 ⭕️
-- [htop](https://github.com/hishamhm/htop) : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`. ⭕️
+- [hhighlighter](https://github.com/paoloantinori/hhighlighter)
+    : shell 高亮关键字 ⭕️
+- [htop](https://github.com/hishamhm/htop)
+    : `htop` is an interactive text-mode process viewer for Unix systems. It aims to be a better `top`. ⭕️
 - [glances](https://github.com/nicolargo/glances) : `top`/`htop` 替代，全面监控系统
-- [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) : `ncdu` 查看硬盘空间 ⭕️
-- [lnav](https://github.com/tstack/lnav) : 日志查看工具
-- [httpie](https://github.com/jakubroztocil/httpie) : `curl` 替代，命令行高亮 ⭕️
+- [NCurses Disk Usage](https://dev.yorhel.nl/ncdu)
+    : `ncdu` 查看硬盘空间 ⭕️
+- [lnav](https://github.com/tstack/lnav)
+    : 日志查看工具 ⭕️
+- [httpie](https://github.com/jakubroztocil/httpie)
+    : `curl` 替代，命令行高亮 ⭕️
 
     > 安装报错的话需要强制更新 `requests` `urllib3`
     >
@@ -214,7 +227,8 @@
     > pip install httpie
     > ```
 
-- [brew.sh](https://brew.sh/) The missing package manager for macOS (or Linux) ⭕️
+- [brew.sh](https://brew.sh/)
+    : The missing package manager for macOS (or Linux) ⭕️
 - [Linuxbrew](http://linuxbrew.sh/) : The Homebrew package manager for Linux
 - [asciinema](https://github.com/asciinema/asciinema) : Terminal session recorder 📹
 - [bashstrap](https://github.com/barryclark/bashstrap) : A quick way to spruce up your terminal in OSX.
@@ -225,21 +239,25 @@
 - [has](https://github.com/kdabir/has) : 检查命令是否存在
 - [histstat](https://github.com/vesche/histstat) : history for `netstat`
 - [iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) : Automatic ZModem support for iTerm 2
-- [jq](https://stedolan.github.io/jq/) : 格式化输出 `json` ⭕️
+- [jq](https://stedolan.github.io/jq/)
+    : 格式化输出 `json` ⭕️
 - [k](https://github.com/supercrabtree/k) : `k` is the new `l`, yo
 - [mtr](https://github.com/traviscross/mtr) : 替代 `traceroute` 和 `ping` 的网络工具
 - [ngrep](https://github.com/jpr5/ngrep/) : 用于网络的 `grep` 工具
 - [procdog](https://github.com/jlevy/procdog) : 轻量守护进程
 - [thefuck](https://github.com/nvbn/thefuck) : shell 命令纠正工具
-- [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/) ⭕️
+- [vnStat - a network traffic monitor for Linux and BSD](https://humdi.net/vnstat/)
+    : 网络流量监控统计 ⭕️
 - [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) : Multi-word, syntax highlighted history searching for `zsh`
 - [htrace.sh](https://github.com/trimstray/htrace.sh) : My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [log](https://github.com/adamschwartz/log) : `console.log` with style.
 - [Color-Scripts](https://github.com/stark/Color-Scripts) : User contributed color scripts
-- [sh-spinner](https://github.com/ringohub/sh-spinner) : Simplest spinner in `bash` implementation. ⭕️
+- [sh-spinner](https://github.com/ringohub/sh-spinner)
+    : Simplest spinner in `bash` implementation. ⭕️
 - [CentOS 7 下 yum 安装和配置 NFS - Zhanming's blog](https://qizhanming.com/blog/2018/08/08/how-to-install-nfs-on-centos-7)
 - [annie](https://github.com/iawia002/annie) : 👾 Fast, simple and clean video downloader
-- [crontab.guru - the cron schedule expression editor](https://crontab.guru/#*_*_*_*_*) ⭕️
+- [crontab.guru - the cron schedule expression editor](https://crontab.guru/#*_*_*_*_*)
+    : crontab 在线生成工具 ⭕️
 - [lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
 - [tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 
@@ -247,14 +265,16 @@
 
 ### puppeteer
 
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) : Headless Chrome Node API ![headless][headless] ⭕️
+- [puppeteer](https://github.com/GoogleChrome/puppeteer)
+    : Headless Chrome Node API ![headless][headless] ⭕️
     > ![npm](https://nodei.co/npm/puppeteer.png?compact=true)
 - [rize](https://github.com/g-plane/rize) : `puppeteer` 包装
     > 代码比较简洁，有点问题，还需要评估。
 - [Rize 文档](https://rize.js.org/zh-CN/getting-started.html)
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) : `puppeteer` 的 python 实现
 - [Make headless Chrome and Puppeteer use proxy server with authentication](https://blog.apify.com/how-to-make-headless-chrome-and-puppeteer-use-a-proxy-server-with-authentication-249a21a79212) : `puppeteer` 不支持验证代理，需要转成匿名代理
-- [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain) 为需要验证的代理创建匿名代理 ⭕️
+- [proxy-chain - npm](https://www.npmjs.com/package/proxy-chain)
+    : 为需要验证的代理创建匿名代理 ⭕️
     > ![npm](https://nodei.co/npm/proxy-chain.png?compact=true)
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) : 记录浏览器行为到 `puppeteer` 脚本
 - [thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
@@ -272,17 +292,20 @@
 
 ### 代理工具及脚本
 
-- [frp](https://github.com/fatedier/frp) : 反向代理服务，内网穿透 ⭕️
+- [frp](https://github.com/fatedier/frp)
+    : 反向代理服务，内网穿透 ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/fatedier/frp.svg)
     > ![release-date](https://img.shields.io/github/release-date/fatedier/frp.svg)
     > ![version](https://img.shields.io/github/release/fatedier/frp.svg)
     > ![commits-since](https://img.shields.io/github/commits-since/fatedier/frp/v0.23.1.svg)
-- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) : Scripts to build your own `IPsec` VPN server, with `IPsec`/`L2TP` and Cisco `IPsec` on Ubuntu, Debian and CentOS ⭕️
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
+    : Scripts to build your own `IPsec` VPN server, with `IPsec`/`L2TP` and Cisco `IPsec` on Ubuntu, Debian and CentOS ⭕️
 - [algo](https://github.com/trailofbits/algo) : Set up a personal `IPsec` VPN in the cloud
 - [xiringuito](https://github.com/ivanilves/xiringuito) : SSH-based "VPN for poors"
 - [frpspro](https://github.com/dylanbai8/frpspro) : Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！
 - [serverspeeder](https://github.com/91yun/serverspeeder) : 锐速破解版，代理加速，实际对 vpn 没有作用。
-- [nps](https://github.com/cnlh/nps) : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。 ⭕️
+- [nps](https://github.com/cnlh/nps)
+    : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。 ⭕️
 - [chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
 
 ### ssh 管道 socks5 代理
@@ -305,7 +328,8 @@
   - [refined-github](https://github.com/sindresorhus/refined-github) : github 小工具集
   - [render-whitespace-on-github](https://github.com/glebm/render-whitespace-on-github) : 显示空格字符
 - [FeHelper](https://github.com/zxlie/FeHelper) : 😍 Web前端助手 (转码，格式化，时间戳，取色，二维码，等)
-- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) : 网络代理服务管理 ⭕️
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+    : 网络代理服务管理 ⭕️
 - [xStyle](https://github.com/FirefoxBar/xStyle) 自定义样式
 - [git-history](https://github.com/pomber/git-history) : Quickly browse the history of a file from any `git` repository
 - [baiduyun](https://github.com/syhyz1990/baiduyun) : 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
@@ -329,14 +353,17 @@
 ## Tools
 
 - wakatime 开发时间记录
-  - [wakatime](https://github.com/wakatime/wakatime) ⭕️
-  - [zsh-wakatime](https://github.com/wbingli/zsh-wakatime) : ZSH plugin for wakatime ⭕️
+  - [wakatime](https://github.com/wakatime/wakatime)
+    : 统计项目和开发语言使用时间的工具 ⭕️
+  - [zsh-wakatime](https://github.com/wbingli/zsh-wakatime)
+    : ZSH plugin for wakatime ⭕️
 - tldr 友好的帮助命令
   - [tldr](https://github.com/tldr-pages/tldr)
   - [tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
-  - [Go2Shell](https://zipzapmac.com/Go2Shell) : Finder 快速打开终端 ![macos] ⭕️
+  - [Go2Shell](https://zipzapmac.com/Go2Shell)
+    : Finder 快速打开终端 ![macos] ⭕️
 - [ip2region](https://github.com/lionsoul2014/ip2region) : ip 解析为地区
 - [MJML App](https://mjmlio.github.io/mjml-app/) : 设计电子邮件模板
 - [aria-ng-gui](https://github.com/Xmader/aria-ng-gui) : 一个 Aria2 图形界面客户端 \| An Aria2 GUI for Windows & Linux & MacOS
@@ -358,7 +385,8 @@
 - [Pine](https://github.com/lukakerr/Pine) : A modern, native macOS markdown editor
 - [uTools - 你的生产力工具集](https://u.tools/)
 - [balenaEtcher](https://www.balena.io/etcher/) U盘刻录工具
-- [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) : A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 ⭕️
+- [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+    : A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 ⭕️
 - [FishChat](https://github.com/yulingtianxia/FishChat) : Hook WeChat.app on non-jailbroken devices.
 - [jumpcutter](https://github.com/carykh/jumpcutter) : Automatically edits vidx. Explanation here: <https://www.youtube.com/watch?v=DQ8orIurGxw>
 - [vscodium](https://github.com/VSCodium/vscodium) : binary releases of VS Code without MS branding/telemetry/licensing
