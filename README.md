@@ -40,6 +40,7 @@
 ### May 7, 2019
 
 - [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
+- [daruk-framework/daruk](https://github.com/daruk-framework/daruk) : a node.js web framework based on typescript
 
 ### 以上未整理
 
