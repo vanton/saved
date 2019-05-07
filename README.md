@@ -43,6 +43,7 @@
 - [daruk-framework/daruk](https://github.com/daruk-framework/daruk) : a node.js web framework based on typescript
 - [nefe/number-precision](https://github.com/nefe/number-precision) : 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) : Open source neutral style icon system
+- [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/) cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!
 
 ### 以上未整理
 
