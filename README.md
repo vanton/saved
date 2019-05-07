@@ -44,6 +44,7 @@
 - [nefe/number-precision](https://github.com/nefe/number-precision) : 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) : Open source neutral style icon system
 - [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/) cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!
+- [前端公共库CDN加速-静态资源公共库,免费CDN公共库](https://cdnjs.net/) 前端公共库CDN加速-静态资源公共库,免费CDN公共库
 
 ### 以上未整理
 
