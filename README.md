@@ -41,6 +41,7 @@
 
 - [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
 - [daruk-framework/daruk](https://github.com/daruk-framework/daruk) : a node.js web framework based on typescript
+- [nefe/number-precision](https://github.com/nefe/number-precision) : 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 
 ### 以上未整理
 
