@@ -40,6 +40,7 @@
 ### May 8, 2019
 
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) : 一个基于浏览器端 JS 实现的在线代理
 
 ### May 7, 2019
 
