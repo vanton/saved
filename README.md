@@ -37,6 +37,10 @@
 
 ## tmp
 
+### May 8, 2019
+
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
+
 ### May 7, 2019
 
 - [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
