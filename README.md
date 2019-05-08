@@ -41,6 +41,7 @@
 
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
 - [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) : 一个基于浏览器端 JS 实现的在线代理
+- [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) :  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 ### May 7, 2019
 
