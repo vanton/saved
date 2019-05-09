@@ -42,6 +42,7 @@
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) : An awesome & curated list of best applications and tools for Windows.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) : ⚡️ Streaming torrent client for the web
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) : GUI image optimizer for Mac
+- [Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/) Sourcetree | Free Git GUI for Mac and Windows
 
 ### May 8, 2019
 
