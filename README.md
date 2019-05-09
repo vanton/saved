@@ -44,6 +44,7 @@
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) : GUI image optimizer for Mac
 - [Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/) Sourcetree | Free Git GUI for Mac and Windows
 - [Vagrant Manager - Home](http://vagrantmanager.com/) Vagrant Manager - Home
+- [‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”](https://itunes.apple.com/cn/app/forklift-file-manager-and-ftp-sftp-webdav-amazon-s3-client/id412448059?mt=12) ‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”
 
 ### May 8, 2019
 
