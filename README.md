@@ -40,6 +40,7 @@
 ### May 9, 2019
 
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) : An awesome & curated list of best applications and tools for Windows.
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) : ⚡️ Streaming torrent client for the web
 
 ### May 8, 2019
 
