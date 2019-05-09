@@ -49,6 +49,7 @@
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) : Bring macOS “Quick Look” feature to Windows
 - [Flexibits | Fantastical 2 for Mac | Meet your Mac's new calendar.](https://flexibits.com/fantastical) Flexibits | Fantastical 2 for Mac | Meet your Mac's new calendar.
 - [HyperDock](https://bahoom.com/hyperdock/) HyperDock
+- [Karabiner - Software for macOS](https://pqrs.org/osx/karabiner/) Karabiner - Software for macOS
 
 ### May 8, 2019
 
