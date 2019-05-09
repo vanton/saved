@@ -2,7 +2,7 @@
 
 > saved on git
 >
-> :bookmark: <https://vanton.github.io/saved>
+> 🔖 <https://vanton.github.io/saved>
 
 <!-- [TOC] -->
 - [tmp](#tmp)
