@@ -43,6 +43,7 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) : ⚡️ Streaming torrent client for the web
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) : GUI image optimizer for Mac
 - [Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/) Sourcetree | Free Git GUI for Mac and Windows
+- [Vagrant Manager - Home](http://vagrantmanager.com/) Vagrant Manager - Home
 
 ### May 8, 2019
 
