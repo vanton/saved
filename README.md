@@ -48,6 +48,7 @@
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) : List of useful Quick Look plugins for developers
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) : Bring macOS “Quick Look” feature to Windows
 - [Flexibits | Fantastical 2 for Mac | Meet your Mac's new calendar.](https://flexibits.com/fantastical) Flexibits | Fantastical 2 for Mac | Meet your Mac's new calendar.
+- [HyperDock](https://bahoom.com/hyperdock/) HyperDock
 
 ### May 8, 2019
 
