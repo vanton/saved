@@ -37,6 +37,10 @@
 
 ## tmp
 
+### May 9, 2019
+
+- [TotalFinder is a better Finder](https://totalfinder.binaryage.com/) TotalFinder is a better Finder
+
 ### 以上未整理
 
 ---
