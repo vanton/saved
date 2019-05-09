@@ -27,7 +27,7 @@
   - [ssh 管道 socks5 代理](#ssh-管道-socks5-代理)
 - [Chrome Extensions](#chrome-extensions)
 - [Mobile](#mobile)
-- [Doker](#doker)
+- [Doker/Vagrant](#dokervagrant)
 - [Tools](#tools)
 - [Others](#others)
   - [其他文档教程](#其他文档教程)
@@ -36,39 +36,6 @@
 - [Badges and Icons and Fonts](#badges-and-icons-and-fonts)
 
 ## tmp
-
-### May 9, 2019
-
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) : An awesome & curated list of best applications and tools for Windows.
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) : ⚡️ Streaming torrent client for the web
-- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) : GUI image optimizer for Mac
-- [Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/) Sourcetree | Free Git GUI for Mac and Windows
-- [Vagrant Manager - Home](http://vagrantmanager.com/) Vagrant Manager - Home
-- [‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”](https://itunes.apple.com/cn/app/forklift-file-manager-and-ftp-sftp-webdav-amazon-s3-client/id412448059?mt=12) ‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”
-- [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) : List of useful Quick Look plugins for developers
-- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) : Bring macOS “Quick Look” feature to Windows
-- [Flexibits | Fantastical 2 for Mac | Meet your Mac's new calendar.](https://flexibits.com/fantastical) Flexibits | Fantastical 2 for Mac | Meet your Mac's new calendar.
-- [HyperDock](https://bahoom.com/hyperdock/) HyperDock
-- [Karabiner - Software for macOS](https://pqrs.org/osx/karabiner/) Karabiner - Software for macOS
-
-### May 8, 2019
-
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
-- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) : 一个基于浏览器端 JS 实现的在线代理
-- [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) :  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-
-### May 7, 2019
-
-- [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
-- [daruk-framework/daruk](https://github.com/daruk-framework/daruk) : a node.js web framework based on typescript
-- [nefe/number-precision](https://github.com/nefe/number-precision) : 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) : Open source neutral style icon system
-- [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/) cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!
-- [前端公共库CDN加速-静态资源公共库,免费CDN公共库](https://cdnjs.net/) 前端公共库CDN加速-静态资源公共库,免费CDN公共库
-- [前端公共库CDN加速-静态资源公共库,免费CDN公共库](https://cdnjs.net/) 前端公共库CDN加速-静态资源公共库,免费CDN公共库
-- [Staticfile CDN](http://www.staticfile.org/) Staticfile CDN
-- [UNPKG](https://unpkg.com/) UNPKG
-- [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) : A responsive theme for Nginx Fancyindex module . Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form , aims to handle thousands of files without any problems
 
 ### 以上未整理
 
@@ -124,6 +91,10 @@
 - [iView - A high quality UI Toolkit based on Vue.js](https://www.iviewui.com/)
 - [快速上手 - iView](https://www.iviewui.com/docs/guide/start)
 - [Docusaurus](https://github.com/facebook/Docusaurus) : Easy to maintain open source documentation websites.
+- [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/) cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites! ⭕️
+- [前端公共库CDN加速-静态资源公共库,免费CDN公共库](https://cdnjs.net/)
+- [Staticfile CDN](http://www.staticfile.org/) Staticfile CDN
+- [UNPKG](https://unpkg.com/) UNPKG ⭕️
 
 ## Node.js
 
@@ -161,6 +132,8 @@
 - [svelte](https://github.com/sveltejs/svelte) : Cybernetically enhanced web apps
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) Node.js 最佳实践
 - [strapi](https://github.com/strapi/strapi) : 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [number-precision](https://github.com/nefe/number-precision) : 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
+- [daruk](https://github.com/daruk-framework/daruk) : a node.js web framework based on typescript
 
 ## PHP
 
@@ -293,6 +266,8 @@
     : crontab 在线生成工具 ⭕️
 - [lolcat](https://github.com/busyloop/lolcat) : Rainbows and unicorns!
 - [tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
+- [Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) : A responsive theme for Nginx Fancyindex module . Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form , aims to handle thousands of files without any problems
+- [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
 
 ## Headless Chrome
 
@@ -340,6 +315,7 @@
 - [nps](https://github.com/cnlh/nps)
     : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。 ⭕️
 - [chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
+- [jsproxy](https://github.com/EtherDream/jsproxy) : 一个基于浏览器端 JS 实现的在线代理
 
 ### ssh 管道 socks5 代理
 
@@ -378,10 +354,11 @@
 - [DoraemonKit](https://github.com/didi/DoraemonKit) : 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
 - [flutter](https://github.com/flutter/flutter) : Flutter makes it easy and fast to build beautiful mobile apps.
 
-## Doker
+## Doker/Vagrant
 
 - [dokku](https://github.com/dokku/dokku) : A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dnmp](https://github.com/Tinywan/dnmp/) : 使用 docker-compose 部署 LNMP 环境，Base Linux、Nginx、MySQL5.7、PHP7.2、Redis5.0、PHPMyAdmin
+- [Vagrant Manager - Home](http://vagrantmanager.com/)
 
 ## Tools
 
@@ -416,7 +393,7 @@
 - [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/)
 - [Firefox Monitor](https://monitor.firefox.com/) 账号泄露监控
 - [Pine](https://github.com/lukakerr/Pine) : A modern, native macOS markdown editor
-- [uTools - 你的生产力工具集](https://u.tools/)
+- [uTools - 你的生产力工具集](https://u.tools/) ⭕️
 - [balenaEtcher](https://www.balena.io/etcher/) U盘刻录工具
 - [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
     : A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 ⭕️
@@ -430,6 +407,15 @@
 - [ccxt](https://github.com/ccxt/ccxt) : A JavaScript / Python / PHP cryptocurrency trading API with support for more than 130 bitcoin/altcoin exchanges
 - [gitea](https://github.com/go-gitea/gitea) : Git with a cup of tea, painless self-hosted git service
 - [sshcode](https://github.com/cdr/sshcode) : Run VS Code on any server over SSH.
+- [Karabiner - Software for macOS](https://pqrs.org/osx/karabiner/) Karabiner - Software for macOS
+- [webtorrent](https://github.com/webtorrent/webtorrent) : ⚡️ Streaming torrent client for the web
+- [HyperDock](https://bahoom.com/hyperdock/) HyperDock
+- [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) : List of useful Quick Look plugins for developers
+- [QuickLook](https://github.com/QL-Win/QuickLook) : Bring macOS “Quick Look” feature to Windows
+- [Flexibits \| Fantastical 2 for Mac \| Meet your Mac's new calendar.](https://flexibits.com/fantastical)
+- [ImageOptim](https://github.com/ImageOptim/ImageOptim) : GUI image optimizer for Mac
+- [Sourcetree \| Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/)
+- [‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”](https://itunes.apple.com/cn/app/forklift-file-manager-and-ftp-sftp-webdav-amazon-s3-client/id412448059?mt=12) Finder 增强，不太好用。
 
 ## Others
 
@@ -464,6 +450,7 @@
 - [Choose the best - Slant](https://www.slant.co/)
 - [FiraCode](https://github.com/tonsky/FiraCode) : Monospaced font with programming ligatures
 - [内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务](http://outofmemory.cn/#csdn)
+- [github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
 
 ## Awesome Lists
 
@@ -494,6 +481,8 @@
 - [独立](https://josephchang10.github.io/chinese-indie-hackers/) 中国独立 iOS 和 macOS 开发者图鉴
 - [awesome-stacks](https://github.com/stackshareio/awesome-stacks) : A curated list of tech stacks for building different applications & features
 - [Choose the best - Slant](https://www.slant.co/)
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) :  A curated list of awesome applications, softwares, tools and shiny things for macOS. ⭕️
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) : An awesome & curated list of best applications and tools for Windows.
 
 ## Badges and Icons and Fonts
 
@@ -520,6 +509,7 @@
 - [Hack \| A typeface designed for source code](https://sourcefoundry.org/hack/)
 - [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
 - [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
+- [RemixIcon](https://github.com/Remix-Design/RemixIcon) : Open source neutral style icon system
 
 <!-- 变量 -->
 
