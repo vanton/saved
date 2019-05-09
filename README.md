@@ -41,6 +41,7 @@
 ### May 9, 2019
 
 - [TotalFinder is a better Finder](https://totalfinder.binaryage.com/) TotalFinder is a better Finder
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) : A markdown version emoji cheat sheet
 
 ### 以上未整理
 
