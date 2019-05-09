@@ -42,6 +42,7 @@
 
 - [TotalFinder is a better Finder](https://totalfinder.binaryage.com/) TotalFinder is a better Finder
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) : A markdown version emoji cheat sheet
+- [nikolaeu/Numi-extensions](https://github.com/nikolaeu/numi-extensions) : Extensions API for Numi
 
 ### 以上未整理
 
