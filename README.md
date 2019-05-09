@@ -46,6 +46,7 @@
 - [Vagrant Manager - Home](http://vagrantmanager.com/) Vagrant Manager - Home
 - [‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”](https://itunes.apple.com/cn/app/forklift-file-manager-and-ftp-sftp-webdav-amazon-s3-client/id412448059?mt=12) ‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) : List of useful Quick Look plugins for developers
+- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) : Bring macOS “Quick Look” feature to Windows
 
 ### May 8, 2019
 
