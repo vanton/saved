@@ -6,6 +6,7 @@
 
 <!-- [TOC] -->
 - [tmp](#tmp)
+  - [May 10, 2019](#may-10-2019)
   - [May 9, 2019](#may-9-2019)
   - [以上未整理](#以上未整理)
 - [Javascript/HTML](#javascripthtml)
@@ -137,7 +138,7 @@
 - [nvm](https://github.com/creationix/nvm)
     : Node Version Manager - Simple `bash` script to manage multiple active node.js versions ⭕️
 - [n](https://github.com/tj/n)
-    : Node version management __这个比较好用__ ⭕️
+    : Node version management ==这个比较好用== ⭕️
 - [depcheck](https://github.com/depcheck/depcheck) : Check your `npm` module for unused dependencies
 - [purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
 - [nest](https://github.com/nestjs/nest) : A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -209,7 +210,7 @@
 ### zsh, oh my zsh
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-    : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) __linux 必备__ ⭕️
+    : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ==linux 必备== ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 - [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
     > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
