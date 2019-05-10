@@ -48,6 +48,7 @@
 - [25.io \| Toau - Convert text to audio, like magic.](http://25.io/toau/) 25.io \| Toau - Convert text to audio, like magic.
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) : Open source Markdown editor for macOS.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) : Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+- [electron/electron](https://github.com/electron/electron) : Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ### May 9, 2019
 
