@@ -45,6 +45,7 @@
 - [MacDown](https://macdown.uranusjr.com/) : The open source Markdown editor for macOS
 - [25.io | Mou - Markdown editor for developers, on Mac OS X.](http://25.io/mou/) 25.io | Mou - Markdown editor for developers, on Mac OS X.
 - [25.io | Toau - Convert text to audio, like magic.](http://25.io/toau/) 25.io | Toau - Convert text to audio, like magic.
+- [MacDownApp/macdown](https://github.com/MacDownApp/macdown) : Open source Markdown editor for macOS.
 
 ### May 9, 2019
 
