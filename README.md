@@ -61,6 +61,7 @@
 - [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) : Python爬虫代理IP池(proxy pool)
 - [Ehco1996/Python-crawler](https://github.com/Ehco1996/Python-crawler) : 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6
+- [sczhengyabin/Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) : Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
 
 ### May 9, 2019
 
