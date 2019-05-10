@@ -51,6 +51,7 @@
 - [electron/electron](https://github.com/electron/electron) : Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [heX - Using HTML5 and Node.js to Build Desktop Application](http://hex.youdao.com/zh-cn/index.html) heX - Using HTML5 and Node.js to Build Desktop Application
 - [Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV](https://www.houdah.com/type2Phone/) Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV
+- [jolaleye/cssfx](https://github.com/jolaleye/cssfx) : ✨ Beautifully simple click-to-copy CSS effects
 
 ### May 9, 2019
 
