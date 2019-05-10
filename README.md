@@ -39,17 +39,13 @@
 
 ## tmp
 
-::: danger
-Valid container types are `success`, `info`, `warning` and `danger`.
-:::
-
 ### May 10, 2019
 
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) : A markdown editor for developers on Mac, Windows and Linux.
 - [Typora — a markdown editor, markdown reader.](https://typora.io/) Typora — a markdown editor, markdown reader.
 - [MacDown](https://macdown.uranusjr.com/) : The open source Markdown editor for macOS
-- [25.io | Mou - Markdown editor for developers, on Mac OS X.](http://25.io/mou/) 25.io | Mou - Markdown editor for developers, on Mac OS X.
-- [25.io | Toau - Convert text to audio, like magic.](http://25.io/toau/) 25.io | Toau - Convert text to audio, like magic.
+- [25.io \| Mou - Markdown editor for developers, on Mac OS X.](http://25.io/mou/) 25.io \| Mou - Markdown editor for developers, on Mac OS X.
+- [25.io \| Toau - Convert text to audio, like magic.](http://25.io/toau/) 25.io \| Toau - Convert text to audio, like magic.
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) : Open source Markdown editor for macOS.
 
 ### May 9, 2019
@@ -142,7 +138,7 @@ Valid container types are `success`, `info`, `warning` and `danger`.
 - [nvm](https://github.com/creationix/nvm)
     : Node Version Manager - Simple `bash` script to manage multiple active node.js versions ⭕️
 - [n](https://github.com/tj/n)
-    : Node version management $这个比较好用$ ⭕
+    : Node version management ❗️这个比较好用❗️ ⭕
 - [depcheck](https://github.com/depcheck/depcheck) : Check your `npm` module for unused dependencies
 - [purgecss](https://github.com/FullHuman/purgecss) : Remove unused css
 - [nest](https://github.com/nestjs/nest) : A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -214,7 +210,7 @@ Valid container types are `success`, `info`, `warning` and `danger`.
 ### zsh, oh my zsh
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-    : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) $linux 必备$ ⭕️
+    : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ❗️linux 必备❗️ ⭕️
     > ![last-commit](https://img.shields.io/github/last-commit/robbyrussell/oh-my-zsh.svg)
 - [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)
     > ![last-commit](https://img.shields.io/github/last-commit/Cabbagec/termux-ohmyzsh.svg)
