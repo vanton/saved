@@ -41,6 +41,7 @@
 ### May 10, 2019
 
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) : A markdown editor for developers on Mac, Windows and Linux.
+- [Typora — a markdown editor, markdown reader.](https://typora.io/) Typora — a markdown editor, markdown reader.
 
 ### May 9, 2019
 
