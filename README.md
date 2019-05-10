@@ -56,6 +56,7 @@
 - [minamarkham/formation](https://github.com/minamarkham/formation) : 💻 macOS setup script for front-end development
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) : A curated list of awesome Python frameworks, libraries, software and resources
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) : 爬虫集合
+- [Nyloner/Nyspider](https://github.com/Nyloner/Nyspider) : 各种爬虫
 
 ### May 9, 2019
 
