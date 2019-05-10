@@ -53,6 +53,7 @@
 - [Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV](https://www.houdah.com/type2Phone/) Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) : ✨ Beautifully simple click-to-copy CSS effects
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) : ✍️Fusuma makes slides with Markdown easily.
+- [minamarkham/formation](https://github.com/minamarkham/formation) : 💻 macOS setup script for front-end development
 
 ### May 9, 2019
 
