@@ -58,6 +58,7 @@
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) : 爬虫集合
 - [Nyloner/Nyspider](https://github.com/Nyloner/Nyspider) : 各种爬虫
 - [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) : Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐下载；B站视频和弹幕下载；京东晒单图下载
+- [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 
 ### May 9, 2019
 
