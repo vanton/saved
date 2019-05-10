@@ -55,6 +55,7 @@
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) : ✍️Fusuma makes slides with Markdown easily.
 - [minamarkham/formation](https://github.com/minamarkham/formation) : 💻 macOS setup script for front-end development
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) : A curated list of awesome Python frameworks, libraries, software and resources
+- [facert/awesome-spider](https://github.com/facert/awesome-spider) : 爬虫集合
 
 ### May 9, 2019
 
