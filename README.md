@@ -50,6 +50,7 @@
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) : Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [electron/electron](https://github.com/electron/electron) : Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [heX - Using HTML5 and Node.js to Build Desktop Application](http://hex.youdao.com/zh-cn/index.html) heX - Using HTML5 and Node.js to Build Desktop Application
+- [Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV](https://www.houdah.com/type2Phone/) Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV
 
 ### May 9, 2019
 
