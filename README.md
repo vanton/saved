@@ -47,6 +47,7 @@
 - [25.io \| Mou - Markdown editor for developers, on Mac OS X.](http://25.io/mou/) 25.io \| Mou - Markdown editor for developers, on Mac OS X.
 - [25.io \| Toau - Convert text to audio, like magic.](http://25.io/toau/) 25.io \| Toau - Convert text to audio, like magic.
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) : Open source Markdown editor for macOS.
+- [nwjs/nw.js](https://github.com/nwjs/nw.js) : Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 
 ### May 9, 2019
 
