@@ -42,6 +42,7 @@
 ### May 13, 2019
 
 - [ghostiam/vue-blocks](https://github.com/ghostiam/vue-blocks) : Vue2 dataflow graph editor
+- [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) : Comlink makes WebWorkers enjoyable.
 
 ### May 10, 2019
 
