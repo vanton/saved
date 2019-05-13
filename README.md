@@ -47,6 +47,7 @@
 - [soimort/you-get](https://github.com/soimort/you-get) : Dumb downloader that scrapes the web
 - [didi/chameleon](https://github.com/didi/chameleon) : 🦎 一套代码运行多端，一端所见即多端所见
 - [didi/mpx](https://github.com/didi/mpx) : An enhanced miniprogram framework with data reactivity and deep optimizition.
+- [Kenshin/simptab](https://github.com/Kenshin/simptab) : 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
 
 ### May 10, 2019
 
