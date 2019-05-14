@@ -5,8 +5,6 @@
 > 🔖 <https://vanton.github.io/saved>
 
 <!-- [TOC] -->
-<!-- NOTE: 自动生成的目录 TOC -->
-
 - [tmp](#tmp)
   - [以上未整理](#以上未整理)
 - [Javascript/HTML](#javascripthtml)
@@ -37,17 +35,11 @@
 - [Awesome Lists](#awesome-lists)
 - [Badges, Icons and Fonts](#badges-icons-and-fonts)
 
-<!-- SECTION: tmp -->
-
 ## tmp
 
 ### 以上未整理
 
-<!-- !SECTION: tmp-->
-
 ---
-
-<!-- SECTION: Javascript/HTML -->
 
 ## Javascript/HTML
 
@@ -109,10 +101,6 @@
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) : Comlink makes WebWorkers enjoyable.
 - [vue-blocks](https://github.com/ghostiam/vue-blocks) : Vue2 dataflow graph editor
 
-<!-- !SECTION: Javascript/HTML -->
-
-<!-- SECTION: Node.js -->
-
 ## Node.js
 
 - [node-bcat](https://github.com/kessler/node-bcat) : A pipe to browser utility
@@ -155,10 +143,6 @@
 - [electron](https://github.com/electron/electron) : Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nw.js](https://github.com/nwjs/nw.js) : Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 
-<!-- !SECTION: Node.js -->
-
-<!-- SECTION: PHP -->
-
 ## PHP
 
 - [CurlFuture](https://github.com/coooold/CurlFuture) : PHP 的 `curl` 并行请求库
@@ -171,10 +155,6 @@
 - [php-engineer-interview-questions](https://github.com/hookover/php-engineer-interview-questions) : PHP工程师面试题目
 - [PHP7新特性整理介绍篇 · PHPer进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259)
 - [laravel-sls - Packagist](https://packagist.org/packages/elainekoo/laravel-sls) elainekoo/laravel-sls - Packagist
-
-<!-- !SECTION: PHP -->
-
-<!-- SECTION: Python -->
 
 ## Python
 
@@ -214,10 +194,6 @@
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP)
   : 文本工具集 - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典...
 
-<!-- !SECTION: Python -->
-
-<!-- SECTION: Shell -->
-
 ## Shell
 
 ### Shell 文档教程
@@ -226,7 +202,6 @@
 - [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
 - [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
-- [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
 
 ### zsh, oh my zsh
 
@@ -309,10 +284,6 @@
 - [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) : Keep calm and use TUNA mirrors.
 
-<!-- !SECTION: Shell -->
-
-<!-- SECTION: Headless Chrome -->
-
 ## Headless Chrome
 
 ### puppeteer
@@ -339,10 +310,6 @@
 - ~~[casperjs](https://github.com/casperjs/casperjs) : 停止更新~~
     > ![npm](https://nodei.co/npm/phantomjs-prebuilt.png?compact=true)
     > ![npm](https://nodei.co/npm/casperjs.png?compact=true)
-
-<!-- !SECTION: Headless Chrome -->
-
-<!-- SECTION: Proxy -->
 
 ## Proxy
 
@@ -372,10 +339,6 @@
 - [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/)
 - [Core Tunnel – The Missing SSH Tunnel Manager](https://coretunnel.app/) Core Tunnel – The Missing SSH Tunnel Manager
 
-<!-- !SECTION: Proxy -->
-
-<!-- SECTION: Chrome Extensions -->
-
 ## Chrome Extensions
 
 ![chrome]
@@ -402,29 +365,17 @@
 - [GM_script](https://github.com/langren1353/GM_script/) : AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
 - [simptab](https://github.com/Kenshin/simptab) : 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
 
-<!-- !SECTION: Chrome Extensions -->
-
-<!-- SECTION: Mobile -->
-
 ## Mobile
 
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) : 神奇的二维码生成工具，可以使用任意图片背景，可以生成 gif 动图。
 - [DoraemonKit](https://github.com/didi/DoraemonKit) : 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
 - [flutter](https://github.com/flutter/flutter) : Flutter makes it easy and fast to build beautiful mobile apps.
 
-<!-- !SECTION: Mobile -->
-
-<!-- SECTION: Doker/Vagrant -->
-
 ## Doker/Vagrant
 
 - [dokku](https://github.com/dokku/dokku) : A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dnmp](https://github.com/Tinywan/dnmp/) : 使用 docker-compose 部署 LNMP 环境，Base Linux、Nginx、MySQL5.7、PHP7.2、Redis5.0、PHPMyAdmin
 - [Vagrant Manager - Home](http://vagrantmanager.com/)
-
-<!-- !SECTION: Doker/Vagrant -->
-
-<!-- SECTION: Tools -->
 
 ## Tools
 
@@ -496,10 +447,6 @@
 - [Typora — a markdown editor, markdown reader.](https://typora.io/) Typora — a markdown editor, markdown reader.
 - [you-get](https://github.com/soimort/you-get) : Dumb downloader that scrapes the web
 
-<!-- !SECTION: Tools -->
-
-<!-- SECTION: Others -->
-
 ## Others
 
 ### 其他文档教程
@@ -535,10 +482,6 @@
 - [内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务](http://outofmemory.cn/#csdn)
 - [github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
 
-<!-- !SECTION: Others -->
-
-<!-- SECTION: Awesome Lists -->
-
 ## Awesome Lists
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -573,10 +516,6 @@
 - [awesome-python](https://github.com/vinta/awesome-python) : A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-spider](https://github.com/facert/awesome-spider) : 爬虫集合
 
-<!-- !SECTION: Awesome Lists -->
-
-<!-- SECTION: Badges, Icons and Fonts -->
-
 ## Badges, Icons and Fonts
 
 - [shields.io](https://shields.io) 状态图片
@@ -603,10 +542,6 @@
 - [powerline/fonts](https://github.com/powerline/fonts) : Patched fonts for Powerline users.
 - [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) : Open source neutral style icon system
-
-<!-- !SECTION: Badges, Icons and Fonts -->
-
-<!-- SECTION: 变量 var-->
 
 [Like]: https://img.shields.io/badge/&#128151;-Like-red.svg?style=social
 
