@@ -5,11 +5,9 @@
 > 🔖 <https://vanton.github.io/saved>
 
 <!-- [TOC] -->
-<!-- NOTE 自动生成的目录-->
+<!-- NOTE: 自动生成的目录 TOC -->
+
 - [tmp](#tmp)
-  - [May 13, 2019](#may-13-2019)
-  - [May 10, 2019](#may-10-2019)
-  - [May 9, 2019](#may-9-2019)
   - [以上未整理](#以上未整理)
 - [Javascript/HTML](#javascripthtml)
   - [Javascript/HTML 文档、教程](#javascripthtml-文档教程)
@@ -37,58 +35,19 @@
   - [其他文档教程](#其他文档教程)
   - [其他项目](#其他项目)
 - [Awesome Lists](#awesome-lists)
-- [Badges and Icons and Fonts](#badges-and-icons-and-fonts)
+- [Badges, Icons and Fonts](#badges-icons-and-fonts)
+
+<!-- SECTION: tmp -->
 
 ## tmp
 
-### May 14, 2019
-
-- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) : Keep calm and use TUNA mirrors.
-
-### May 13, 2019
-
-- [ghostiam/vue-blocks](https://github.com/ghostiam/vue-blocks) : Vue2 dataflow graph editor
-- [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) : Comlink makes WebWorkers enjoyable.
-- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) : 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战。
-- [soimort/you-get](https://github.com/soimort/you-get) : Dumb downloader that scrapes the web
-- [didi/chameleon](https://github.com/didi/chameleon) : 🦎 一套代码运行多端，一端所见即多端所见
-- [didi/mpx](https://github.com/didi/mpx) : An enhanced miniprogram framework with data reactivity and deep optimizition.
-- [Kenshin/simptab](https://github.com/Kenshin/simptab) : 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
-
-### May 10, 2019
-
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) : A markdown editor for developers on Mac, Windows and Linux.
-- [Typora — a markdown editor, markdown reader.](https://typora.io/) Typora — a markdown editor, markdown reader.
-- [MacDown](https://macdown.uranusjr.com/) : The open source Markdown editor for macOS
-- [25.io \| Mou - Markdown editor for developers, on Mac OS X.](http://25.io/mou/) 25.io \| Mou - Markdown editor for developers, on Mac OS X.
-- [25.io \| Toau - Convert text to audio, like magic.](http://25.io/toau/) 25.io \| Toau - Convert text to audio, like magic.
-- [MacDownApp/macdown](https://github.com/MacDownApp/macdown) : Open source Markdown editor for macOS.
-- [nwjs/nw.js](https://github.com/nwjs/nw.js) : Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [electron/electron](https://github.com/electron/electron) : Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [heX - Using HTML5 and Node.js to Build Desktop Application](http://hex.youdao.com/zh-cn/index.html) heX - Using HTML5 and Node.js to Build Desktop Application
-- [Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV](https://www.houdah.com/type2Phone/) Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV
-- [jolaleye/cssfx](https://github.com/jolaleye/cssfx) : ✨ Beautifully simple click-to-copy CSS effects
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) : ✍️Fusuma makes slides with Markdown easily.
-- [minamarkham/formation](https://github.com/minamarkham/formation) : 💻 macOS setup script for front-end development
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) : A curated list of awesome Python frameworks, libraries, software and resources
-- [facert/awesome-spider](https://github.com/facert/awesome-spider) : 爬虫集合
-- [Nyloner/Nyspider](https://github.com/Nyloner/Nyspider) : 各种爬虫
-- [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) : Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐下载；B站视频和弹幕下载；京东晒单图下载
-- [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
-- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) : Python爬虫代理IP池(proxy pool)
-- [Ehco1996/Python-crawler](https://github.com/Ehco1996/Python-crawler) : 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6
-- [sczhengyabin/Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) : Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
-
-### May 9, 2019
-
-- [TotalFinder is a better Finder](https://totalfinder.binaryage.com/) TotalFinder is a better Finder
-- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) : A markdown version emoji cheat sheet
-- [nikolaeu/Numi-extensions](https://github.com/nikolaeu/numi-extensions) : Extensions API for Numi
-- [Core Tunnel – The Missing SSH Tunnel Manager](https://coretunnel.app/) Core Tunnel – The Missing SSH Tunnel Manager
-
 ### 以上未整理
 
+<!-- !SECTION: tmp-->
+
 ---
+
+<!-- SECTION: Javascript/HTML -->
 
 ## Javascript/HTML
 
@@ -144,6 +103,15 @@
 - [前端公共库CDN加速-静态资源公共库,免费CDN公共库](https://cdnjs.net/)
 - [Staticfile CDN](http://www.staticfile.org/) Staticfile CDN
 - [UNPKG](https://unpkg.com/) UNPKG ⭕️
+- [cssfx](https://github.com/jolaleye/cssfx) : ✨ Beautifully simple click-to-copy CSS effects
+- [didi/mpx](https://github.com/didi/mpx) : An enhanced miniprogram framework with data reactivity and deep optimizition.
+- [didi/chameleon](https://github.com/didi/chameleon) : 🦎 一套代码运行多端，一端所见即多端所见
+- [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) : Comlink makes WebWorkers enjoyable.
+- [vue-blocks](https://github.com/ghostiam/vue-blocks) : Vue2 dataflow graph editor
+
+<!-- !SECTION: Javascript/HTML -->
+
+<!-- SECTION: Node.js -->
 
 ## Node.js
 
@@ -183,6 +151,13 @@
 - [strapi](https://github.com/strapi/strapi) : 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [number-precision](https://github.com/nefe/number-precision) : 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [daruk](https://github.com/daruk-framework/daruk) : a node.js web framework based on typescript
+- [heX - Using HTML5 and Node.js to Build Desktop Application](http://hex.youdao.com/zh-cn/index.html)
+- [electron](https://github.com/electron/electron) : Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [nw.js](https://github.com/nwjs/nw.js) : Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+
+<!-- !SECTION: Node.js -->
+
+<!-- SECTION: PHP -->
 
 ## PHP
 
@@ -196,6 +171,10 @@
 - [php-engineer-interview-questions](https://github.com/hookover/php-engineer-interview-questions) : PHP工程师面试题目
 - [PHP7新特性整理介绍篇 · PHPer进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259)
 - [laravel-sls - Packagist](https://packagist.org/packages/elainekoo/laravel-sls) elainekoo/laravel-sls - Packagist
+
+<!-- !SECTION: PHP -->
+
+<!-- SECTION: Python -->
 
 ## Python
 
@@ -213,6 +192,7 @@
 - [3.7.3 Documentation](https://docs.python.org/zh-cn/3.7/) 3.7.3 Documentation
 - [别再说找不到Python练手项目了，这80个拿去过冬 - 知乎](https://zhuanlan.zhihu.com/p/52550223) 别再说找不到Python练手项目了，这80个拿去过冬 - 知乎
 - [codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
+- [Python-crawler](https://github.com/Ehco1996/Python-crawler) : 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6
 
 ### Python 类库、工具
 
@@ -227,6 +207,16 @@
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) : 😮python各大网站登陆方式与一些简单的爬虫，希望对你们有所帮助❤️
 - [flask-restplus](https://github.com/noirbizarre/flask-restplus) : Fully featured framework for fast, easy and documented API development with Flask
 - [tqdm](https://github.com/tqdm/tqdm) : A fast, extensible progress bar for Python and CLI
+- [Nyspider](https://github.com/Nyloner/Nyspider) : 各种爬虫
+- [python-spider](https://github.com/Jack-Cherish/python-spider) : Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐下载；B站视频和弹幕下载；京东晒单图下载
+- [proxy_pool](https://github.com/jhao104/proxy_pool) : Python爬虫代理IP池(proxy pool)
+- [Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) : Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
+- [fighting41love/funNLP](https://github.com/fighting41love/funNLP)
+  : 文本工具集 - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典...
+
+<!-- !SECTION: Python -->
+
+<!-- SECTION: Shell -->
 
 ## Shell
 
@@ -317,6 +307,11 @@
 - [tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) : A responsive theme for Nginx Fancyindex module . Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form , aims to handle thousands of files without any problems
 - [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
+- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) : Keep calm and use TUNA mirrors.
+
+<!-- !SECTION: Shell -->
+
+<!-- SECTION: Headless Chrome -->
 
 ## Headless Chrome
 
@@ -345,6 +340,10 @@
     > ![npm](https://nodei.co/npm/phantomjs-prebuilt.png?compact=true)
     > ![npm](https://nodei.co/npm/casperjs.png?compact=true)
 
+<!-- !SECTION: Headless Chrome -->
+
+<!-- SECTION: Proxy -->
+
 ## Proxy
 
 ### 代理工具及脚本
@@ -371,6 +370,11 @@
 - [稳定的Socks代理：AutoSSH+SSH动态端口转发](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/)
 - [玩转SSH端口转发](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/)
 - [autossh+launchd 实现全自动 ssh -D 端口转发 socks5 代理](http://lester.izstudy.com/blog/2012/06/29/autossh-launchd-ssh-sock5-proxy-auto-reconection/)
+- [Core Tunnel – The Missing SSH Tunnel Manager](https://coretunnel.app/) Core Tunnel – The Missing SSH Tunnel Manager
+
+<!-- !SECTION: Proxy -->
+
+<!-- SECTION: Chrome Extensions -->
 
 ## Chrome Extensions
 
@@ -396,6 +400,11 @@
 - [oscnews](https://github.com/jaywcjlove/oscnews) : Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 - [markdown-here](https://github.com/adam-p/markdown-here) : Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [GM_script](https://github.com/langren1353/GM_script/) : AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
+- [simptab](https://github.com/Kenshin/simptab) : 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
+
+<!-- !SECTION: Chrome Extensions -->
+
+<!-- SECTION: Mobile -->
 
 ## Mobile
 
@@ -403,11 +412,19 @@
 - [DoraemonKit](https://github.com/didi/DoraemonKit) : 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
 - [flutter](https://github.com/flutter/flutter) : Flutter makes it easy and fast to build beautiful mobile apps.
 
+<!-- !SECTION: Mobile -->
+
+<!-- SECTION: Doker/Vagrant -->
+
 ## Doker/Vagrant
 
 - [dokku](https://github.com/dokku/dokku) : A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dnmp](https://github.com/Tinywan/dnmp/) : 使用 docker-compose 部署 LNMP 环境，Base Linux、Nginx、MySQL5.7、PHP7.2、Redis5.0、PHPMyAdmin
 - [Vagrant Manager - Home](http://vagrantmanager.com/)
+
+<!-- !SECTION: Doker/Vagrant -->
+
+<!-- SECTION: Tools -->
 
 ## Tools
 
@@ -465,6 +482,23 @@
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim) : GUI image optimizer for Mac
 - [Sourcetree \| Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/)
 - [‎Mac App Store 上的“ForkLift - File Manager and FTP/SFTP/WebDAV/Amazon S3 client”](https://itunes.apple.com/cn/app/forklift-file-manager-and-ftp-sftp-webdav-amazon-s3-client/id412448059?mt=12) Finder 增强，不太好用。
+- [Numi-extensions](https://github.com/nikolaeu/numi-extensions) : Extensions API for Numi
+- [TotalFinder is a better Finder](https://totalfinder.binaryage.com/) ⭕️
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) : A markdown version emoji cheat sheet
+- [formation](https://github.com/minamarkham/formation) : 💻 macOS setup script for front-end development
+- [fusuma](https://github.com/hiroppy/fusuma) : ✍️Fusuma makes slides with Markdown easily.
+- [Type2Phone — Use your Mac as Keyboard for iPhone, iPad & Apple TV](https://www.houdah.com/type2Phone/)
+- [macdown](https://github.com/MacDownApp/macdown) : Open source Markdown editor for macOS.
+- [MacDown](https://macdown.uranusjr.com/) : The open source Markdown editor for macOS
+- [25.io \| Mou - Markdown editor for developers, on Mac OS X.](http://25.io/mou/) 25.io \| Mou - Markdown editor for developers, on Mac OS X.
+- [25.io \| Toau - Convert text to audio, like magic.](http://25.io/toau/) 25.io \| Toau - Convert text to audio, like magic.
+- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) : A markdown editor for developers on Mac, Windows and Linux.
+- [Typora — a markdown editor, markdown reader.](https://typora.io/) Typora — a markdown editor, markdown reader.
+- [you-get](https://github.com/soimort/you-get) : Dumb downloader that scrapes the web
+
+<!-- !SECTION: Tools -->
+
+<!-- SECTION: Others -->
 
 ## Others
 
@@ -501,6 +535,10 @@
 - [内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务](http://outofmemory.cn/#csdn)
 - [github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
 
+<!-- !SECTION: Others -->
+
+<!-- SECTION: Awesome Lists -->
+
 ## Awesome Lists
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -532,8 +570,14 @@
 - [Choose the best - Slant](https://www.slant.co/)
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) :  A curated list of awesome applications, softwares, tools and shiny things for macOS. ⭕️
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) : An awesome & curated list of best applications and tools for Windows.
+- [awesome-python](https://github.com/vinta/awesome-python) : A curated list of awesome Python frameworks, libraries, software and resources
+- [awesome-spider](https://github.com/facert/awesome-spider) : 爬虫集合
 
-## Badges and Icons and Fonts
+<!-- !SECTION: Awesome Lists -->
+
+<!-- SECTION: Badges, Icons and Fonts -->
+
+## Badges, Icons and Fonts
 
 - [shields.io](https://shields.io) 状态图片
     > ![badge](https://img.shields.io/badge/subject-status-red.svg?style=flat&logo=appveyor)
@@ -560,7 +604,9 @@
 - [Input](http://input.fontbureau.com/preview/?size=14&wrap_lines=wrap&language=python&theme=monokai&family=InputMono&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs_round&l=serifs_round&zero=0&asterisk=height&braces=straight&preset=default&customize=please) : Fonts for Code — Preview
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) : Open source neutral style icon system
 
-<!-- 变量 -->
+<!-- !SECTION: Badges, Icons and Fonts -->
+
+<!-- SECTION: 变量 var-->
 
 [Like]: https://img.shields.io/badge/&#128151;-Like-red.svg?style=social
 
