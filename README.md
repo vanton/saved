@@ -39,6 +39,10 @@
 
 ## tmp
 
+### May 14, 2019
+
+- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) : Keep calm and use TUNA mirrors.
+
 ### May 13, 2019
 
 - [ghostiam/vue-blocks](https://github.com/ghostiam/vue-blocks) : Vue2 dataflow graph editor
