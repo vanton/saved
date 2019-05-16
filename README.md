@@ -37,6 +37,10 @@
 
 ## tmp
 
+### May 16, 2019
+
+- [lra/mackup](https://github.com/lra/mackup) : Keep your application settings in sync (OS X/Linux)
+
 ### May 14, 2019
 
 - [Anaconda, Inc. (formerly Continuum Analytics, Inc.)](https://github.com/ContinuumIO) Anaconda, Inc. (formerly Continuum Analytics, Inc.)
