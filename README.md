@@ -40,6 +40,7 @@
 ### May 16, 2019
 
 - [lra/mackup](https://github.com/lra/mackup) : Keep your application settings in sync (OS X/Linux)
+- [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) : 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴
 
 ### May 14, 2019
 
