@@ -37,6 +37,10 @@
 
 ## tmp
 
+### May 21, 2019
+
+- [Marak/faker.js](https://github.com/marak/Faker.js/) : generate massive amounts of realistic fake data in Node.js and the browser
+
 ### May 20, 2019
 
 - [pengzhile/atlassian-agent](https://github.com/pengzhile/atlassian-agent) : Atlassian's productions crack.
