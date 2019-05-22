@@ -41,6 +41,7 @@
 
 - [YMFE/yapi](https://github.com/ymfe/yapi) : YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [ufologist/puer-mock](https://github.com/ufologist/puer-mock) : Puer + Mock.js = A configurable mock server with configurable mock(random) data.
+- [youzan/bugCatcher](https://github.com/youzan/bugCatcher) : 方便产品、开发、测试三方协同管理、测试、监控项目进度和质量，以持续交付。
 
 ### May 21, 2019
 
