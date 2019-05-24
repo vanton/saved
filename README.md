@@ -40,6 +40,7 @@
 ### May 24, 2019
 
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) : The next gen ls command
+- [postcss/README-cn.md at master · postcss/postcss](https://github.com/postcss/postcss/blob/master/README-cn.md) postcss/README-cn.md at master · postcss/postcss
 
 ### May 22, 2019
 
