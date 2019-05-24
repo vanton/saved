@@ -37,6 +37,10 @@
 
 ## tmp
 
+### May 24, 2019
+
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) : The next gen ls command
+
 ### May 22, 2019
 
 - [YMFE/yapi](https://github.com/ymfe/yapi) : YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
