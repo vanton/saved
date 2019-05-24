@@ -42,6 +42,7 @@
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) : The next gen ls command
 - [postcss/README-cn.md at master · postcss/postcss](https://github.com/postcss/postcss/blob/master/README-cn.md) postcss/README-cn.md at master · postcss/postcss
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) : 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)
+- [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) : 微信小程序开源项目库汇总
 
 ### May 22, 2019
 
