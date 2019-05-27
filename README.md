@@ -40,6 +40,7 @@
 ### May 27, 2019
 
 - [browserstate/history.js](https://github.com/browserstate/history.js) : History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
+- [waditu/tushare](https://github.com/waditu/tushare) : TuShare is a utility for crawling historical data of China stocks
 
 ### May 24, 2019
 
