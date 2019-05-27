@@ -45,6 +45,7 @@
 - [XiaoMi/Gaea](https://github.com/XiaoMi/Gaea) : Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) : A curated list of Rust code and resources.
 - [servo/servo](https://github.com/servo/servo#macos) : The Servo Browser Engine
+- [TKkk-iOSer/WeChatPlugin-MacOS at master](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/tree/master#demo%E6%BC%94%E7%A4%BA) TKkk-iOSer/WeChatPlugin-MacOS at master
 
 ### May 24, 2019
 
