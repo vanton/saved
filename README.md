@@ -43,6 +43,7 @@
 - [waditu/tushare](https://github.com/waditu/tushare) : TuShare is a utility for crawling historical data of China stocks
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) : Simple framework for creating REST APIs
 - [XiaoMi/Gaea](https://github.com/XiaoMi/Gaea) : Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) : A curated list of Rust code and resources.
 
 ### May 24, 2019
 
