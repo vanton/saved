@@ -44,6 +44,7 @@
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) : Simple framework for creating REST APIs
 - [XiaoMi/Gaea](https://github.com/XiaoMi/Gaea) : Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) : A curated list of Rust code and resources.
+- [servo/servo](https://github.com/servo/servo#macos) : The Servo Browser Engine
 
 ### May 24, 2019
 
