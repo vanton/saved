@@ -42,6 +42,7 @@
 - [browserstate/history.js](https://github.com/browserstate/history.js) : History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
 - [waditu/tushare](https://github.com/waditu/tushare) : TuShare is a utility for crawling historical data of China stocks
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) : Simple framework for creating REST APIs
+- [XiaoMi/Gaea](https://github.com/XiaoMi/Gaea) : Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
 
 ### May 24, 2019
 
