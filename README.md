@@ -47,6 +47,7 @@
 - [servo/servo](https://github.com/servo/servo#macos) : The Servo Browser Engine
 - [TKkk-iOSer/WeChatPlugin-MacOS at master](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/tree/master#demo%E6%BC%94%E7%A4%BA) TKkk-iOSer/WeChatPlugin-MacOS at master
 - [lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat#omw-load) : 微信小助手的安装 / 更新工具。
+- [jwilm/alacritty](https://github.com/jwilm/alacritty) : A cross-platform, GPU-accelerated terminal emulator
 
 ### May 24, 2019
 
