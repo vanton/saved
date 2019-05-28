@@ -40,6 +40,7 @@
 ### May 28, 2019
 
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : Interactive Online Platform that Visualizes Algorithms from Code
+- [the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line
 
 ### May 27, 2019
 
