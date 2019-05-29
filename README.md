@@ -42,6 +42,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/) Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck#how-to-use) : ShellCheck, a static analysis tool for shell scripts
+- [Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on)](https://dwheeler.com/essays/filenames-in-shell.html) : How to do it Correctly
 
 ### May 28, 2019
 
