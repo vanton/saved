@@ -7,7 +7,7 @@
 - [1. How to do it wrongly](#1-how-to-do-it-wrongly)
 - [2. Doing it correctly: A quick summary](#2-doing-it-correctly-a-quick-summary)
   - [2.1 Basic rules](#21-basic-rules)
-  - [2.2 Template: [Using globs]](#22-template-using-globs)
+  - [2.2 Template: Using globs](#22-template-using-globs)
   - [2.3 Template: Using find](#23-template-using-find)
     - [2.3.1 Always works](#231-always-works)
     - [2.3.2 Limitations](#232-limitations)
@@ -110,13 +110,15 @@ So, how can you process pathnames correctly in shell? Here’s a quick summary a
 1. [Double-quote all variable references and command substitutions] unless you are certain they can only contain alphanumeric characters or you have specially prepared things (i.e., use `"$variable"` instead of `$variable`). In particular, you should practically always put `$@` inside double-quotes; POSIX defines this to be special (it expands into the positional parameters as separate fields even though it is inside double-quotes).
 2. [Set IFS to just newline and tab], if you can, to reduce the risk of mishandling filenames with spaces. Use newline or tab to separate options stored in a single variable. Set `IFS` with `IFS="$(printf '\n\t')"`
 3. [Prefix all pathname globs so they cannot expand to begin with “`-`”]. In particular, never start a glob with “`?`” or “`*`” (such as “`*.pdf`”); always prepend globs with something (like “`./`”) that cannot expand to a dash. So never use a pattern like “`*.pdf`”; use “`./*.pdf`” instead.
-4. [Check if a pathname begins with “-” when accepting pathnames](https://dwheeler.com/essays/filenames-in-shell.html#checkdash), and then prepend “`./`” if it does.
+4. [Check if a pathname begins with “-” when accepting pathnames], and then prepend “`./`” if it does.
 5. [Be careful about displaying or storing pathnames](https://dwheeler.com/essays/filenames-in-shell.html#display-store), since they can include newlines, tabs, terminal control escape sequences, non-UTF-8 characters (or characters not in your locale), and so on. You can strip out control characters and non-UTF-8 characters before display using `printf '%s' "$file" | LC_ALL=POSIX tr -d '[:cntrl:]' | iconv -cs -f UTF-8 -t UTF-8`
 6. [Do not depend on always using “--”](https://dwheeler.com/essays/filenames-in-shell.html#dashdash) between options and pathnames as the primary countermeasure against filenames beginning with “`-`”. You have to do it with every command for this to work, but people will not use it consistently (they never have), and many programs (including echo) do not support “`--`”. Feel free to use “`--`” between options and pathnames, but only as an additional optional protective measure.
 7. Use a template that is known to work correctly; below are some [tested](https://dwheeler.com/encodef/evil-filenames-test) templates.
 8. Use a tool like [shellcheck] to find problems you missed.
 
-### 2.2 Template: [Using globs]
+### 2.2 Template: Using globs
+
+> [Using globs]
 
 ```sh
 # Correct portable glob use: use "for" loop, prefix glob, check for existence:
@@ -494,6 +496,7 @@ If you use this in a for loop list and combine it with nullglob, you can handle 
 [Double-quote all variable references and command substitutions]: #31-double-quote-parameter-variable-references-and-command-substitutions
 [Set IFS to just newline and tab]: #32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script
 [Prefix all pathname globs so they cannot expand to begin with “`-`”]: #33-prefix-all-globs-so-they-cannot-expand-to-begin-with--
+[Check if a pathname begins with “-” when accepting pathnames]: #34-check-if-a-pathname-begins-with---when-accepting-pathnames-and-then-prepend--if-it-does
 
 [Using globs]: #4-globbing
 [Using find]: #5-find
