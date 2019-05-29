@@ -7,7 +7,7 @@
 - [1. How to do it wrongly](#1-how-to-do-it-wrongly)
 - [2. Doing it correctly: A quick summary](#2-doing-it-correctly-a-quick-summary)
   - [2.1 Basic rules](#21-basic-rules)
-  - [2.2 Template: Using globs](#22-template-using-globs)
+  - [2.2 Template: [Using globs]](#22-template-using-globs)
   - [2.3 Template: Using find](#23-template-using-find)
     - [2.3.1 Always works](#231-always-works)
     - [2.3.2 Limitations](#232-limitations)
@@ -116,9 +116,7 @@ So, how can you process pathnames correctly in shell? Here’s a quick summary a
 7. Use a template that is known to work correctly; below are some [tested](https://dwheeler.com/encodef/evil-filenames-test) templates.
 8. Use a tool like [shellcheck] to find problems you missed.
 
-### 2.2 Template: Using globs
-
-> [Using globs]
+### 2.2 Template: [Using globs]
 
 ```sh
 # Correct portable glob use: use "for" loop, prefix glob, check for existence:
@@ -370,8 +368,6 @@ You might also want to put “`set -eu`” or at least “`set -u`” at the beg
 
 By the way, the need for proper quoting is not limited to Bourne shells. The [Windows shell also requires proper quoting, and improper quoting can lead to vulnerabilities](http://arstechnica.com/security/2014/10/poor-punctuation-leads-to-windows-shell-vulnerability/). [A user merely needs to create filenames with characters such as ampersands](http://thesecurityfactory.be/command-injection-windows.html), and an improperly-quoted shell program might end up running it. For example, imagine if an attacker can create a directory of the form “name&command_to_execute”, say on a fileserver. Then a Windows script which fails to quote properly (e.g., it has `ECHO %CD%` or `SET CurrentPath=%CD%` without putting double-quotes around `%CD%`) would end up running the command of the attacker’s choosing.
 
-<a href="#prefixglobs"></a>
-
 ### 3.3 Prefix all globs so they cannot expand to begin with “`-`”
 
 A “glob” is a pattern for pathname matching like “`*.pdf`”. Whenever you use globbing to select files, never begin with a globbing character (typically the characters “`*`”, “`?`”, or “`[`”). If you’re starting from the current directory, prefix the glob with “`./`” like this:
@@ -497,7 +493,7 @@ If you use this in a for loop list and combine it with nullglob, you can handle 
 
 [Double-quote all variable references and command substitutions]: #31-double-quote-parameter-variable-references-and-command-substitutions
 [Set IFS to just newline and tab]: #32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script
-[Prefix all pathname globs so they cannot expand to begin with “`-`”]: #prefixglobs
+[Prefix all pathname globs so they cannot expand to begin with “`-`”]: #33-prefix-all-globs-so-they-cannot-expand-to-begin-with--
 
 [Using globs]: #4-globbing
 [Using find]: #5-find
