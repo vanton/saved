@@ -4,7 +4,20 @@
 >
 > 2016-05-04 (original version 2010-05-19)
 
-## How to do it wrongly
+- [1. How to do it wrongly](#1-how-to-do-it-wrongly)
+- [2. Doing it correctly: A quick summary](#2-doing-it-correctly-a-quick-summary)
+  - [2.1 Basic rules](#21-basic-rules)
+  - [2.2 Template: Using globs](#22-template-using-globs)
+  - [2.3 Template: Using find](#23-template-using-find)
+    - [2.3.1 Always works](#231-always-works)
+    - [2.3.2 Limitations](#232-limitations)
+  - [2.4 Template: Building up a variable](#24-template-building-up-a-variable)
+  - [2.5 Template: Saving and restoring “set -f”](#25-template-saving-and-restoring-set--f)
+- [3. Rationale for the basic rules](#3-rationale-for-the-basic-rules)
+  - [3.1 Double-quote parameter (variable) references and command substitutions](#31-double-quote-parameter-variable-references-and-command-substitutions)
+  - [3.2 Set `IFS` to just newline and tab at the start of each script](#32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script)
+
+## 1. How to do it wrongly
 
 First, let’s go through some examples that are wrong, because the first step to fixing things is to know what’s broken. These examples assume default settings (e.g., there is no “`set -f`” or “`IFS=...`”):
 
@@ -79,11 +92,11 @@ cat $file
 
 Wrong. If `$file` can contain whitespace, then it could broken up and interpreted as multiple file names, and if `$file` starts with dash, then the name will be interpreted as an option. Also, if `$file` contains metacharacters like “`*`” they will be expanded first, producing the wrong set of filenames.
 
-## Doing it correctly: A quick summary
+## 2. Doing it correctly: A quick summary
 
 So, how can you process pathnames correctly in shell? Here’s a quick summary about how to do it correctly, for the impatient who “just want the answer”.
 
-### Basic rules
+### 2.1 Basic rules
 
 1. [Double-quote all variable references and command substitutions](https://dwheeler.com/essays/filenames-in-shell.html#doublequote) unless you are certain they can only contain alphanumeric characters or you have specially prepared things (i.e., use `"$variable"` instead of `$variable`). In particular, you should practically always put `$@` inside double-quotes; POSIX defines this to be special (it expands into the positional parameters as separate fields even though it is inside double-quotes).
 2. [Set IFS to just newline and tab](https://dwheeler.com/essays/filenames-in-shell.html#ifs), if you can, to reduce the risk of mishandling filenames with spaces. Use newline or tab to separate options stored in a single variable. Set `IFS` with `IFS="$(printf '\n\t')"`
@@ -94,7 +107,7 @@ So, how can you process pathnames correctly in shell? Here’s a quick summary a
 7. Use a template that is known to work correctly; below are some [tested](https://dwheeler.com/encodef/evil-filenames-test) templates.
 8. Use a tool like [shellcheck] to find problems you missed.
 
-### Template: [Using globs]
+### 2.2 Template: [Using globs](https://dwheeler.com/essays/filenames-in-shell.html#globbing)
 
 ```sh
 # Correct portable glob use: use "for" loop, prefix glob, check for existence:
@@ -130,7 +143,7 @@ shopt -s nullglob  # Bash extension, so globs with no matches return empty
 COMMAND ... ./* /dev/null
 ```
 
-### Template: [Using find]
+### 2.3 Template: [Using find](https://dwheeler.com/essays/filenames-in-shell.html#find)
 
 The find command is great for recursively processing directories. Typically you would specify other parameters to find (e.g., select only normal files using “`-type f`”). For example, here's an example of using find to walk the filesystem, skipping all "hidden" directories and files (names beginning with "`.`") and processing only files ending in `.c` or `.h`:
 
@@ -140,7 +153,7 @@ find . \( -path '*/.*' -prune -o ! -name '.*' \) -a -name '*.[ch]'
 
 Below are the forms that always work (though some require nonstandard extensions or fail with Cygwin), followed by simpler ones with serious limitations.
 
-#### Always works
+#### 2.3.1 Always works
 
 ```sh
 # Simple find -exec; unwieldy if COMMAND is large, and creates 1 process/file:
@@ -215,9 +228,136 @@ for encoded_pathname in $(find . -exec printf '%s\0' {} \; | encodef ) ; do
 done
 ```
 
+#### 2.3.2 Limitations
+
+It is sometimes easier to not fully handle pathnames, especially if you are trying to write portable shell code. However, that code can quickly become a security vulnerability if you use it to examine expanded archives (such as zip or tar files), or examine a directory with files created by another (e.g., a remote filesystem, a virtual machine controlled by someone else or an attacker, another mobile app, etc.). Here are examples (and their limitations):
+
+```sh
+# Okay if pathnames can't contain tabs or newlines; beware the assumption:
+IFS="$(printf '\n\t')"
+set -f # Needed for filenames with *, etc; see below on saving/restoring
+for file in $(find .) ; do
+  COMMAND "$file" ...
+done
+```
+
+```sh
+# Okay if pathnames can't contain tabs or newlines; beware the assumption:
+IFS="$(printf '\n\t')"
+set -f # Needed for filenames with *, etc; see below on saving/restoring
+COMMAND $(find .) /dev/null
+```
+
+```sh
+# Okay if pathnames can't contain newlines; beware the assumption.
+# Also, this makes stdin inaccessible, and variables may not stay set.
+find . | while IFS="" read -r file ; do ...
+  COMMAND "$file" # Use "$file" not $file everywhere.
+done
+```
+
+```sh
+# You can securely use the above approaches, even if directories have
+# evil filenames, if you can skip evil filenames.   For example, here's how to
+# skip pathnames with embedded control chars, including newline and tab:
+IFS="$(printf '\n\t')"
+controlchars="$(printf '*[\001-\037\177]*')"
+set -f # Needed for filenames with *, etc; see below on saving/restoring
+for file in $(find . ! -name "$controlchars") ; do
+  COMMAND "$file" ...
+done
+```
+
+```sh
+# Skip pathnames with embedded control chars, including newline and tab:
+IFS="$(printf '\n\t')"
+controlchars="$(printf '*[\001-\037\177]*')"
+set -f # Needed for filenames with *, etc; see below on saving/restoring
+COMMAND $(find . ! -name "$controlchars") /dev/null
+```
+
+```sh
+# Here's one way to quickly exit a program if a filename
+# contains a control character (including tabs, newlines, and ESC) or DEL.
+# My thanks to Michael Thayer for this suggestion.
+expr "$filename" : "`printf '.*[\01-\037\0177*?]'`" && exit 1
+```
+
+### 2.4 Template: Building up a variable
+
+There’s no easy portable way to handle multiple arbitrary filenames in one variable and then directly use them. Shell arrays work, but can be tricky to use in this case and are not portable. I suggest forbidding filenames with tabs and newlines; then you can easily use those characters as separators like this:
+
+```sh
+# If you build up options in a string, use tab|newline to separate filenames
+IFS="$(printf '\n\t')"
+tab="$(printf '\t')"
+command_options="-x${tab}-y"
+# If you want to put pathnames in built-up string, prevent tab|newline
+# in the pathname, use "set -f", and then you can use an unquoted variable.
+# E.g., presuming that $file doesn't contain tab|newline, -F $file is:
+command_options="${options}-F${tab}${file}"
+set -f # Needed for filenames with *, etc; see below on saving/restoring
+mycommand $command_options "$another_pathname"
+```
+
+### 2.5 Template: Saving and restoring “set -f”
+
+Sometimes you need to disable file globbing in shell, especially when receiving information from find. POSIX includes various portable mechanisms to disable and re-enable file globbing in shell. The “`set -f`” command disables file globbing. You can use “`set -f`” to disable file globbing, and “`set +f`” to re-enable it. But what if you want to use “`set -f`” to disable file globbing temporarily, and later restore whatever it was before? One way is to put the “`set -f`” and what it depends on in a subshell; that works, but then variable settings are lost once the subshell is done. You can also save and restore shell option settings by doing this:
+
+```sh
+oldSetOptions=$(set +o)             # Save shell option settings
+... (set -f, etc.)
+eval "$oldSetOptions" 2> /dev/null  # Restore shell option settings
+```
+
+## 3. Rationale for the basic rules
+
+Here is the rationale for each of the basic rules.
+
+### 3.1 Double-quote parameter (variable) references and command substitutions
+
+As described by any Bourne shell programming book, always use double-quotes (`"`) to surround variable references and command substitutions, unless you are certain they can only produce alphanumeric characters or you have specially prepared things. The dangerous characters are whitespace or shell pathname expansion (glob) characters like “`*`”, because unquoted variable references and command substitutions undergo shell field splitting and pathname expansion:
+
+- Field splitting splits a word into multiple words; by default they are split by space, tab, or newline. This expansion can be controlled or disabled by setting the variable `IFS`, but you have to specially set it.
+- Pathname expansion looks for filename patterns, and if they are found, splits up a word into multiple words for each filename. If the unquoted variable reference or command substitution produces a character like `*`, shell will normally try to replace that with a list of the filenames that match the pattern. This expansion can be disabled using “`set -f`”.
+
+The good news is that once you get into the habit, this is an easy style rule to follow. Even if you know that they can only produce characters that will not cause problems, quoting is a good idea, since the script might change in the future. It is easy to remember “alphanumeric characters okay” than a more complicated rule, and if you allow more than alphanumeric characters, it is likely that the variable will eventually allow dangerous characters. Lots of scripts already follow this rule, so while it’s annoying, it’s not too bad. Here are some examples:
+
+| Don’t use          | Instead use            |
+| ------------------ | ---------------------- |
+| `$file`            | `"$file"`              |
+| `$(pwd)`           | `"$(pwd)"`             |
+| `$(dirname $file)` | `"$(dirname "$file")"` |
+
+By the way, it turns out that the [POSIX spec is unclear whether or not field splitting applies to arithmetic expansion in shell](http://austingroupbugs.net/view.php?id=832); most (but not all) implementations do apply field splitting in this case.
+
+### 3.2 Set `IFS` to just newline and tab at the start of each script
+
+One of the first non-comment commands in every shell script should be:
+
+```sh
+IFS="$(printf '\n\t')"
+# or:
+IFS="`printf '\n\t'`"
+# Widely supported, POSIX added http://austingroupbugs.net/view.php?id=249
+IFS=$'\n\t'
+```
+
+To understand this recommendation, you need to know what `IFS` is. `IFS` is the list of input field separators in shell. The POSIX specification XCU section 2.6.5 explains that after various expansions (such as parameter expansion and command subsitution), the results not in double-quotes are split up where they include input field separators. By default `IFS` is space, tab, and newline.
+
+This recommendation sets the `IFS` variable so that the “space” character is no longer an input field separator, and thus only newline and tab are field separators. If you need to run on really old systems the second form with backquotes is better, but the first one is easier to read, POSIX compliant, and very portable - it works on any system not in a museum.
+
+This doesn’t help security very much, but it does help reliability. If you make a mistake in your script, and the script encounters a pathname (or other data) with a space, your script is more likely to work correctly. Filenames with tabs and newlines are almost never used except by attackers, but users often use spaces; doing this will prevent file splitting from unintentionally splitting up filenames with spaces. So if you forget to surround a variable reference with double-quotes, or use a for loop with a simple command substitution, it is less likely to fail. It also makes it possible to combine options and filenames with spaces; you can use filenames with spaces (as usual), and separate the options with tabs (this isn’t a common convention, but I think it’s a reasonable one). It is also really easy to do this; just add one line near the top.
+
+The recommended `IFS` command sets newline and then tab. It is harder to do it in the other order in some shells, because `$(...)` consumes trailing newlines. The easy way is to use `IFS=$'\t\n'`, which is widely supported but [has only recently been added to POSIX](http://austingroupbugs.net/view.php?id=249).
+
+You can still build a list of command options inside a single shell variable, even when space isn’t in IFS. You just need to use tab or newline to separate parameters, and not space. You can even embed pathnames with spaces in this variable, since spaces are no longer field separators.
+
+You might also want to put “`set -eu`” or at least “`set -u`” at the beginning of your scripts, along with setting `IFS`. This does nothing for pathnames, but these can help detect other script errors.
+
+By the way, the need for proper quoting is not limited to Bourne shells. The [Windows shell also requires proper quoting, and improper quoting can lead to vulnerabilities](http://arstechnica.com/security/2014/10/poor-punctuation-leads-to-windows-shell-vulnerability/). [A user merely needs to create filenames with characters such as ampersands](http://thesecurityfactory.be/command-injection-windows.html), and an improperly-quoted shell program might end up running it. For example, imagine if an attacker can create a directory of the form “name&command_to_execute”, say on a fileserver. Then a Windows script which fails to quote properly (e.g., it has `ECHO %CD%` or `SET CurrentPath=%CD%` without putting double-quotes around `%CD%`) would end up running the command of the attacker’s choosing.
+
 ---
 
 [POSIX standard]: http://www.opengroup.org/onlinepubs/009695399/
 [shellcheck]: http://www.shellcheck.net/
-[Using globs]: https://dwheeler.com/essays/filenames-in-shell.html#globbing
-[Using find]: https://dwheeler.com/essays/filenames-in-shell.html#find
