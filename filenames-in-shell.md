@@ -16,6 +16,15 @@
 - [3. Rationale for the basic rules](#3-rationale-for-the-basic-rules)
   - [3.1 Double-quote parameter (variable) references and command substitutions](#31-double-quote-parameter-variable-references-and-command-substitutions)
   - [3.2 Set `IFS` to just newline and tab at the start of each script](#32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script)
+  - [3.3 Prefix all globs so they cannot expand to begin with “`-`”](#33-prefix-all-globs-so-they-cannot-expand-to-begin-with--)
+  - [3.4 Check if a pathname begins with “`-`” when accepting pathnames, and then prepend “`./`” if it does](#34-check-if-a-pathname-begins-with---when-accepting-pathnames-and-then-prepend--if-it-does)
+  - [3.5 Be careful about displaying or storing pathnames](#35-be-careful-about-displaying-or-storing-pathnames)
+  - [3.6 Do not depend on “`--`”](#36-do-not-depend-on---)
+  - [3.7 Yes, there’s more](#37-yes-theres-more)
+- [4. Globbing](#4-globbing)
+  - [4.1 Beware of globs if there might be empty lists of pathnames](#41-beware-of-globs-if-there-might-be-empty-lists-of-pathnames)
+  - [4.2 The globstar extension](#42-the-globstar-extension)
+- [5. Find](#5-find)
 
 ## 1. How to do it wrongly
 
@@ -98,16 +107,18 @@ So, how can you process pathnames correctly in shell? Here’s a quick summary a
 
 ### 2.1 Basic rules
 
-1. [Double-quote all variable references and command substitutions](https://dwheeler.com/essays/filenames-in-shell.html#doublequote) unless you are certain they can only contain alphanumeric characters or you have specially prepared things (i.e., use `"$variable"` instead of `$variable`). In particular, you should practically always put `$@` inside double-quotes; POSIX defines this to be special (it expands into the positional parameters as separate fields even though it is inside double-quotes).
-2. [Set IFS to just newline and tab](https://dwheeler.com/essays/filenames-in-shell.html#ifs), if you can, to reduce the risk of mishandling filenames with spaces. Use newline or tab to separate options stored in a single variable. Set `IFS` with `IFS="$(printf '\n\t')"`
-3. [Prefix all pathname globs so they cannot expand to begin with “-”](https://dwheeler.com/essays/filenames-in-shell.html#prefixglobs). In particular, never start a glob with “`?`” or “`*`” (such as “`*.pdf`”); always prepend globs with something (like “`./`”) that cannot expand to a dash. So never use a pattern like “`*.pdf`”; use “`./*.pdf`” instead.
+1. [Double-quote all variable references and command substitutions] unless you are certain they can only contain alphanumeric characters or you have specially prepared things (i.e., use `"$variable"` instead of `$variable`). In particular, you should practically always put `$@` inside double-quotes; POSIX defines this to be special (it expands into the positional parameters as separate fields even though it is inside double-quotes).
+2. [Set IFS to just newline and tab], if you can, to reduce the risk of mishandling filenames with spaces. Use newline or tab to separate options stored in a single variable. Set `IFS` with `IFS="$(printf '\n\t')"`
+3. [Prefix all pathname globs so they cannot expand to begin with “`-`”]. In particular, never start a glob with “`?`” or “`*`” (such as “`*.pdf`”); always prepend globs with something (like “`./`”) that cannot expand to a dash. So never use a pattern like “`*.pdf`”; use “`./*.pdf`” instead.
 4. [Check if a pathname begins with “-” when accepting pathnames](https://dwheeler.com/essays/filenames-in-shell.html#checkdash), and then prepend “`./`” if it does.
 5. [Be careful about displaying or storing pathnames](https://dwheeler.com/essays/filenames-in-shell.html#display-store), since they can include newlines, tabs, terminal control escape sequences, non-UTF-8 characters (or characters not in your locale), and so on. You can strip out control characters and non-UTF-8 characters before display using `printf '%s' "$file" | LC_ALL=POSIX tr -d '[:cntrl:]' | iconv -cs -f UTF-8 -t UTF-8`
 6. [Do not depend on always using “--”](https://dwheeler.com/essays/filenames-in-shell.html#dashdash) between options and pathnames as the primary countermeasure against filenames beginning with “`-`”. You have to do it with every command for this to work, but people will not use it consistently (they never have), and many programs (including echo) do not support “`--`”. Feel free to use “`--`” between options and pathnames, but only as an additional optional protective measure.
 7. Use a template that is known to work correctly; below are some [tested](https://dwheeler.com/encodef/evil-filenames-test) templates.
 8. Use a tool like [shellcheck] to find problems you missed.
 
-### 2.2 Template: [Using globs](https://dwheeler.com/essays/filenames-in-shell.html#globbing)
+### 2.2 Template: Using globs
+
+> [Using globs]
 
 ```sh
 # Correct portable glob use: use "for" loop, prefix glob, check for existence:
@@ -143,7 +154,9 @@ shopt -s nullglob  # Bash extension, so globs with no matches return empty
 COMMAND ... ./* /dev/null
 ```
 
-### 2.3 Template: [Using find](https://dwheeler.com/essays/filenames-in-shell.html#find)
+### 2.3 Template: Using find
+
+> [Using find]
 
 The find command is great for recursively processing directories. Typically you would specify other parameters to find (e.g., select only normal files using “`-type f`”). For example, here's an example of using find to walk the filesystem, skipping all "hidden" directories and files (names beginning with "`.`") and processing only files ending in `.c` or `.h`:
 
@@ -357,7 +370,136 @@ You might also want to put “`set -eu`” or at least “`set -u`” at the beg
 
 By the way, the need for proper quoting is not limited to Bourne shells. The [Windows shell also requires proper quoting, and improper quoting can lead to vulnerabilities](http://arstechnica.com/security/2014/10/poor-punctuation-leads-to-windows-shell-vulnerability/). [A user merely needs to create filenames with characters such as ampersands](http://thesecurityfactory.be/command-injection-windows.html), and an improperly-quoted shell program might end up running it. For example, imagine if an attacker can create a directory of the form “name&command_to_execute”, say on a fileserver. Then a Windows script which fails to quote properly (e.g., it has `ECHO %CD%` or `SET CurrentPath=%CD%` without putting double-quotes around `%CD%`) would end up running the command of the attacker’s choosing.
 
+<a href="#prefixglobs"></a>
+
+### 3.3 Prefix all globs so they cannot expand to begin with “`-`”
+
+A “glob” is a pattern for pathname matching like “`*.pdf`”. Whenever you use globbing to select files, never begin with a globbing character (typically the characters “`*`”, “`?`”, or “`[`”). If you’re starting from the current directory, prefix the glob with “`./`” like this:
+
+```sh
+cat ./*                   # Use this, NOT "cat *" ... Must have 1+ files.
+for file in ./* ; do      # Use this, NOT "for file in *" (beware empty lists)
+  ...
+done
+```
+
+This is important because almost all commands will interpret a string beginning with dash as an option, not as a filename, until they see something that does not begin with dash. Globs are expanded by the shell into a list of filenames, and dash is earlier in the sort order compared to before alphanumerics, so it is easy for attackers to make this happen.
+
+If you always prefix pathnames (e.g., those acquired through globs), then pathnames starting with “`-`” will always be handled correctly. Globbing is often the easiest way to handle all files, or a subset of them, in a specific directory, but you need to make sure you do it correctly.
+
+### 3.4 Check if a pathname begins with “`-`” when accepting pathnames, and then prepend “`./`” if it does
+
+Similar to the previous rule, if you read in a pathname, as early as possible see if it begins with “`-`”... if it does, prepend “`./`”. This eliminates this source of pathnames that are confused as option flags.
+
+### 3.5 Be careful about displaying or storing pathnames
+
+Filter or encode pathnames before displaying them. The biggest problem is that pathnames could contain control characters that control the terminal and/or the GUI display, causing nasty side-effects on display. Displaying pathnames can even cause a security vulnerability in some situations (!). If you must display pathnames, consider encoding or stripping out control characters first (many ls implementations do this when the output is a terminal). You can strip out the control characters this way:
+
+```sh
+printf '%s' "$file" | LC_ALL=POSIX tr -d '[:cntrl:]'
+```
+
+In addition, you have no way of knowing for certain what the pathname’s character encoding is, so if you got a pathname from someone else, and they do not use UTF-8 (including ASCII), you’re likely to end up with garbage [mojibake](http://en.wikipedia.org/wiki/Mojibake).
+
+In practice, what most people do is exchange pathnames and hope that they are UTF-8. If you both use the same locale, you could use that instead, but UTF-8 is the only encoding in wide use for Unix pathnames that can handle arbitrary languages. Most modern GUI toolkits presume that filenames are UTF-8, even though nothing actually ensures that this is true. If you must display pathnames, consider forcing them to display as UTF-8. I encourage you to always encode pathnames in UTF-8... but beware that nothing actually enforces this common convention. Thus, you will want to enforce it yourself where you can.
+
+One way you can avoid displaying non-UTF-8 filenames in shell is to try to convert them to UTF-8 using `iconv`. The `iconv` program is in POSIX, and it can strip out characters not in a given encoding. Sadly, the encodings that must be supported by `iconv` are not standardized. Still, GNU `iconv` supports UTF-8, and other systems are likely to do so, so this will probably work:
+
+```sh
+printf '%s' "$file" | iconv -cs -f UTF-8 -t UTF-8
+```
+
+A common approach for storing pathnames in files, or to transmit them in data formats, is to separate them with newlines and/or tabs. Sadly, this does not work in the general case, since pathnames can include both characters. You need to forbid such nasty filenames, escape them, or use `\0` to separate the pathnames. If you can forbid them, that is the easiest... but you may not have that option.
+
+### 3.6 Do not depend on “`--`”
+
+Many books, and the POSIX standard, mistakenly advocate using “`--`” between the options and pathnames as the primary method to deal with filenames beginning with “`-`”. This is impractical and bad advice:
+
+For “`--`” to work, all maintainers would have to faithfully use “`--`” in practically every command invocation. That just doesn’t happen in real life, even after decades of people trying. People forget it all the time; no one is that consistent, especially since code seems to work without it. Very few commands require it, after all.
+
+You can’t do it anyway, even if you were perfectly consistent; many programs and commands do not support “`--`”. POSIX even explicitly forbids echo from supporting “`--`”, and echo must support “`-n`” (and GNU coreutils echo supports other options too).
+
+Thus, as a practical matter you need to do something else; by always prefixing filenames if they start with dash, as recommended earlier, the problem disappears.
+
+Do feel free to use “`--`” between options and pathnames, when you can do it, as an additional protective measure. But using “`--`” as your primary (or only) mechanism for dash-prefixed filenames is bad idea. You are better off prefixing the pathnames when you get the pathname, since then you only have to do it once per pathname. Once you prefix the pathname it doesn’t matter if you remember “`--`” or not; it just works correctly.
+
+### 3.7 Yes, there’s more
+
+Sadly, there’s more. There are two major ways to get sets of pathnames in the shell, [glob patterns] and the [find command]. Globs are primarily useful for a short list of unhidden filenames in one directory; find is useful for other situations, including recursively descending into subdirectories.
+
+In both cases you have to worry around what happens when there are zero matches. If you just gave “command” and something that gave a list of filenames, most commands will hang while trying to read from standard input. The easy solution in this case is to add “`/dev/null`” to the end... assuming you can do that.
+
+The next two sections examine [glob patterns] and the [find command] in turn.
+
+## 4. Globbing
+
+Globbing is a simple language specifically designed for filename handling, primarily to create lists of unhidden files in a particular directory. In this language, “`*`” matches all non-hidden files in the current directory, “`*.pdf`” matches all non-hidden files in the current directory ending in “`.pdf`” - and so on.
+
+The good news about globbing in shell is that glob expansion is built into the shell and done after field (`IFS`) expansion. Thus, as long as you directly use globs as command parameters or as part of a “for” loop, you will have no problem with pathnames containing whitespace or control characters (since they will not undergo field expansion). There is also no challenge getting the information back into shell; the shell is doing the processing.
+
+However, if a pathname begins with “`-`”, glob will dutifully expand it, confusing any command later. As noted above, the recommended solution is to always prefix a glob with something that does not begin with dash, such as “`./`”.
+
+Remember that globbing normally skips hidden files (those beginning with “`.`”). Often that is what you want. If you want the hidden files in a directory instead, you may want to use “`find`” instead. You can get the hidden files with a glob by adding two more globbing patterns:
+
+```sh
+.[!.]* ..?*
+```
+
+In many cases even a simple glob could fail to match, and adding globbing patterns to find hidden files makes this even more likely... which leads us to the problem of handling empty pathname lists.
+
+### 4.1 Beware of globs if there might be empty lists of pathnames
+
+Beware of globbing if there might be no matches with the pattern (and this is often the case). By default, if a glob like `./*.pdf` matches no files, then the original glob pattern will be returned instead.
+
+This is almost never what you want. E.g., in a “`for`” loop this will cause the loop to execute once, but with the pattern instead of a pathname! Similarly, if you use a glob on a command line, such as `cat ./*pdf`, the result will be a request to open a non-existent file... which is almost never what you want.
+
+You can use use globbing in a for loop, even if it might not match anything, using one of two approaches. One approach, which is completely portable, is to re-test for the existance of the file before using it in the loop:
+
+```sh
+for file in ./* ; do        # Use this, NOT "for file in *"
+  if [ -e "$file" ] ; then  # Make sure it exists and isn't an empty match
+    COMMAND ... "$file" ...
+  fi
+done
+```
+
+This is both ugly and a little inefficient (you have to re-test each file again). There are also pathological cases where the pattern doesn’t match but there is a file that is identical to the unmatched pattern (though for typical patterns that can’t happen), so you have to check your pattern to see if that could happen.
+
+A more efficient but nonstandard solution for empty matches is to use a nonstandard shell extension called “null globbing”. Null globbing fixes this by replacing an unmatched pattern with nothing at all. In bash you can enable nullglob with “`shopt -s nullglob`”. In `zsh`, you can use `setopt NULL_GLOB` for the same result. Then this will work correctly:
+
+```sh
+shopt -s nullglob  # Bash extension, so that empty glob matches will work
+for file in ./* ; do        # Use this, NOT "for file in *"
+    COMMAND ... "$file" ...
+done
+```
+
+Null globbing can work well on the command line too, but there’s a catch. If all patterns might be empty, you have to include at least one file (such as `/dev/null`) that is okay to include, or it needs to be okay to run the command without any pathname arguments. Thus, you can use “`cat ./*.pdf /dev/null`”.
+
+Another problem with globbing is that if the list of matches is too long, on some older shells it will also fail. In short, in robust scripts, globbing should normally be used only as a “`for`” loop’s list.
+
+### 4.2 The globstar extension
+
+Traditional globbing is only useful when you want to process files in a particular directory. Some shells have added a nonstandard “globstar” extension, but it’s both nonstandard and has various limitations. I discuss it here, but you probably want to use find (discussed next).
+
+With the globstar extension, the pattern “`**`” returns every pathname (including directories) in the current directory, recursively; it omits dot files, doesn’t descend into dot dirs, and sorts the file list.
+
+Bash version 4 recently added this, but you must enable it with “`shopt -s globstar`”. [The zsh shell originally came up with this](http://www.mail-archive.com/bug-bash@gnu.org/msg04858.html), and ksh93 was the first to copy it (but in ksh you have to enable it with “`set -G`”). Note that there’s no standard way to invoke it!
+
+If you use this in a for loop list and combine it with nullglob, you can handle absolutely all pathnames easily and efficiently, including the empty case. That sounds great, but watch the fine print... I think there are many reasons to avoid this right now. It’s nonstandard, and gives you little control over the recursion. Most importantly, at least some implementations have trouble if there are links in the directories. [Bash 4, at least, can get stuck in infinite loops if there are links](http://en.chys.info/2009/04/globstar-in-bash-4-follows-symlinks/). In many cases, find is currently the better approach for reliably doing recursive descent into directories.
+
+## 5. Find
+
 ---
 
 [POSIX standard]: http://www.opengroup.org/onlinepubs/009695399/
 [shellcheck]: http://www.shellcheck.net/
+
+[Double-quote all variable references and command substitutions]: #31-double-quote-parameter-variable-references-and-command-substitutions
+[Set IFS to just newline and tab]: #32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script
+[Prefix all pathname globs so they cannot expand to begin with “`-`”]: #prefixglobs
+
+[Using globs]: #4-globbing
+[Using find]: #5-find
+[glob patterns]: #4-globbing
+[find command]: #5-find
