@@ -37,6 +37,10 @@
 
 ## tmp
 
+### May 29, 2019
+
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
 ### May 28, 2019
 
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : Interactive Online Platform that Visualizes Algorithms from Code
