@@ -41,6 +41,7 @@
 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/) Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck#how-to-use) : ShellCheck, a static analysis tool for shell scripts
 
 ### May 28, 2019
 
