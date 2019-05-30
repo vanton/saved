@@ -100,7 +100,7 @@ cat $(find . -type f) > ../collection  # WRONG
 ```
 
 错误。
-默认情况下，`xargs`的输入会被解析，因此空格字符（以及换行符）会将参数分开，反斜杠、撇号、双引号和符号字符会被用于引用。根据[POSIX标准]，您必须包含选项`-E ""`，下划线也可能具有特殊含义。
+默认情况下，`xargs`的输入会被解析，因此空格字符（以及换行符）会将参数分开，反斜杠、撇号、双引号和符号字符会被用于引用。根据[POSIX标准]，你必须包含选项`-E ""`，下划线也可能具有特殊含义。
 请注意，[POSIX标准] `xargs`部分中的许多示例都是错误的; 带有空格、换行符或许多其他字符的路径名将导致许多示例失败。
 
 ---
@@ -112,7 +112,7 @@ cat $(find . -type f) > ../collection  # WRONG
 ```
 
 错误。
-与许多程序一样，这假定您可以拥有正确的路径名列表，每行一个路径名。
+与许多程序一样，这假定你可以拥有正确的路径名列表，每行一个路径名。
 但由于路径名可以在内部包含换行符，因此所有简单的一次一行处理路径名都是错误的！
 如果路径名不包含换行符，则此构造没问题，但由于许多类Unix系统允许路径名包含特殊字符，攻击者很乐意使用这种错误假设作为攻击手段。
 
@@ -133,14 +133,14 @@ cat $file
 
 ### 2.1 基本规则
 
-1. [所有变量引用和命令替换加上双引号] 除非您确定它们只能包含字母数字字符或您有特殊准备的东西（即使用`"$variable"` 替代 `$variable`）。 特别注意，你通常应该把`$@`置于双引号内; POSIX将此定义为特殊（它将位置参数扩展为单独的字段，即使它在双引号内）。
+1. [所有变量引用和命令替换加上双引号] 除非你确定它们只能包含字母数字字符或你有特殊准备的东西（即使用`"$variable"` 替代 `$variable`）。特别注意，你通常应该把`$@`置于双引号内; POSIX将此定义为特殊（它将位置参数扩展为单独的字段，即使它在双引号内）。
 2. [设置IFS为仅包含新行和制表符]，以降低使用空格错误处理文件名的风险。 使用换行符或制表符分隔存储在单个变量中的选项。 将`IFS`设置为`IFS="$(printf '\n\t')"`
 3. [路径名通配符加上前缀以防止扩展为以“`-`”开头]。特别注意，通配符开头永远不要用“`?`”或“`*`”（例如“`*.pdf`”）; 总是在前面添加一些不能扩展“`-`”的东西（比如“`./`”）。 所以永远不要使用像“`*.pdf`”这样的模式; 请改用“`./*.pdf`”。
 4. [检查路径名是否以“`-`”开头]，然后在前面添加“`./`”。
-5. [Be careful about displaying or storing pathnames], since they can include newlines, tabs, terminal control escape sequences, non-UTF-8 characters (or characters not in your locale), and so on. You can strip out control characters and non-UTF-8 characters before display using `printf '%s' "$file" | LC_ALL=POSIX tr -d '[:cntrl:]' | iconv -cs -f UTF-8 -t UTF-8`
-6. [Do not depend on always using “--”] between options and pathnames as the primary countermeasure against filenames beginning with “`-`”. You have to do it with every command for this to work, but people will not use it consistently (they never have), and many programs (including echo) do not support “`--`”. Feel free to use “`--`” between options and pathnames, but only as an additional optional protective measure.
-7. Use a template that is known to work correctly; below are some [tested](https://dwheeler.com/encodef/evil-filenames-test) templates.
-8. Use a tool like [shellcheck] to find problems you missed.
+5. [注意显示或存储路径名]，因为它们可以包括换行符、制表符、终端控制转义序列、非UTF-8字符（或不在你的语言环境中的字符）、等等。 请在显示之前去掉控制字符和非UTF-8字符 `printf '%s' "$file" | LC_ALL=POSIX tr -d '[:cntrl:]' | iconv -cs -f UTF-8 -t UTF-8`
+6. [不要滥用“`--`”]，不依赖于总是在选项和路径名之间使用“`--`”作为对“`-`”开头的文件名的主要对策。你必须使用每个命令来实现它，但是人们一直不正确使用（从来没有），并且许多程序（包括`echo`）不支持“`--`”“。 你可以在选项和路径名之间使用“`--`”，但仅作为额外的可选保护措施。
+7. 使用已知可正常工作的模板; 以下是一些 [已测试](https://dwheeler.com/encodef/evil-filenames-test) 的模板.
+8. 使用一些类似 [shellcheck] 的工具来找出被你忽视的问题。
 
 ### 2.2 Template: Using globs
 
@@ -670,8 +670,8 @@ Feel free to see my home page at <https://dwheeler.com>. You may also want to lo
 [设置IFS为仅包含新行和制表符]: #32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script
 [路径名通配符加上前缀以防止扩展为以“`-`”开头]: #33-prefix-all-globs-so-they-cannot-expand-to-begin-with--
 [检查路径名是否以“`-`”开头]: #34-check-if-a-pathname-begins-with---when-accepting-pathnames-and-then-prepend--if-it-does
-[Be careful about displaying or storing pathnames]: #35-be-careful-about-displaying-or-storing-pathnames
-[Do not depend on always using “--”]: #36-do-not-depend-on---
+[注意显示或存储路径名]: #35-be-careful-about-displaying-or-storing-pathnames
+[不要滥用“`--`”]: #36-do-not-depend-on---
 
 [Using globs]: #4-globbing
 [Using find]: #5-find
