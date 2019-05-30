@@ -8,7 +8,7 @@
 - [2. Doing it correctly: A quick summary](#2-doing-it-correctly-a-quick-summary)
   - [2.1 Basic rules](#21-basic-rules)
   - [2.2 Template: Using globs](#22-template-using-globs)
-  - [2.3 Template: Using find](#23-template-using-find)
+  - [2.3 Template: Using `find`](#23-template-using-find)
     - [2.3.1 Always works](#231-always-works)
     - [2.3.2 Limitations](#232-limitations)
   - [2.4 Template: Building up a variable](#24-template-building-up-a-variable)
@@ -161,7 +161,7 @@ shopt -s nullglob  # Bash extension, so globs with no matches return empty
 COMMAND ... ./* /dev/null
 ```
 
-### 2.3 Template: Using find
+### 2.3 Template: Using `find`
 
 > [Using find]
 

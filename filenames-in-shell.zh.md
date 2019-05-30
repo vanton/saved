@@ -7,8 +7,8 @@
 - [1. 错误的做法](#1-错误的做法)
 - [2. 正确的做法：快速摘要](#2-正确的做法快速摘要)
   - [2.1 基本规则](#21-基本规则)
-  - [2.2 Template: Using globs](#22-template-using-globs)
-  - [2.3 Template: Using find](#23-template-using-find)
+  - [2.2 模板：使用通配符](#22-模板使用通配符)
+  - [2.3 模板: 使用 `find`](#23-模板-使用-find)
     - [2.3.1 Always works](#231-always-works)
     - [2.3.2 Limitations](#232-limitations)
   - [2.4 Template: Building up a variable](#24-template-building-up-a-variable)
@@ -142,45 +142,45 @@ cat $file
 7. 使用已知可正常工作的模板; 以下是一些 [已测试](https://dwheeler.com/encodef/evil-filenames-test) 的模板.
 8. 使用一些类似 [shellcheck] 的工具来找出被你忽视的问题。
 
-### 2.2 Template: Using globs
+### 2.2 模板：使用通配符
 
-> [Using globs]
+> [使用通配符]
 
 ```sh
-# Correct portable glob use: use "for" loop, prefix glob, check for existence:
-# (remember that globs normally do NOT include files beginning with "."):
-for file in ./* ; do        # Prefix with "./*", NEVER begin with bare "*"
-  if [ -e "$file" ] ; then  # Make sure it isn't an empty match
+# 正确可移植的通配符使用: 使用"for" 循环, 前缀通配符, 检查后缀:
+# (记住通配符通常不包含 "." 开头的文件):
+for file in ./* ; do        # 前缀使用 "./*", 不要直接使用 "*"
+  if [ -e "$file" ] ; then  # 确保不是空的匹配
     COMMAND ... "$file" ...
   fi
 done
 ```
 
 ```sh
-# Correct portable glob use, including hidden files (beginning with "."):
-for file in ./* ./.[!.]* ./..?* ; do        # Prefix with "./*"
-  if [ -e "$file" ] ; then  # Make sure it isn't an empty match
+# 正确可移植的通配符使用, 包含隐藏文件 (文件名开头为 "."):
+for file in ./* ./.[!.]* ./..?* ; do  # 前缀使用 "./*"
+  if [ -e "$file" ] ; then            # 确保不是空的匹配
     COMMAND ... "$file" ...
   fi
 done
 ```
 
 ```sh
-# Correct glob use, simpler but requires nonstandard bash extension nullglob:
-shopt -s nullglob  # Bash extension, so globs with no matches return empty
-for file in ./* ; do        # Use "./*", NEVER bare "*"
+# 正确的通配符使用, 更简单但需要非标准的 bash 扩展 nullglob:
+shopt -s nullglob  # Bash 扩展, 通配符无匹配返回空
+for file in ./* ; do        # 使用 "./*", 不要直接使用 "*"
   COMMAND ... "$file" ...
 done
 ```
 
 ```sh
-# Correct glob use, simpler but requires nonstandard bash extension nullglob;
-# you can do things on one line if you can add /dev/null as an input.
-shopt -s nullglob  # Bash extension, so globs with no matches return empty
+# 正确的通配符使用, 更简单但需要非标准的 bash 扩展 nullglob:
+# 如果可以添加 /dev/null 作为输入，则可以在一行上执行操作。
+shopt -s nullglob  # Bash 扩展, 通配符无匹配返回空
 COMMAND ... ./* /dev/null
 ```
 
-### 2.3 Template: Using find
+### 2.3 模板: 使用 `find`
 
 > [Using find]
 
@@ -673,7 +673,7 @@ Feel free to see my home page at <https://dwheeler.com>. You may also want to lo
 [注意显示或存储路径名]: #35-be-careful-about-displaying-or-storing-pathnames
 [不要滥用“`--`”]: #36-do-not-depend-on---
 
-[Using globs]: #4-globbing
+[使用通配符]: #4-globbing
 [Using find]: #5-find
 [glob patterns]: #4-globbing
 [find command]: #5-find
