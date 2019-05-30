@@ -25,6 +25,13 @@
   - [4.1 Beware of globs if there might be empty lists of pathnames](#41-beware-of-globs-if-there-might-be-empty-lists-of-pathnames)
   - [4.2 The globstar extension](#42-the-globstar-extension)
 - [5. Find](#5-find)
+- [6. Using null-separated pathnames](#6-using-null-separated-pathnames)
+- [7. Encoding pathnames](#7-encoding-pathnames)
+- [8. A quick aside about newline](#8-a-quick-aside-about-newline)
+- [9. Could the POSIX standard be changed to make file processing easier](#9-could-the-posix-standard-be-changed-to-make-file-processing-easier)
+  - [9.1 Globbing](#91-globbing)
+  - [9.2 Find / null separators](#92-find--null-separators)
+- [10. If pathnames were limited, would it be better](#10-if-pathnames-were-limited-would-it-be-better)
 
 ## 1. How to do it wrongly
 
@@ -512,7 +519,129 @@ You could combine `xargs` with `find` using a pipe, and use newlines to separate
 find . | sed -e 's/[^A-Za-z0-9]/\\&/g' | xargs -E "" COMMAND # DO NOT DO
 ```
 
+## 6. Using null-separated pathnames
+
+If you want to exchange pathnames (in their full generality) between programs, or store them for later, a common solution is to use byte 0 (aka `\0` or `null`) to separate pathnames. This works because pathnames, by definition, cannot include byte 0.
+
+This is very useful, and it works nicely, but note that there are downsides to this approach:
+
+- The easy way to use this convention requires the use of nonstandard extensions that are not a part of the [POSIX standard], so the result is non-standard and less portable. Still, many toolsets have a few tool extensions to support this, including the GNU, *BSD, and busybox toolsets. Hopefully someday POSIX will add this.
+- The option names to use this convention today (when available) are jarringly inconsistent. In particular, perl uses `-0`, while the GNU tools options are as follows: `sort -z`, `find -print0`, `xargs -0`, and `grep` accepts either `-Z` or `--null`. The equivalent option in the bash shell read command is `-d ""` (aka empty delimeter).
+- This convention is supported by only a few tools (e.g., the GNU toolset includes support, but in only a few of its tools).
+- This format is more difficult to view and modify, in part because so few tools support it, compared to the line-at-a-time format that is widely supported.
+- Most shells cannot store byte 0 in a variable at all. You can’t even pass such null-separated lists back to the shell via command substitution; `cat $(find . -print0)` and similar “`for`” loops don’t work. Even the POSIX standard’s version of “`read`” can’t use `\0` as the separator (POSIX’s read has the `-r` option, but not `bash`’s `-d` option).
+
+But if you want maximum generality when recursing into subdirectories, this is a common and relatively painless way to do it.
+
+## 7. Encoding pathnames
+
+It is possible to encode pathnames so that all pathnames can be handled. There is no standard POSIX mechanism for doing this encoding, unfortunately.
+
+[encodef] is a small utility I wrote that can encode and decode filenames in a few formats. With it, you can do this:
+
+```sh
+# This version is POSIX portable; in practice
+# you can often use "-print0" instead of "-exec printf '%s\0' {} \;"
+for encoded_pathname in $(find . -exec printf '%s\0' {} \; | encodef ) ; do
+  file="$(encodef -d -Y -- "$encoded_pathname")" ; file="${file%Y}"
+  COMMAND "$file" # Use quoted "$file", not $file, everywhere.
+done
+```
+
+## 8. A quick aside about newline
+
+Newline can be a little tricky to get into a shell variable. You can’t do:
+
+```sh
+newline="$(printf '\n')"
+```
+
+Because after the `$(...)` command is executed, any trailing newline is removed.
+One alternative is:
+
+```sh
+newline='
+'
+```
+
+But this can get corrupted by programs that change the encoding of file end-of-lines.
+The following is a standards-compliant trick to get newline into a variable:
+
+```sh
+newline="$(printf '\nX')"
+newline="${newline%X}"
+```
+
+That is a pain, obviously. More recently, [POSIX added support for $'...'](http://austingroupbugs.net/view.php?id=249). Most shells, though not all, already support it. On a shell that does, you can do this:
+
+```sh
+newline=$'\n'
+```
+
+## 9. Could the POSIX standard be changed to make file processing easier
+
+The POSIX standard could (and should!) be modified to make it easier to to handle the outrageously permissive pathnames that are permitted today. Basically, we need extensions to make globbing and find easier to use.
+
+### 9.1 Globbing
+
+There are two basic problems with globbing:
+
+1. Globbing in shell returns junk (the pattern) when there are zero matches. There should be a shell option (typically called a “nullglob” option) so an empty list is returned if nothing matches and there was at least one metacharacter. Oddly enough, the underlying `glob()` function has an option that’s close to this, but there’s no standard way for shells to take advantage of it! Bash, ksh, and others have support, but not in a common standard way, and `glob()` doesn’t support exactly what is needed either ([bugid:247](http://austingroupbugs.net/view.php?id=247)).
+2. Globbing normally replies pathnames beginning with “`-`”. There should be an option that when set prepends “`./`” to any glob result that begins with “`-`”. This should be an option for `glob()`, as well as for the shell. I think the standard should also state that implementations may enable this by default. Not all real-world commands support “`--`”, and users often forget to add it; we need to have a mechanism to automatically deal with pathnames beginning with “`./`” if you need them.
+
+### 9.2 Find / null separators
+
+There also needs to be standard way to use find with arbitrary pathnames. The normal way to handle this is by separating pathnames with the null (`\0`) character; a few changes would simplify this:
+
+- Extend existing commands to generate or use null-separated pathname lists. At the least, add “`find -print0`” ([bugid:243](http://austingroupbugs.net/view.php?id=243)) and “`xargs -0`” ([bugid:244](http://austingroupbugs.net/view.php?id=244)) since these are already widely implemented. For consistency, I think “`-0`” should be the standard option name for null-separated lists. It’d be useful to add “`grep -0`” (GNU grep accepts either `-Z` or `--null`) and “`sort -0`” (GNU sort uses `-z`). Once added, this common template would be portable:
+
+  ```sh
+  find . -print0 | xargs -0 COMMAND
+  ```
+
+- Extend the shell’s read so that it can easily read null-separated streams. ([bugid:245](http://austingroupbugs.net/view.php?id=245)) Bash can do this today, but it’s painful; the command is `IFS="" read -d "" -r` which is overly complicated I believe there should be a new “`-0`” option for read, which says “ignore IFS, and just read until the next \0 byte” ([Here’s a bash 4.1 patch](https://dwheeler.com/misc/read0.patch)). You can then do this (which makes it easier to have long command sequences, as long as you don’t need stdin):
+
+  ```sh
+  find . -print0 | while read -0 file ; do ... done
+  ```
+
+- Extend the shell so that its for loop can handle a null-separated list. This one is harder; it’s not obvious how to do this. My current theory is that there be a new shell option ‘nullseparator”; when enabled, `IFS` is ignored, and instead `\0` is the input seperator. Then, extend the shell’s for loop syntax so that if you say then in instead of in, this mode is temporarily enabled while the list is processed (the original setting is then restored). (I originally had null in, but using then in means that no new keywords are needed.) You could then do this:
+
+  ```sh
+  for file then in $(find . -print0) do ... done
+  ```
+
+As a side note, it’d be nice if the `$'...'` construct was standard, as it makes certain things easier ([bugid:249](http://austingroupbugs.net/view.php?id=249)).
+
+## 10. If pathnames were limited, would it be better
+
+Shell programming is remarkably easy in many cases; what’s sad is that this common case (file processing) is far complicated than it needs to be. This is not a problem limited to shell; while shell is especially tricky, it is difficult to correctly process POSIX pathnames in all languages.
+
+Fundamentally, the rules on pathnames are too permissive. Extending POSIX would make it somewhat easier, and we should do that. However, It would be much simpler if systems imposed a few simple rules on pathnames, such as prohibiting control characters ([bugid:251](http://austingroupbugs.net/view.php?id=251)), prohibiting leading “`-`”, and requiring pathnames to be UTF-8. Then you could always print pathnames safely, and these “normal” shell constructs would always work:
+
+```sh
+# This works if pathnames never begin with "-" and nullglob is enabled:
+for file in *.pdf ; do ... done           # Use "$file" not $file
+# This works if pathnames have no control chars and IFS is tab and newline:
+set -f
+for file in $(find .) ; do ... done        # Use "$file" not $file
+```
+
+A good general principle in security is that you should whitelist input, and only accept patterns that pass the whitelist. However, currenly most kernels have no mechanism for whitelisting file creation; they just create whatever garbage comes to mind. Since they accept essentially anything, it becomes much harder to guard against the data later.
+
+I think that we should both extend the POSIX standard and limit the permitted pathnames. Not all systems will limit pathnames, so we need standard mechanism for them. But the new standard mechanisms simply can’t be as simple as restricting pathnames; restricting pathnames makes systems far easier to use correctly.
+
+Please see my [paper on fixing Unix/Linux/POSIX filenames] for more about this.
+
+I’ve also done some work on how to encode/decode pathnames/filenames; see the [encodef home page] for more information.
+
+But for now, this is how to handle pathnames properly in shell programs.
+
 ---
+
+Feel free to see my home page at <https://dwheeler.com>. You may also want to look at my paper [Why OSS/FS? Look at the Numbers](https://dwheeler.com/oss_fs_why.html)! and my book on [how to develop secure programs](https://dwheeler.com/secure-programs). And, of course, my [paper on fixing Unix/Linux/POSIX filenames].
+
+(C) Copyright 2010-2013 David A. Wheeler. Released under Creative Commons CC-BY-SA (any version), GNU GPL v2+, and the [Open Publication License (version 1.0 or later)](http://www.opencontent.org/openpub/). You can use this under any of those licenses; if you do not say otherwise, then you release it under all of them. In addition, Mendel Cooper has explicit authorization to include this (or any modified portion) as part of his “Advanced Bash Scripting Guide”. Let me know if you need other exceptions; my goal is to get this information out to the world!
 
 [POSIX standard]: http://www.opengroup.org/onlinepubs/009695399/
 [shellcheck]: http://www.shellcheck.net/
@@ -528,3 +657,7 @@ find . | sed -e 's/[^A-Za-z0-9]/\\&/g' | xargs -E "" COMMAND # DO NOT DO
 [Using find]: #5-find
 [glob patterns]: #4-globbing
 [find command]: #5-find
+
+[encodef]: https://dwheeler.com/encodef
+[encodef home page]: https://dwheeler.com/encodef
+[paper on fixing Unix/Linux/POSIX filenames]: https://dwheeler.com/essays/fixing-unix-linux-filenames.html
