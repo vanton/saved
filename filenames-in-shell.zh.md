@@ -1,10 +1,10 @@
-# Filenames and Pathnames in Shell: How to do it Correctly
+# Shell 中的文件名和路径名：如何正确操作
 
 > David A. Wheeler
 >
 > 2016-05-04 (original version 2010-05-19)
 
-- [1. How to do it wrongly](#1-how-to-do-it-wrongly)
+- [1. 错误的做法](#1-错误的做法)
 - [2. Doing it correctly: A quick summary](#2-doing-it-correctly-a-quick-summary)
   - [2.1 Basic rules](#21-basic-rules)
   - [2.2 Template: Using globs](#22-template-using-globs)
@@ -33,9 +33,9 @@
   - [9.2 Find / null separators](#92-find--null-separators)
 - [10. If pathnames were limited, would it be better](#10-if-pathnames-were-limited-would-it-be-better)
 
-## 1. How to do it wrongly
+## 1. 错误的做法
 
-First, let’s go through some examples that are wrong, because the first step to fixing things is to know what’s broken. These examples assume default settings (e.g., there is no “`set -f`” or “`IFS=...`”):
+首先，让我们来看一些错误的例子，因为解决问题的第一步是知道什么是坏的。 这些示例假设使用默认设置 (例如： 没有使用 “`set -f`” 或者 “`IFS=...`”):
 
 ---
 
@@ -43,7 +43,10 @@ First, let’s go through some examples that are wrong, because the first step t
 cat * > ../collection  # WRONG
 ```
 
-This is wrong. If a filename in the current directory begins with “`-`”, it will be misinterpreted as an option instead of as a filename. For example, if there’s a file named “`-n`”, it will suddenly enable `cat`’s “`-n`” option instead if it has one (GNU `cat` does, it numbers the lines). In general you should never have a glob that begins with “`*`” — it should be prefixed with “`./`”. Also, if there are no (unhidden) files in the directory, the glob pattern will return the pattern instead (“`*`”); that means that the command (`cat`) will try to open a file with the improbable name “`*`”.
+这是错的。 如果当前目录中的文件名以“`-`”开头，则会将其误解为选项而不是文件名。
+例如，如果有一个名为“`-n`”的文件，它将启用`cat`的“`-n`”选项，如果它有这个选项的话（GNU `cat` 有这个选项，显示行号）。
+一般来说，你永远不应该有一个以“`*`”开头的通配符 —— 它应该以“`./`”为前缀。
+另外，如果目录中没有（未隐藏的）文件，则通配符模式将返回模式（“`*`”）；这意味着命令（`cat`）将尝试使用不太可能的名称“`*`”打开一个文件。
 
 ---
 
@@ -53,7 +56,7 @@ for file in * ; do  # WRONG
 done
 ```
 
-Also wrong, for the same reason; a file named “`-n`” will fool the `cat` program, and if the pattern does not match, it will loop once with the pattern itself as the value.
+也是错的，出于同样的原因; 一个名为“`-n`”的文件将欺骗`cat`程序，如果模式不匹配，它将使用模式本身作为值再循环一次。
 
 ---
 
