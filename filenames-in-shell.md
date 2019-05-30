@@ -80,7 +80,7 @@ Wrong, for similar reasons. This breaks up pathnames that contain space, newline
   while read file ; do cat "$file" ; done ) > ../collection
 ```
 
-Wrong. This works if a pathname has spaces in the middle, but it won’t work correctly if the pathname begins or ends with whitespace (they will get chopped off). Also, if a pathname includes “`\`”, it’ll get corrupted; in particular, if it ends in “`\`”, it will be combined with the next pathname (trashing both). In general, using “`read`” in shell without the “`-r`” option is usually a mistake, and in many cases you should set `IFS=""` just before the read.
+Wrong. This works if a pathname has spaces in the middle, but it won’t work correctly if the pathname begins or ends with whitespace (they will get chopped off). Also, if a pathname includes “`\`”, it’ll get corrupted; in particular, if it ends in “`\`”, it will be combined with the next pathname (trashing both). In general, using “`read`” in shell without the “`-r`” option is usually a mistake, and in many cases you should set `IFS=""` just before the `read`.
 
 ---
 
@@ -88,7 +88,7 @@ Wrong. This works if a pathname has spaces in the middle, but it won’t work co
 ( find . -type f | xargs cat ) > ../collection # WRONG
 ```
 
-Wrong. By default, xargs’ input is parsed, so space characters (as well as newlines) separate arguments, and the backslash, apostrophe, double-quote, and ampersand characters are used for quoting. According to the [POSIX standard], you have to include the option `-E ""` or underscore may have a special meaning too. Note that many of the examples in the [POSIX standard] xargs section are wrong; pathnames with spaces, newlines, or many other characters will cause many of the examples to fail.
+Wrong. By default, `xargs`’ input is parsed, so space characters (as well as newlines) separate arguments, and the backslash, apostrophe, double-quote, and ampersand characters are used for quoting. According to the [POSIX standard], you have to include the option `-E ""` or underscore may have a special meaning too. Note that many of the examples in the [POSIX standard] `xargs` section are wrong; pathnames with spaces, newlines, or many other characters will cause many of the examples to fail.
 
 ---
 
@@ -117,9 +117,9 @@ So, how can you process pathnames correctly in shell? Here’s a quick summary a
 1. [Double-quote all variable references and command substitutions] unless you are certain they can only contain alphanumeric characters or you have specially prepared things (i.e., use `"$variable"` instead of `$variable`). In particular, you should practically always put `$@` inside double-quotes; POSIX defines this to be special (it expands into the positional parameters as separate fields even though it is inside double-quotes).
 2. [Set IFS to just newline and tab], if you can, to reduce the risk of mishandling filenames with spaces. Use newline or tab to separate options stored in a single variable. Set `IFS` with `IFS="$(printf '\n\t')"`
 3. [Prefix all pathname globs so they cannot expand to begin with “`-`”]. In particular, never start a glob with “`?`” or “`*`” (such as “`*.pdf`”); always prepend globs with something (like “`./`”) that cannot expand to a dash. So never use a pattern like “`*.pdf`”; use “`./*.pdf`” instead.
-4. [Check if a pathname begins with “-” when accepting pathnames], and then prepend “`./`” if it does.
+4. [Check if a pathname begins with “`-`” when accepting pathnames], and then prepend “`./`” if it does.
 5. [Be careful about displaying or storing pathnames], since they can include newlines, tabs, terminal control escape sequences, non-UTF-8 characters (or characters not in your locale), and so on. You can strip out control characters and non-UTF-8 characters before display using `printf '%s' "$file" | LC_ALL=POSIX tr -d '[:cntrl:]' | iconv -cs -f UTF-8 -t UTF-8`
-6. [Do not depend on always using “--”] between options and pathnames as the primary countermeasure against filenames beginning with “`-`”. You have to do it with every command for this to work, but people will not use it consistently (they never have), and many programs (including echo) do not support “`--`”. Feel free to use “`--`” between options and pathnames, but only as an additional optional protective measure.
+6. [Do not depend on always using “`--`”] between options and pathnames as the primary countermeasure against filenames beginning with “`-`”. You have to do it with every command for this to work, but people will not use it consistently (they never have), and many programs (including echo) do not support “`--`”. Feel free to use “`--`” between options and pathnames, but only as an additional optional protective measure.
 7. Use a template that is known to work correctly; below are some [tested](https://dwheeler.com/encodef/evil-filenames-test) templates.
 8. Use a tool like [shellcheck] to find problems you missed.
 
@@ -649,9 +649,9 @@ Feel free to see my home page at <https://dwheeler.com>. You may also want to lo
 [Double-quote all variable references and command substitutions]: #31-double-quote-parameter-variable-references-and-command-substitutions
 [Set IFS to just newline and tab]: #32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script
 [Prefix all pathname globs so they cannot expand to begin with “`-`”]: #33-prefix-all-globs-so-they-cannot-expand-to-begin-with--
-[Check if a pathname begins with “-” when accepting pathnames]: #34-check-if-a-pathname-begins-with---when-accepting-pathnames-and-then-prepend--if-it-does
+[Check if a pathname begins with “`-`” when accepting pathnames]: #34-check-if-a-pathname-begins-with---when-accepting-pathnames-and-then-prepend--if-it-does
 [Be careful about displaying or storing pathnames]: #35-be-careful-about-displaying-or-storing-pathnames
-[Do not depend on always using “--”]: #36-do-not-depend-on---
+[Do not depend on always using “`--`”]: #36-do-not-depend-on---
 
 [Using globs]: #4-globbing
 [Using find]: #5-find

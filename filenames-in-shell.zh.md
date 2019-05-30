@@ -5,8 +5,8 @@
 > 2016-05-04 (original version 2010-05-19)
 
 - [1. 错误的做法](#1-错误的做法)
-- [2. Doing it correctly: A quick summary](#2-doing-it-correctly-a-quick-summary)
-  - [2.1 Basic rules](#21-basic-rules)
+- [2. 正确的做法：快速摘要](#2-正确的做法快速摘要)
+  - [2.1 基本规则](#21-基本规则)
   - [2.2 Template: Using globs](#22-template-using-globs)
   - [2.3 Template: Using find](#23-template-using-find)
     - [2.3.1 Always works](#231-always-works)
@@ -43,8 +43,9 @@
 cat * > ../collection  # WRONG
 ```
 
-这是错的。 如果当前目录中的文件名以“`-`”开头，则会将其误解为选项而不是文件名。
-例如，如果有一个名为“`-n`”的文件，它将启用`cat`的“`-n`”选项，如果它有这个选项的话（GNU `cat` 有这个选项，显示行号）。
+这是错的。
+如果当前目录中的文件名以“`-`”开头，则会将其误解为选项而不是文件名。
+如果有一个名为“`-n`”的文件，它将启用`cat`的“`-n`”选项，如果它有这个选项的话（GNU `cat` 有这个选项，显示行号）。
 一般来说，你永远不应该有一个以“`*`”开头的通配符 —— 它应该以“`./`”为前缀。
 另外，如果目录中没有（未隐藏的）文件，则通配符模式将返回模式（“`*`”）；这意味着命令（`cat`）将尝试使用不太可能的名称“`*`”打开一个文件。
 
@@ -64,7 +65,10 @@ done
 cat $(find . -type f) > ../collection  # WRONG
 ```
 
-Wrong. If any pathname contains a space, newline, or tab, its name will be split (file “`a b`” will be incorrectly parsed as two files, “`a`” and “`b`”). If a pathname contains a globbing character like `*`, the shell will try to expand it, potentially creating additional problems. Also, if the find command matches no files, the command will be run with no parameters; on many commands (like `cat`) this will cause the program to hang on input from standard input (you can fix this by appending pathname `/dev/null`, but many people do not know to do that).
+错误。
+如果路径名包含空格、换行符或制表符，则其名称将被拆分（文件“`a b`”将被错误地解析为两个文件，“`a`”和“`b`”）。
+如果路径名包含像`*`这样的通配字符，那么shell将尝试扩展它，可能会产生其他问题。
+此外，如果`find`命令不匹配任何文件，则命令将在没有参数的情况下运行; 在许多命令（如`cat`）上，这将导致程序挂起来自标准输入的输入（你可以通过附加路径名`/dev/null`来解决这个问题，但很多人不知道这样做）。
 
 ---
 
@@ -74,7 +78,8 @@ Wrong. If any pathname contains a space, newline, or tab, its name will be split
   done ) > ../collection
 ```
 
-Wrong, for similar reasons. This breaks up pathnames that contain space, newline, or tab, and it incorrectly expands pathnames if the pathnames themselves contain characters like “`*`”.
+错误，出于类似的原因。
+这会分解包含空格、换行符或制表符的路径名，如果路径名本身包含“`*`”等字符，则会错误地扩展路径名。
 
 ---
 
@@ -83,7 +88,10 @@ Wrong, for similar reasons. This breaks up pathnames that contain space, newline
   while read file ; do cat "$file" ; done ) > ../collection
 ```
 
-Wrong. This works if a pathname has spaces in the middle, but it won’t work correctly if the pathname begins or ends with whitespace (they will get chopped off). Also, if a pathname includes “`\`”, it’ll get corrupted; in particular, if it ends in “`\`”, it will be combined with the next pathname (trashing both). In general, using “`read`” in shell without the “`-r`” option is usually a mistake, and in many cases you should set `IFS=""` just before the read.
+错误。
+如果路径名在中间有空格可以正确工作，但如果路径名以空格开头或结尾（空格将被去除），它将无法正常工作。
+此外，如果路径名包含“`\`”，它将被破坏; 特别的，如果它以“`\`”结尾，它将与下一个路径名结合起来（两者都会无效）。
+通常，在shell中使用“`read`”而不加上“`-r`”选项通常是一个错误，在许多情况下，你应该在使用`read`之前设置`IFS =""`。
 
 ---
 
@@ -91,7 +99,9 @@ Wrong. This works if a pathname has spaces in the middle, but it won’t work co
 ( find . -type f | xargs cat ) > ../collection # WRONG
 ```
 
-Wrong. By default, xargs’ input is parsed, so space characters (as well as newlines) separate arguments, and the backslash, apostrophe, double-quote, and ampersand characters are used for quoting. According to the [POSIX standard], you have to include the option `-E ""` or underscore may have a special meaning too. Note that many of the examples in the [POSIX standard] xargs section are wrong; pathnames with spaces, newlines, or many other characters will cause many of the examples to fail.
+错误。
+默认情况下，`xargs`的输入会被解析，因此空格字符（以及换行符）会将参数分开，反斜杠、撇号、双引号和符号字符会被用于引用。根据[POSIX标准]，您必须包含选项`-E ""`，下划线也可能具有特殊含义。
+请注意，[POSIX标准] `xargs`部分中的许多示例都是错误的; 带有空格、换行符或许多其他字符的路径名将导致许多示例失败。
 
 ---
 
@@ -101,7 +111,10 @@ Wrong. By default, xargs’ input is parsed, so space characters (as well as new
         > ../collection # WRONG
 ```
 
-Wrong. Like many programs, this assumes that you can have list of pathnames, with one pathname per line. But since pathnames can internally include newline, all simple line-at-a-time processing of pathnames is wrong! This construct is fine if pathnames can’t include newline, but since many Unix-like systems permit, attackers are happy to use this false assumption as an attack.
+错误。
+与许多程序一样，这假定您可以拥有正确的路径名列表，每行一个路径名。
+但由于路径名可以在内部包含换行符，因此所有简单的一次一行处理路径名都是错误的！
+如果路径名不包含换行符，则此构造没问题，但由于许多类Unix系统允许路径名包含特殊字符，攻击者很乐意使用这种错误假设作为攻击手段。
 
 ---
 
@@ -109,18 +122,21 @@ Wrong. Like many programs, this assumes that you can have list of pathnames, wit
 cat $file
 ```
 
-Wrong. If `$file` can contain whitespace, then it could broken up and interpreted as multiple file names, and if `$file` starts with dash, then the name will be interpreted as an option. Also, if `$file` contains metacharacters like “`*`” they will be expanded first, producing the wrong set of filenames.
+错误。
+如果`$file`可以包含空格，那么它可以分解并解释为多个文件名，如果`$file`以短划线开头，那么该名称将被解释为一个选项。
+另外，如果`$file`包含像“`*`”这样的元字符，它们将首先被扩展，产生错误的文件名集。
 
-## 2. Doing it correctly: A quick summary
+## 2. 正确的做法：快速摘要
 
-So, how can you process pathnames correctly in shell? Here’s a quick summary about how to do it correctly, for the impatient who “just want the answer”.
+那么，如何在shell中正确处理路径名呢？
+那些“只想要答案”的耐心不好的同志，可以直接看以下关于如何正确执行此操作的快速摘要。
 
-### 2.1 Basic rules
+### 2.1 基本规则
 
-1. [Double-quote all variable references and command substitutions] unless you are certain they can only contain alphanumeric characters or you have specially prepared things (i.e., use `"$variable"` instead of `$variable`). In particular, you should practically always put `$@` inside double-quotes; POSIX defines this to be special (it expands into the positional parameters as separate fields even though it is inside double-quotes).
-2. [Set IFS to just newline and tab], if you can, to reduce the risk of mishandling filenames with spaces. Use newline or tab to separate options stored in a single variable. Set `IFS` with `IFS="$(printf '\n\t')"`
-3. [Prefix all pathname globs so they cannot expand to begin with “`-`”]. In particular, never start a glob with “`?`” or “`*`” (such as “`*.pdf`”); always prepend globs with something (like “`./`”) that cannot expand to a dash. So never use a pattern like “`*.pdf`”; use “`./*.pdf`” instead.
-4. [Check if a pathname begins with “-” when accepting pathnames], and then prepend “`./`” if it does.
+1. [所有变量引用和命令替换加上双引号] 除非您确定它们只能包含字母数字字符或您有特殊准备的东西（即使用`"$variable"` 替代 `$variable`）。 特别注意，你通常应该把`$@`置于双引号内; POSIX将此定义为特殊（它将位置参数扩展为单独的字段，即使它在双引号内）。
+2. [设置IFS为仅包含新行和制表符]，以降低使用空格错误处理文件名的风险。 使用换行符或制表符分隔存储在单个变量中的选项。 将`IFS`设置为`IFS="$(printf '\n\t')"`
+3. [路径名通配符加上前缀以防止扩展为以“`-`”开头]。特别注意，通配符开头永远不要用“`?`”或“`*`”（例如“`*.pdf`”）; 总是在前面添加一些不能扩展“`-`”的东西（比如“`./`”）。 所以永远不要使用像“`*.pdf`”这样的模式; 请改用“`./*.pdf`”。
+4. [检查路径名是否以“`-`”开头]，然后在前面添加“`./`”。
 5. [Be careful about displaying or storing pathnames], since they can include newlines, tabs, terminal control escape sequences, non-UTF-8 characters (or characters not in your locale), and so on. You can strip out control characters and non-UTF-8 characters before display using `printf '%s' "$file" | LC_ALL=POSIX tr -d '[:cntrl:]' | iconv -cs -f UTF-8 -t UTF-8`
 6. [Do not depend on always using “--”] between options and pathnames as the primary countermeasure against filenames beginning with “`-`”. You have to do it with every command for this to work, but people will not use it consistently (they never have), and many programs (including echo) do not support “`--`”. Feel free to use “`--`” between options and pathnames, but only as an additional optional protective measure.
 7. Use a template that is known to work correctly; below are some [tested](https://dwheeler.com/encodef/evil-filenames-test) templates.
@@ -647,12 +663,13 @@ Feel free to see my home page at <https://dwheeler.com>. You may also want to lo
 (C) Copyright 2010-2013 David A. Wheeler. Released under Creative Commons CC-BY-SA (any version), GNU GPL v2+, and the [Open Publication License (version 1.0 or later)](http://www.opencontent.org/openpub/). You can use this under any of those licenses; if you do not say otherwise, then you release it under all of them. In addition, Mendel Cooper has explicit authorization to include this (or any modified portion) as part of his “Advanced Bash Scripting Guide”. Let me know if you need other exceptions; my goal is to get this information out to the world!
 
 [POSIX standard]: http://www.opengroup.org/onlinepubs/009695399/
+[POSIX标准]: http://www.opengroup.org/onlinepubs/009695399/
 [shellcheck]: http://www.shellcheck.net/
 
-[Double-quote all variable references and command substitutions]: #31-double-quote-parameter-variable-references-and-command-substitutions
-[Set IFS to just newline and tab]: #32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script
-[Prefix all pathname globs so they cannot expand to begin with “`-`”]: #33-prefix-all-globs-so-they-cannot-expand-to-begin-with--
-[Check if a pathname begins with “-” when accepting pathnames]: #34-check-if-a-pathname-begins-with---when-accepting-pathnames-and-then-prepend--if-it-does
+[所有变量引用和命令替换加上双引号]: #31-double-quote-parameter-variable-references-and-command-substitutions
+[设置IFS为仅包含新行和制表符]: #32-set-ifs-to-just-newline-and-tab-at-the-start-of-each-script
+[路径名通配符加上前缀以防止扩展为以“`-`”开头]: #33-prefix-all-globs-so-they-cannot-expand-to-begin-with--
+[检查路径名是否以“`-`”开头]: #34-check-if-a-pathname-begins-with---when-accepting-pathnames-and-then-prepend--if-it-does
 [Be careful about displaying or storing pathnames]: #35-be-careful-about-displaying-or-storing-pathnames
 [Do not depend on always using “--”]: #36-do-not-depend-on---
 
