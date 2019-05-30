@@ -163,9 +163,9 @@ COMMAND ... ./* /dev/null
 
 ### 2.3 Template: Using `find`
 
-> [Using find]
+> [Using `find`]
 
-The find command is great for recursively processing directories. Typically you would specify other parameters to find (e.g., select only normal files using “`-type f`”). For example, here's an example of using find to walk the filesystem, skipping all "hidden" directories and files (names beginning with "`.`") and processing only files ending in `.c` or `.h`:
+The `find` command is great for recursively processing directories. Typically you would specify other parameters to `find` (e.g., select only normal files using “`-type f`”). For example, here's an example of using `find` to walk the filesystem, skipping all "hidden" directories and files (names beginning with "`.`") and processing only files ending in `.c` or `.h`:
 
 ```sh
 find . \( -path '*/.*' -prune -o ! -name '.*' \) -a -name '*.[ch]'
@@ -654,7 +654,7 @@ Feel free to see my home page at <https://dwheeler.com>. You may also want to lo
 [Do not depend on always using “`--`”]: #36-do-not-depend-on---
 
 [Using globs]: #4-globbing
-[Using find]: #5-find
+[Using `find`]: #5-find
 [glob patterns]: #4-globbing
 [find command]: #5-find
 
