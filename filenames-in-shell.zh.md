@@ -9,7 +9,7 @@
   - [2.1 基本规则](#21-基本规则)
   - [2.2 模板：使用通配符](#22-模板使用通配符)
   - [2.3 模板: 使用 `find`](#23-模板-使用-find)
-    - [2.3.1 Always works](#231-always-works)
+    - [2.3.1 始终有效](#231-始终有效)
     - [2.3.2 Limitations](#232-limitations)
   - [2.4 Template: Building up a variable](#24-template-building-up-a-variable)
   - [2.5 Template: Saving and restoring “set -f”](#25-template-saving-and-restoring-set--f)
@@ -182,9 +182,10 @@ COMMAND ... ./* /dev/null
 
 ### 2.3 模板: 使用 `find`
 
-> [Using find]
+> [使用 `find`]
 
-The find command is great for recursively processing directories. Typically you would specify other parameters to find (e.g., select only normal files using “`-type f`”). For example, here's an example of using find to walk the filesystem, skipping all "hidden" directories and files (names beginning with "`.`") and processing only files ending in `.c` or `.h`:
+`find` 命令非常适合递归处理目录。 通常，你可以指定 `find` 的其他参数（例如，使用 “`-type f`” 仅选择普通文件）。
+例如，这是一个使用 `find` 来遍历文件系统，跳过所有“隐藏”目录和文件（名称以 "`.`" 开头）并仅处理以 `.c` 或 `.h` 结尾的文件的示例：
 
 ```sh
 find . \( -path '*/.*' -prune -o ! -name '.*' \) -a -name '*.[ch]'
@@ -192,10 +193,13 @@ find . \( -path '*/.*' -prune -o ! -name '.*' \) -a -name '*.[ch]'
 
 Below are the forms that always work (though some require nonstandard extensions or fail with Cygwin), followed by simpler ones with serious limitations.
 
-#### 2.3.1 Always works
+以下是始终有效工作的示例列表（虽然有些需要非标准扩展，或在Cygwin环境下会失败），后面有更为简单但有严重限制的列表。
+
+#### 2.3.1 始终有效
 
 ```sh
 # Simple find -exec; unwieldy if COMMAND is large, and creates 1 process/file:
+# 简单的 find -exec; 如果COMMAND很大，并且创建1个进程/文件，则不实用：
 find . -exec COMMAND... {} \;
 ```
 
@@ -674,7 +678,7 @@ Feel free to see my home page at <https://dwheeler.com>. You may also want to lo
 [不要滥用“`--`”]: #36-do-not-depend-on---
 
 [使用通配符]: #4-globbing
-[Using find]: #5-find
+[使用 `find`]: #5-find
 [glob patterns]: #4-globbing
 [find command]: #5-find
 
