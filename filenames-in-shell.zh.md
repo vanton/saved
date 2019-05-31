@@ -8,7 +8,7 @@
 - [2. 正确的做法：快速摘要](#2-正确的做法快速摘要)
   - [2.1 基本规则](#21-基本规则)
   - [2.2 模板：使用通配符](#22-模板使用通配符)
-  - [2.3 模板: 使用 `find`](#23-模板-使用-find)
+  - [2.3 模板：使用 `find`](#23-模板使用-find)
     - [2.3.1 始终有效](#231-始终有效)
     - [2.3.2 Limitations](#232-limitations)
   - [2.4 Template: Building up a variable](#24-template-building-up-a-variable)
@@ -180,7 +180,7 @@ shopt -s nullglob  # Bash 扩展, 通配符无匹配返回空
 COMMAND ... ./* /dev/null
 ```
 
-### 2.3 模板: 使用 `find`
+### 2.3 模板：使用 `find`
 
 > [使用 `find`]
 
