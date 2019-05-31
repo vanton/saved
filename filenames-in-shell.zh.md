@@ -199,7 +199,6 @@ Below are the forms that always work (though some require nonstandard extensions
 
 ```sh
 # Simple find -exec; unwieldy if COMMAND is large, and creates 1 process/file:
-# 简单的 find -exec; 如果COMMAND很大，并且创建1个进程/文件，则不实用：
 find . -exec COMMAND... {} \;
 ```
 
