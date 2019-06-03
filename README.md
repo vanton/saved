@@ -37,6 +37,10 @@
 
 ## tmp
 
+### June 3, 2019
+
+- [jrainlau/picee](https://github.com/jrainlau/picee) : Using Github as your image hosting service.
+
 ### May 29, 2019
 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
