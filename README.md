@@ -40,6 +40,7 @@
 ### June 4, 2019
 
 - [github/semantic](https://github.com/github/semantic#development) : Parsing, analyzing, and comparing source code across many languages
+- [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) : A platform for building proxies to bypass network restrictions.
 
 ### June 3, 2019
 
