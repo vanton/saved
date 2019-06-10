@@ -40,6 +40,7 @@
 ### June 10, 2019
 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) : 💡Instant PHP quality checks from your console
+- [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) : Collect JS Frameworks, Web components library and Admin Template.
 
 ### June 6, 2019
 
