@@ -37,6 +37,10 @@
 
 ## tmp
 
+### June 14, 2019
+
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+
 ### June 10, 2019
 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) : 💡Instant PHP quality checks from your console
