@@ -44,6 +44,7 @@
 - [google/filament](https://github.com/google/filament) : Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [socketio/socket.io](https://github.com/socketio/socket.io) : Realtime application framework (Node.JS server)
 - [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.dev/) CSSFX - Beautifully simple click-to-copy CSS effects
+- [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) : 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 
 ### June 10, 2019
 
