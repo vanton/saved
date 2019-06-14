@@ -46,6 +46,7 @@
 - [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.dev/) CSSFX - Beautifully simple click-to-copy CSS effects
 - [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) : 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [免费天气API，天气JSON API，不限次数获取十五天的天气预报 —技术博客](https://www.sojson.com/blog/305.html) 免费天气API，天气JSON API，不限次数获取十五天的天气预报 —技术博客
+- [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) : 每日自动给女朋友发微信暖心话。
 
 ### June 10, 2019
 
