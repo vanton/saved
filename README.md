@@ -43,6 +43,7 @@
 - [typlog/china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) : 发现与推荐高质量的中文独立播客
 - [google/filament](https://github.com/google/filament) : Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [socketio/socket.io](https://github.com/socketio/socket.io) : Realtime application framework (Node.JS server)
+- [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.dev/) CSSFX - Beautifully simple click-to-copy CSS effects
 
 ### June 10, 2019
 
