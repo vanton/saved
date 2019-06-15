@@ -40,6 +40,7 @@
 ### June 15, 2019
 
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) : 📄 CLI that generates beautiful README.md files
+- [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
 
 ### June 14, 2019
 
