@@ -43,6 +43,7 @@
 - [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
 - [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) : ⚡️ 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
 - [黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生](https://hacpai.com/) 黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生
+- [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) : 一个轻量的工具集合
 
 ### June 14, 2019
 
