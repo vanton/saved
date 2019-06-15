@@ -41,6 +41,7 @@
 
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) : 📄 CLI that generates beautiful README.md files
 - [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
+- [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) : ⚡️ 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
 
 ### June 14, 2019
 
