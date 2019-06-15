@@ -37,6 +37,10 @@
 
 ## tmp
 
+### June 15, 2019
+
+- [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) : 📄 CLI that generates beautiful README.md files
+
 ### June 14, 2019
 
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
