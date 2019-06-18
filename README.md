@@ -40,6 +40,7 @@
 ### June 18, 2019
 
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
+- [TrillCyborg/fullstack](https://github.com/TrillCyborg/fullstack) : React/ApolloGraphQL/Node/Mongo demo written in Typescript
 
 ### June 17, 2019
 
