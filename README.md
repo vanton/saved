@@ -41,6 +41,7 @@
 
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
 - [TrillCyborg/fullstack](https://github.com/TrillCyborg/fullstack) : React/ApolloGraphQL/Node/Mongo demo written in Typescript
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) : A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
 
 ### June 17, 2019
 
