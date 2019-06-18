@@ -37,6 +37,10 @@
 
 ## tmp
 
+### June 18, 2019
+
+- [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
+
 ### June 17, 2019
 
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 后端架构师技术图谱
