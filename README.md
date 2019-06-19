@@ -37,6 +37,10 @@
 
 ## tmp
 
+### June 19, 2019
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) : Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
 ### June 18, 2019
 
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
