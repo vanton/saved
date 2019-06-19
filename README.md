@@ -42,6 +42,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) : Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [qcrao/Go-Questions](https://github.com/qcrao/Go-Questions) : 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) : 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) : 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 ### June 18, 2019
 
