@@ -40,6 +40,7 @@
 ### June 19, 2019
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) : Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [qcrao/Go-Questions](https://github.com/qcrao/Go-Questions) : 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
 
 ### June 18, 2019
 
