@@ -41,6 +41,7 @@
 
 - [insoxin/api-golang](https://github.com/insoxin/api-golang) : golang多款短视频无水印视频解析接口包含抖音微视快手火山皮皮虾最右
 - [exceljs/README_zh.md at master · exceljs/exceljs](https://github.com/exceljs/exceljs/blob/master/README_zh.md) exceljs/README_zh.md at master · exceljs/exceljs
+- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) : A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.
 
 ### June 19, 2019
 
