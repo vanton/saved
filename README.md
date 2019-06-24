@@ -41,6 +41,7 @@
 
 - [jaywcjlove/package.json](https://github.com/jaywcjlove/package.json) : 文件 package.json 的说明文档。
 - [unbug/codelf](https://github.com/unbug/codelf) : Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names
+- [xitu/gold-miner](https://github.com/xitu/gold-miner) : 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
 ### June 21, 2019
 
