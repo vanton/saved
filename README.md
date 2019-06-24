@@ -37,6 +37,10 @@
 
 ## tmp
 
+### June 24, 2019
+
+- [jaywcjlove/package.json](https://github.com/jaywcjlove/package.json) : 文件 package.json 的说明文档。
+
 ### June 21, 2019
 
 - [insoxin/api-golang](https://github.com/insoxin/api-golang) : golang多款短视频无水印视频解析接口包含抖音微视快手火山皮皮虾最右
