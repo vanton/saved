@@ -40,6 +40,7 @@
 ### June 26, 2019
 
 - [midwayjs/pandora](https://github.com/midwayjs/pandora) : A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) : wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 
 ### June 24, 2019
 
