@@ -37,6 +37,10 @@
 
 ## tmp
 
+### June 26, 2019
+
+- [midwayjs/pandora](https://github.com/midwayjs/pandora) : A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+
 ### June 24, 2019
 
 - [jaywcjlove/package.json](https://github.com/jaywcjlove/package.json) : 文件 package.json 的说明文档。
