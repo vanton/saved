@@ -40,6 +40,7 @@
 ### June 28, 2019
 
 - [《程序员学金融》](https://zhaoolee.github.io/ITF/) 《程序员学金融》
+- [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) : Elegant and powerful theme for Hexo.
 
 ### June 26, 2019
 
