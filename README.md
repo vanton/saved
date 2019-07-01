@@ -37,6 +37,10 @@
 
 ## tmp
 
+### July 1, 2019
+
+- [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+
 ### June 28, 2019
 
 - [《程序员学金融》](https://zhaoolee.github.io/ITF/) 《程序员学金融》
