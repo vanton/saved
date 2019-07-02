@@ -57,6 +57,7 @@
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) : Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Email notice, and Mobile UI. DEMO
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) : Display and control your Android device
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+- [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) : http下载工具，基于http代理，支持多连接分块下载
 
 ### July 1, 2019
 
