@@ -49,6 +49,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) : 📜 33 concepts every JavaScript developer should know.
 - [shzlw/zeu](https://github.com/shzlw/zeu) : A JavaScript library for real-time visualization
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) 30 Seconds of CSS
 
 ### July 1, 2019
 
