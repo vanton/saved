@@ -40,6 +40,7 @@
 ### July 2, 2019
 
 - [grafana/grafana](https://github.com/grafana/grafana) : The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) : The repository for high quality TypeScript type definitions.
 
 ### July 1, 2019
 
