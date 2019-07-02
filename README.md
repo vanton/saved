@@ -46,6 +46,7 @@
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) : Record terminal sessions as SVG animations
 - [wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) : 高效微信公众号全部历史文章和阅读数据爬虫powered by scrapy 微信公众号爬虫 微信采集 公众号采集 微信爬虫
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) : A collection of surprising Python snippets and lesser-known features.
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) : 📜 33 concepts every JavaScript developer should know.
 
 ### July 1, 2019
 
