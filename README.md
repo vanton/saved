@@ -53,6 +53,7 @@
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) : 不止于 CSS
 - [gabriellamas/Fancy-Checkout](https://github.com/gabriellamas/Fancy-Checkout) : A animated experience for your checkout !
 - [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) : 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
+- [daneden/animate.css](https://github.com/daneden/animate.css) : 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### July 1, 2019
 
