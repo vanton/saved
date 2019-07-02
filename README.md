@@ -55,6 +55,7 @@
 - [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) : 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 - [daneden/animate.css](https://github.com/daneden/animate.css) : 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) : Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Email notice, and Mobile UI. DEMO
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) : Display and control your Android device
 
 ### July 1, 2019
 
