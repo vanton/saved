@@ -41,6 +41,7 @@
 
 - [grafana/grafana](https://github.com/grafana/grafana) : The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) : The repository for high quality TypeScript type definitions.
+- [yuanxiaosc/DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) : Research techniques and papers related to image generation and image restoration used by DeepNude. 研究DeepNude使用的图像生成和图像修复相关的技术和论文。
 
 ### July 1, 2019
 
