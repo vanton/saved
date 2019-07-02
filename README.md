@@ -44,6 +44,7 @@
 - [yuanxiaosc/DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) : Research techniques and papers related to image generation and image restoration used by DeepNude. 研究DeepNude使用的图像生成和图像修复相关的技术和论文。
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) : Record terminal sessions as SVG animations
+- [wonderfulsuccess/weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) : 高效微信公众号全部历史文章和阅读数据爬虫powered by scrapy 微信公众号爬虫 微信采集 公众号采集 微信爬虫
 
 ### July 1, 2019
 
