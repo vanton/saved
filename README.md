@@ -56,6 +56,7 @@
 - [daneden/animate.css](https://github.com/daneden/animate.css) : 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) : Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Email notice, and Mobile UI. DEMO
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) : Display and control your Android device
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
 
 ### July 1, 2019
 
