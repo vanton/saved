@@ -52,6 +52,7 @@
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) 30 Seconds of CSS
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) : 不止于 CSS
 - [gabriellamas/Fancy-Checkout](https://github.com/gabriellamas/Fancy-Checkout) : A animated experience for your checkout !
+- [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) : 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 
 ### July 1, 2019
 
