@@ -37,6 +37,10 @@
 
 ## tmp
 
+### July 4, 2019
+
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : A list of awesome applications, software, tools and other materials for Linux distros.
+
 ### July 2, 2019
 
 - [grafana/grafana](https://github.com/grafana/grafana) : The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
