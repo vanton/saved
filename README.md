@@ -45,6 +45,7 @@
 - [pingfangx/jetbrains-in-chinese](https://github.com/pingfangx/jetbrains-in-chinese) : JetBrains 系列软件汉化包 关键字: Android Studio 3.4 汉化包 CLion 2019.1 汉化包 DataGrip 2019.1 汉化包 GoLand 2019.1 汉化包 IntelliJ IDEA 2019.1 汉化包 PhpStorm 2019.1 汉化包 PyCharm 2019.1 汉化包 RubyMine 2019.1 汉化包 WebStorm 2019.1 汉化包
 - [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) : JetBrains 系列软件汉化包 关键字: Android Studio 3.4 汉化包 CLion 2019.1 汉化包 DataGrip 2019.1 汉化包 GoLand 2019.1 汉化包 IntelliJ IDEA 2019.1 汉化包 PhpStorm 2019.1 汉化包 PyCharm 2019.1 汉化包 RubyMine 2019.1 汉化包 WebStorm 2019.1 汉化包
 - [bilibili/kratos](https://github.com/bilibili/kratos) : Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+- [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) : Open source home automation that puts local control and privacy first
 
 ### July 2, 2019
 
