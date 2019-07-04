@@ -43,6 +43,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) : simple terminal UI for git commands
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) : Free universal database tool and SQL client
 - [pingfangx/jetbrains-in-chinese](https://github.com/pingfangx/jetbrains-in-chinese) : JetBrains 系列软件汉化包 关键字: Android Studio 3.4 汉化包 CLion 2019.1 汉化包 DataGrip 2019.1 汉化包 GoLand 2019.1 汉化包 IntelliJ IDEA 2019.1 汉化包 PhpStorm 2019.1 汉化包 PyCharm 2019.1 汉化包 RubyMine 2019.1 汉化包 WebStorm 2019.1 汉化包
+- [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) : JetBrains 系列软件汉化包 关键字: Android Studio 3.4 汉化包 CLion 2019.1 汉化包 DataGrip 2019.1 汉化包 GoLand 2019.1 汉化包 IntelliJ IDEA 2019.1 汉化包 PhpStorm 2019.1 汉化包 PyCharm 2019.1 汉化包 RubyMine 2019.1 汉化包 WebStorm 2019.1 汉化包
 
 ### July 2, 2019
 
