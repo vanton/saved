@@ -41,6 +41,7 @@
 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : A list of awesome applications, software, tools and other materials for Linux distros.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) : simple terminal UI for git commands
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) : Free universal database tool and SQL client
 
 ### July 2, 2019
 
