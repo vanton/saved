@@ -40,6 +40,7 @@
 ### July 4, 2019
 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : A list of awesome applications, software, tools and other materials for Linux distros.
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) : simple terminal UI for git commands
 
 ### July 2, 2019
 
