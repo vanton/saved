@@ -40,6 +40,7 @@
 ### July 8, 2019
 
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) : The lazier way to manage everything docker
+- [imWildCat/scylla](https://github.com/imWildCat/scylla) : Intelligent proxy pool for Humans™ [Maintainer needed]
 
 ### July 4, 2019
 
