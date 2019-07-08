@@ -37,6 +37,10 @@
 
 ## tmp
 
+### July 8, 2019
+
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) : The lazier way to manage everything docker
+
 ### July 4, 2019
 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) : A list of awesome applications, software, tools and other materials for Linux distros.
