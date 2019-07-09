@@ -47,6 +47,7 @@
 - [setup-ipsec-vpn/clients.md at master · hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/clients.md#windows-error-809) setup-ipsec-vpn/clients.md at master · hwdsl2/setup-ipsec-vpn
 - [micro/go-micro](https://github.com/micro/go-micro) : A microservice development framework
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) : 📖 A collection of pure bash alternatives to external processes.
+- [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) : A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
 ### July 8, 2019
 
