@@ -46,6 +46,7 @@
 - [iresty/apisix](https://github.com/iresty/apisix) : APISIX is a Cloud-Native Microservices API Gateway
 - [setup-ipsec-vpn/clients.md at master · hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/clients.md#windows-error-809) setup-ipsec-vpn/clients.md at master · hwdsl2/setup-ipsec-vpn
 - [micro/go-micro](https://github.com/micro/go-micro) : A microservice development framework
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) : 📖 A collection of pure bash alternatives to external processes.
 
 ### July 8, 2019
 
