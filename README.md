@@ -40,6 +40,7 @@
 ### July 9, 2019
 
 - [peterq/pan-light](https://github.com/peterq/pan-light) : 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) : A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.
 
 ### July 8, 2019
 
