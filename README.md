@@ -37,6 +37,10 @@
 
 ## tmp
 
+### July 9, 2019
+
+- [peterq/pan-light](https://github.com/peterq/pan-light) : 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+
 ### July 8, 2019
 
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) : The lazier way to manage everything docker
