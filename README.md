@@ -37,6 +37,10 @@
 
 ## tmp
 
+### July 13, 2019
+
+- [notable/notable](https://github.com/notable/notable) : The Markdown-based note-taking app that doesn't suck.
+
 ### July 9, 2019
 
 - [peterq/pan-light](https://github.com/peterq/pan-light) : 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
