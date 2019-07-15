@@ -37,6 +37,10 @@
 
 ## tmp
 
+### July 15, 2019
+
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) : A community Bash framework.
+
 ### July 13, 2019
 
 - [notable/notable](https://github.com/notable/notable) : The Markdown-based note-taking app that doesn't suck.
