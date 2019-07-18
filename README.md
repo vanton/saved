@@ -40,6 +40,7 @@
 ### July 18, 2019
 
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Comprehensive Python Cheatsheet
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Delightful Node.js packages and resources
 
 ### July 15, 2019
 
