@@ -41,6 +41,7 @@
 
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Comprehensive Python Cheatsheet
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Delightful Node.js packages and resources
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) : A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 
 ### July 15, 2019
 
