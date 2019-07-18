@@ -37,6 +37,10 @@
 
 ## tmp
 
+### July 18, 2019
+
+- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Comprehensive Python Cheatsheet
+
 ### July 15, 2019
 
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) : A community Bash framework.
