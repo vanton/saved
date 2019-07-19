@@ -6,40 +6,54 @@
 
 <!-- [TOC] -->
 - [tmp](#tmp)
+  - [July 18, 2019](#July-18-2019)
+  - [July 15, 2019](#July-15-2019)
+  - [July 13, 2019](#July-13-2019)
+  - [July 9, 2019](#July-9-2019)
+  - [July 8, 2019](#July-8-2019)
+  - [July 4, 2019](#July-4-2019)
+  - [July 2, 2019](#July-2-2019)
+  - [July 1, 2019](#July-1-2019)
+  - [June 28, 2019](#June-28-2019)
+  - [June 26, 2019](#June-26-2019)
+  - [June 24, 2019](#June-24-2019)
+  - [June 21, 2019](#June-21-2019)
+  - [June 19, 2019](#June-19-2019)
   - [以上未整理](#以上未整理)
-- [Javascript/HTML](#javascripthtml)
-  - [Javascript/HTML 文档、教程](#javascripthtml-文档教程)
-  - [Javascript/HTML 类库、工具](#javascripthtml-类库工具)
-- [Node.js](#nodejs)
-- [PHP](#php)
-- [Python](#python)
-  - [Python 文档教程](#python-文档教程)
-  - [Python 类库、工具](#python-类库工具)
-- [Shell](#shell)
-  - [Shell 文档教程](#shell-文档教程)
+- [Javascript/HTML](#JavascriptHTML)
+  - [Javascript/HTML 文档、教程](#JavascriptHTML-文档教程)
+  - [Javascript/HTML 类库、工具](#JavascriptHTML-类库工具)
+- [Node.js](#Nodejs)
+- [PHP](#PHP)
+- [Python](#Python)
+  - [Python 文档教程](#Python-文档教程)
+  - [Python 类库、工具](#Python-类库工具)
+- [Go](#Go)
+- [Rust](#Rust)
+- [Shell](#Shell)
+  - [Shell 文档教程](#Shell-文档教程)
   - [zsh, oh my zsh](#zsh-oh-my-zsh)
-  - [Shell 工具、命令](#shell-工具命令)
-- [Headless Chrome](#headless-chrome)
+  - [Shell 工具、命令](#Shell-工具命令)
+- [Headless Chrome](#Headless-Chrome)
   - [puppeteer](#puppeteer)
-  - [Headless Chrome 其他](#headless-chrome-其他)
-- [Proxy](#proxy)
+  - [Headless Chrome 其他](#Headless-Chrome-其他)
+- [Proxy](#Proxy)
   - [代理工具及脚本](#代理工具及脚本)
   - [ssh 管道 socks5 代理](#ssh-管道-socks5-代理)
-- [Chrome Extensions](#chrome-extensions)
-- [Mobile](#mobile)
-- [Doker/Vagrant](#dokervagrant)
-- [Tools](#tools)
-- [Others](#others)
+- [Chrome Extensions](#Chrome-Extensions)
+- [Mobile](#Mobile)
+- [Doker/Vagrant](#DokerVagrant)
+- [Tools](#Tools)
+- [Others](#Others)
   - [其他文档教程](#其他文档教程)
   - [其他项目](#其他项目)
-- [Awesome Lists](#awesome-lists)
-- [Badges, Icons and Fonts](#badges-icons-and-fonts)
+- [Awesome Lists](#Awesome-Lists)
+- [Badges, Icons and Fonts](#Badges-Icons-and-Fonts)
 
 ## tmp
 
 ### July 18, 2019
 
-- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Comprehensive Python Cheatsheet
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Delightful Node.js packages and resources
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) : A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 
@@ -142,115 +156,6 @@
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) : Abstraction for local and remote filesystems
 - [Releases · 720kb/ndm](https://github.com/720kb/ndm/releases/) Releases · 720kb/ndm
 
-### June 18, 2019
-
-- [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
-- [TrillCyborg/fullstack](https://github.com/TrillCyborg/fullstack) : React/ApolloGraphQL/Node/Mongo demo written in Typescript
-- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) : A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [josephchang10/awesome-indie](https://github.com/josephchang10/awesome-indie) : awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
-
-### June 17, 2019
-
-- [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 后端架构师技术图谱
-
-### June 15, 2019
-
-- [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) : 📄 CLI that generates beautiful README.md files
-- [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
-- [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) : ⚡️ 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
-- [黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生](https://hacpai.com/) 黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生
-- [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) : 一个轻量的工具集合
-- [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/) Animating URLs with Javascript and Emojis
-
-### June 14, 2019
-
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [typlog/china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) : 发现与推荐高质量的中文独立播客
-- [google/filament](https://github.com/google/filament) : Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-- [socketio/socket.io](https://github.com/socketio/socket.io) : Realtime application framework (Node.JS server)
-- [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.dev/) CSSFX - Beautifully simple click-to-copy CSS effects
-- [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) : 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-- [免费天气API，天气JSON API，不限次数获取十五天的天气预报 —技术博客](https://www.sojson.com/blog/305.html) 免费天气API，天气JSON API，不限次数获取十五天的天气预报 —技术博客
-- [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) : 每日自动给女朋友发微信暖心话。
-- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) : A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
-
-### June 10, 2019
-
-- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) : 💡Instant PHP quality checks from your console
-- [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) : Collect JS Frameworks, Web components library and Admin Template.
-
-### June 6, 2019
-
-- [imhuster/Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland) : 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。
-
-### June 4, 2019
-
-- [github/semantic](https://github.com/github/semantic#development) : Parsing, analyzing, and comparing source code across many languages
-- [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) : A platform for building proxies to bypass network restrictions.
-- [Project V · Project V 官方网站](https://www.v2ray.com/) Project V · Project V 官方网站
-- [NervJS/taro](https://github.com/NervJS/taro) : 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。 https://taro.jd.com/
-
-### June 3, 2019
-
-- [jrainlau/picee](https://github.com/jrainlau/picee) : Using Github as your image hosting service.
-
-### May 29, 2019
-
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/) Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck#how-to-use) : ShellCheck, a static analysis tool for shell scripts
-- [Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on)](https://dwheeler.com/essays/filenames-in-shell.html) : How to do it Correctly
-
-### May 28, 2019
-
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : Interactive Online Platform that Visualizes Algorithms from Code
-- [the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line
-
-### May 27, 2019
-
-- [browserstate/history.js](https://github.com/browserstate/history.js) : History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
-- [waditu/tushare](https://github.com/waditu/tushare) : TuShare is a utility for crawling historical data of China stocks
-- [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) : Simple framework for creating REST APIs
-- [XiaoMi/Gaea](https://github.com/XiaoMi/Gaea) : Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) : A curated list of Rust code and resources.
-- [servo/servo](https://github.com/servo/servo#macos) : The Servo Browser Engine
-- [TKkk-iOSer/WeChatPlugin-MacOS at master](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/tree/master#demo%E6%BC%94%E7%A4%BA) TKkk-iOSer/WeChatPlugin-MacOS at master
-- [lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat#omw-load) : 微信小助手的安装 / 更新工具。
-- [jwilm/alacritty](https://github.com/jwilm/alacritty) : A cross-platform, GPU-accelerated terminal emulator
-
-### May 24, 2019
-
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) : The next gen ls command
-- [postcss/README-cn.md at master · postcss/postcss](https://github.com/postcss/postcss/blob/master/README-cn.md) postcss/README-cn.md at master · postcss/postcss
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) : 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)
-- [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) : 微信小程序开源项目库汇总
-- [zhengguorong/xbossdebug-wechat](https://github.com/zhengguorong/xbossdebug-wechat) : 小程序异常监控、性能收集
-
-### May 22, 2019
-
-- [YMFE/yapi](https://github.com/ymfe/yapi) : YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [ufologist/puer-mock](https://github.com/ufologist/puer-mock) : Puer + Mock.js = A configurable mock server with configurable mock(random) data.
-- [youzan/bugCatcher](https://github.com/youzan/bugCatcher) : 方便产品、开发、测试三方协同管理、测试、监控项目进度和质量，以持续交付。
-
-### May 21, 2019
-
-- [Marak/faker.js](https://github.com/marak/Faker.js/) : generate massive amounts of realistic fake data in Node.js and the browser
-- [thx/RAP](https://github.com/thx/RAP) : Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！RAP2已发布请移步至https://github.com/thx/rap2-delos
-- [thx/rap2-delos](https://github.com/thx/rap2-delos) : 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-
-### May 20, 2019
-
-- [pengzhile/atlassian-agent](https://github.com/pengzhile/atlassian-agent) : Atlassian's productions crack.
-
-### May 16, 2019
-
-- [lra/mackup](https://github.com/lra/mackup) : Keep your application settings in sync (OS X/Linux)
-- [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) : 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴
-
-### May 14, 2019
-
-- [Anaconda, Inc. (formerly Continuum Analytics, Inc.)](https://github.com/ContinuumIO) Anaconda, Inc. (formerly Continuum Analytics, Inc.)
-
 ### 以上未整理
 
 ---
@@ -278,6 +183,7 @@
 - [Vue完整视频教程免费分享 - 中文 - Vue Forum](https://forum.vuejs.org/t/vue/56497)
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) : Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [storybook](https://github.com/storybooks/storybook) : UI component dev & test: React, Vue, Angular, React Native, Ember & more!
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
 
 ### Javascript/HTML 类库、工具
 
@@ -314,6 +220,17 @@
 - [didi/chameleon](https://github.com/didi/chameleon) : 🦎 一套代码运行多端，一端所见即多端所见
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) : Comlink makes WebWorkers enjoyable.
 - [vue-blocks](https://github.com/ghostiam/vue-blocks) : Vue2 dataflow graph editor
+- [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) : 微信小程序开源项目库汇总
+- [xbossdebug-wechat](https://github.com/zhengguorong/xbossdebug-wechat) : 小程序异常监控、性能收集
+- [history.js](https://github.com/browserstate/history.js) : History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : Interactive Online Platform that Visualizes Algorithms from Code
+- [NervJS/taro](https://github.com/NervJS/taro) : 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。 <https://taro.jd.com/>
+- [awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) : Collect JS Frameworks, Web components library and Admin Template.
+- [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.dev/) CSSFX - Beautifully simple click-to-copy CSS effects
+- [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/) Animating URLs with Javascript and Emojis
+- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) : 一个轻量的工具集合
+- [csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
+- [chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
 
 ## Node.js
 
@@ -356,6 +273,13 @@
 - [heX - Using HTML5 and Node.js to Build Desktop Application](http://hex.youdao.com/zh-cn/index.html)
 - [electron](https://github.com/electron/electron) : Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nw.js](https://github.com/nwjs/nw.js) : Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+- [RAP](https://github.com/thx/RAP) : Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！RAP2已发布请移步至<https://github.com/thx/rap2-delos>
+- [rap2-delos](https://github.com/thx/rap2-delos) : 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- [faker.js](https://github.com/marak/Faker.js/) : generate massive amounts of realistic fake data in Node.js and the browser
+- [yapi](https://github.com/ymfe/yapi) : YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [ufologist/puer-mock](https://github.com/ufologist/puer-mock) : Puer + Mock.js = A configurable mock server with configurable mock(random) data.
+- [postcss/README-cn.md](https://github.com/postcss/postcss/blob/master/README-cn.md)
+- [socket.io](https://github.com/socketio/socket.io) : Realtime application framework (Node.JS server)
 
 ## PHP
 
@@ -369,6 +293,7 @@
 - [php-engineer-interview-questions](https://github.com/hookover/php-engineer-interview-questions) : PHP工程师面试题目
 - [PHP7新特性整理介绍篇 · PHPer进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259)
 - [laravel-sls - Packagist](https://packagist.org/packages/elainekoo/laravel-sls) elainekoo/laravel-sls - Packagist
+- [phpinsights](https://github.com/nunomaduro/phpinsights) : 💡Instant PHP quality checks from your console
 
 ## Python
 
@@ -387,6 +312,7 @@
 - [别再说找不到Python练手项目了，这80个拿去过冬 - 知乎](https://zhuanlan.zhihu.com/p/52550223) 别再说找不到Python练手项目了，这80个拿去过冬 - 知乎
 - [codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
 - [Python-crawler](https://github.com/Ehco1996/Python-crawler) : 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Comprehensive Python Cheatsheet
 
 ### Python 类库、工具
 
@@ -405,8 +331,22 @@
 - [python-spider](https://github.com/Jack-Cherish/python-spider) : Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐下载；B站视频和弹幕下载；京东晒单图下载
 - [proxy_pool](https://github.com/jhao104/proxy_pool) : Python爬虫代理IP池(proxy pool)
 - [Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) : Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
-- [fighting41love/funNLP](https://github.com/fighting41love/funNLP)
+- [funNLP](https://github.com/fighting41love/funNLP)
   : 文本工具集 - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典...
+- [Anaconda, Inc. (formerly Continuum Analytics, Inc.)](https://github.com/ContinuumIO)
+- [mackup](https://github.com/lra/mackup) : Keep your application settings in sync (OS X/Linux)
+- [flask-restful](https://github.com/flask-restful/flask-restful) : Simple framework for creating REST APIs
+- [tushare](https://github.com/waditu/tushare) : TuShare is a utility for crawling historical data of China stocks
+- [EverydayWechat](https://github.com/sfyc23/EverydayWechat) : 每日自动给女朋友发微信暖心话。
+
+## Go
+
+- [Gaea](https://github.com/XiaoMi/Gaea) : Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.
+
+## Rust
+
+- [servo](https://github.com/servo/servo#macos) : The Servo Browser Engine
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) : A curated list of Rust code and resources.
 
 ## Shell
 
@@ -416,6 +356,10 @@
 - [linux-command](https://github.com/jaywcjlove/linux-command) : Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。<https://git.io/linux>
 - [git-tips](https://github.com/521xueweihan/git-tips) : Git的奇技淫巧
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) : A `zsh` prompt for Astronauts
+- [the-art-of-command-line/README-zh.md](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+- [awesome-shell](https://github.com/alebcay/awesome-shell) : A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/) Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
+- [Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on)](https://dwheeler.com/essays/filenames-in-shell.html) : How to do it Correctly
 
 ### zsh, oh my zsh
 
@@ -496,7 +440,11 @@
 - [tml](https://github.com/liamg/tml) : A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) : A responsive theme for Nginx Fancyindex module . Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form , aims to handle thousands of files without any problems
 - [microsoft/Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
-- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) : Keep calm and use TUNA mirrors.
+- [oh-my-tuna](https://github.com/tuna/oh-my-tuna) : Keep calm and use TUNA mirrors.
+- [lsd](https://github.com/Peltoche/lsd) : The next gen ls command
+- [alacritty](https://github.com/jwilm/alacritty) : A cross-platform, GPU-accelerated terminal emulator
+- [shellcheck](https://github.com/koalaman/shellcheck#how-to-use) : ShellCheck, a static analysis tool for shell scripts
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) : 📄 CLI that generates beautiful README.md files
 
 ## Headless Chrome
 
@@ -545,6 +493,8 @@
     : 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。 ⭕️
 - [chromium](https://github.com/jjqqkk/chromium) : Chromium browser with SSL VPN. Use this browser to unblock websites.
 - [jsproxy](https://github.com/EtherDream/jsproxy) : 一个基于浏览器端 JS 实现的在线代理
+- [v2ray-core](https://github.com/v2ray/v2ray-core) : A platform for building proxies to bypass network restrictions.
+- [Project V · Project V 官方网站](https://www.v2ray.com/)
 
 ### ssh 管道 socks5 代理
 
@@ -578,6 +528,7 @@
 - [markdown-here](https://github.com/adam-p/markdown-here) : Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [GM_script](https://github.com/langren1353/GM_script/) : AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
 - [simptab](https://github.com/Kenshin/simptab) : 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
+- [picee](https://github.com/jrainlau/picee) : Using Github as your image hosting service.
 
 ## Mobile
 
@@ -660,6 +611,9 @@
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) : A markdown editor for developers on Mac, Windows and Linux.
 - [Typora — a markdown editor, markdown reader.](https://typora.io/) Typora — a markdown editor, markdown reader.
 - [you-get](https://github.com/soimort/you-get) : Dumb downloader that scrapes the web
+- [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) : 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴
+- [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) : ⚡️ 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) : A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
 
 ## Others
 
@@ -678,6 +632,14 @@
 - [ddia](https://github.com/Vonng/ddia) : 《Designing Data-Intensive Application》DDIA中文翻译
 - [猿学 - 你所学的，不仅是技术](http://www.yuanxue365.com/) 猿学 - 你所学的，不仅是技术
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) : Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) : 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)
+- [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) : 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+- [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) : 发现与推荐高质量的中文独立播客
+- [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生](https://hacpai.com/) 黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 后端架构师技术图谱
+- [awesome-indie](https://github.com/josephchang10/awesome-indie) : awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
+- [fullstack](https://github.com/TrillCyborg/fullstack) : React/ApolloGraphQL/Node/Mongo demo written in Typescript
 
 ### 其他项目
 
@@ -695,6 +657,10 @@
 - [FiraCode](https://github.com/tonsky/FiraCode) : Monospaced font with programming ligatures
 - [内存溢出 OutOfMemory.CN 代码分享 技术聚客 - 为程序员服务](http://outofmemory.cn/#csdn)
 - [github-rank](https://github.com/jaywcjlove/github-rank) : Github Users Ranking
+- [semantic](https://github.com/github/semantic#development) : Parsing, analyzing, and comparing source code across many languages
+- [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland) : 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。
+- [免费天气API，天气JSON API，不限次数获取十五天的天气预报 —技术博客](https://www.sojson.com/blog/305.html) 免费天气API，天气JSON API，不限次数获取十五天的天气预报 —技术博客
+- [google/filament](https://github.com/google/filament) : Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 
 ## Awesome Lists
 
@@ -729,6 +695,8 @@
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) : An awesome & curated list of best applications and tools for Windows.
 - [awesome-python](https://github.com/vinta/awesome-python) : A curated list of awesome Python frameworks, libraries, software and resources
 - [awesome-spider](https://github.com/facert/awesome-spider) : 爬虫集合
+- [WeChatPlugin-MacOS at master](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/tree/master#demo%E6%BC%94%E7%A4%BA) TKkk-iOSer/WeChatPlugin-MacOS at master ⭕️
+- [oh-my-wechat](https://github.com/lmk123/oh-my-wechat#omw-load) : 微信小助手的安装 / 更新工具。 ⭕️
 
 ## Badges, Icons and Fonts
 
