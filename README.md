@@ -55,6 +55,7 @@
 ### July 19, 2019
 
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) : Remove unused CSS. Also works with single-page apps.
+- [chrisvfritz/prerender-spa-plugin](https://github.com/chrisvfritz/prerender-spa-plugin) : Prerenders static HTML in a single-page application.
 
 ### July 18, 2019
 
