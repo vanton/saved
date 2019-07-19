@@ -57,6 +57,7 @@
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) : Remove unused CSS. Also works with single-page apps.
 - [chrisvfritz/prerender-spa-plugin](https://github.com/chrisvfritz/prerender-spa-plugin) : Prerenders static HTML in a single-page application.
 - [dawnlabs/carbon](https://github.com/dawnlabs/carbon) : 🎨 Create and share beautiful images of your source code
+- [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) : AV电影管理系统， avmoo , javbus , javlibrary 爬虫，线上AV影片图书馆，AV磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
 
 ### July 18, 2019
 
