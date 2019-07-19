@@ -59,6 +59,7 @@
 - [dawnlabs/carbon](https://github.com/dawnlabs/carbon) : 🎨 Create and share beautiful images of your source code
 - [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) : AV电影管理系统， avmoo , javbus , javlibrary 爬虫，线上AV影片图书馆，AV磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
 - [zllrunning/video-object-removal](https://github.com/zllrunning/video-object-removal) : Just draw a bounding box and you can remove the object you want to remove.
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) : Clean Code concepts adapted for JavaScript
 
 ### July 18, 2019
 
