@@ -52,6 +52,10 @@
 
 ## tmp
 
+### July 19, 2019
+
+- [purifycss/purifycss](https://github.com/purifycss/purifycss) : Remove unused CSS. Also works with single-page apps.
+
 ### July 18, 2019
 
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Delightful Node.js packages and resources
