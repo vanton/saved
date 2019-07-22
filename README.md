@@ -55,6 +55,7 @@
 ### July 22, 2019
 
 - [alivebao/clean-code-js](https://github.com/alivebao/clean-code-js) : JavaScript风格指南
+- [beginor/clean-code-javascript](https://github.com/beginor/clean-code-javascript) : Clean Code concepts adapted for JavaScript
 
 ### July 19, 2019
 
