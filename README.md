@@ -56,6 +56,7 @@
 
 - [Topic](https://github.com/topics/clean-code) : clean-code
 - [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) : Clean Code concepts adapted for PHP
+- [php-cpm/clean-code-php](https://github.com/php-cpm/clean-code-php) : PHP版的代码整洁之道 中文翻译
 
 ### July 22, 2019
 
