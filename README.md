@@ -62,6 +62,7 @@
 - [Zo3i/frpMgr](https://github.com/Zo3i/frpMgr) : Frp快速配置面板
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 - [Notes](https://notes.itzkp.com/) Notes
+- [Notes](https://zhukunpenglinyutong.github.io/) Notes
 
 ### July 23, 2019
 
