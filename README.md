@@ -56,6 +56,7 @@
 
 - [gramener/comicgen](https://github.com/gramener/comicgen) : Create comics for your website or app
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) : Lean's OpenWrt source
+- [CRYTEK/CRYENGINE](https://github.com/CRYTEK/CRYENGINE) : CRYENGINE is a powerful real-time game development platform created by Crytek.
 
 ### July 23, 2019
 
