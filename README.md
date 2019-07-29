@@ -55,6 +55,7 @@
 ### July 29, 2019
 
 - [gramener/comicgen](https://github.com/gramener/comicgen) : Create comics for your website or app
+- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) : Lean's OpenWrt source
 
 ### July 23, 2019
 
