@@ -63,6 +63,7 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 - [Notes](https://notes.itzkp.com/) Notes
 - [Notes](https://zhukunpenglinyutong.github.io/) Notes
+- [MvsCode/frp-onekey](https://github.com/MvsCode/frp-onekey) : Frps 一键安装脚本&管理脚本 A tool to auto-compile & install frps on Linux
 
 ### July 23, 2019
 
