@@ -60,6 +60,7 @@
 - [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) : SSPanel V3 魔改再次修改版
 - [snail007/goproxy](https://github.com/snail007/goproxy) : Proxy is a high performance HTTP(S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,前置CDN,域名黑白名单,跨平台,KCP协议支持,支持ipv4和ipv6,集成外部API。
 - [Zo3i/frpMgr](https://github.com/Zo3i/frpMgr) : Frp快速配置面板
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 
 ### July 23, 2019
 
