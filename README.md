@@ -57,6 +57,7 @@
 - [gramener/comicgen](https://github.com/gramener/comicgen) : Create comics for your website or app
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) : Lean's OpenWrt source
 - [CRYTEK/CRYENGINE](https://github.com/CRYTEK/CRYENGINE) : CRYENGINE is a powerful real-time game development platform created by Crytek.
+- [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) : SSPanel V3 魔改再次修改版
 
 ### July 23, 2019
 
