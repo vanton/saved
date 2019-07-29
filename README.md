@@ -64,6 +64,7 @@
 - [Notes](https://notes.itzkp.com/) Notes
 - [Notes](https://zhukunpenglinyutong.github.io/) Notes
 - [MvsCode/frp-onekey](https://github.com/MvsCode/frp-onekey) : Frps 一键安装脚本&管理脚本 A tool to auto-compile & install frps on Linux
+- [MvsCode/doubi](https://github.com/MvsCode/doubi) : 一个逗比写的各种逗比脚本~
 
 ### July 23, 2019
 
