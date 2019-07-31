@@ -52,6 +52,10 @@
 
 ## tmp
 
+### July 31, 2019
+
+- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) : A list of funny and tricky JavaScript examples
+
 ### July 29, 2019
 
 - [gramener/comicgen](https://github.com/gramener/comicgen) : Create comics for your website or app
