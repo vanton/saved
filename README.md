@@ -52,6 +52,10 @@
 
 ## tmp
 
+### August 5, 2019
+
+- [Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs](https://tailwindcss.com/) Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs
+
 ### July 31, 2019
 
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) : A list of funny and tricky JavaScript examples
