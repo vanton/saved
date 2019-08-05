@@ -55,6 +55,7 @@
 ### August 5, 2019
 
 - [Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs](https://tailwindcss.com/) Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs
+- [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) : A utility-first CSS framework for rapid UI development.
 
 ### July 31, 2019
 
