@@ -52,6 +52,10 @@
 
 ## tmp
 
+### August 7, 2019
+
+- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) : Laravel IDE Helper
+
 ### August 5, 2019
 
 - [Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs](https://tailwindcss.com/) Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs
