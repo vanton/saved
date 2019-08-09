@@ -55,6 +55,7 @@
 ### August 9, 2019
 
 - [datawhalechina/leeml-notes](https://github.com/datawhalechina/leeml-notes) : 李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes
+- [安装及使用 · Taro](https://nervjs.github.io/taro/docs/GETTING-STARTED.html?utm_source=hacpai.com) 安装及使用 · Taro
 
 ### August 7, 2019
 
