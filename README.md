@@ -52,6 +52,10 @@
 
 ## tmp
 
+### August 9, 2019
+
+- [datawhalechina/leeml-notes](https://github.com/datawhalechina/leeml-notes) : 李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes
+
 ### August 7, 2019
 
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) : Laravel IDE Helper
