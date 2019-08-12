@@ -55,6 +55,7 @@
 ### August 12, 2019
 
 - [ElaineKoo/laravel-sls](https://github.com/ElaineKoo/laravel-sls) : Aliyun SLS Log For Laravel
+- [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) : ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 
 ### August 9, 2019
 
