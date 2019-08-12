@@ -52,6 +52,10 @@
 
 ## tmp
 
+### August 12, 2019
+
+- [ElaineKoo/laravel-sls](https://github.com/ElaineKoo/laravel-sls) : Aliyun SLS Log For Laravel
+
 ### August 9, 2019
 
 - [datawhalechina/leeml-notes](https://github.com/datawhalechina/leeml-notes) : 李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes
