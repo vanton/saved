@@ -66,6 +66,7 @@
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) : 程序员工作中常见的英语词汇
 - [ddzy/fe-necessary-book](https://github.com/ddzy/fe-necessary-book) : A book and software collection about frontend
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) : Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
+- [golang-developer-roadmap/ReadMe-zh-CN.md at master · Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md) golang-developer-roadmap/ReadMe-zh-CN.md at master · Alikhll/golang-developer-roadmap
 
 ### August 12, 2019
 
