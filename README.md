@@ -69,6 +69,7 @@
 - [golang-developer-roadmap/ReadMe-zh-CN.md at master · Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md) golang-developer-roadmap/ReadMe-zh-CN.md at master · Alikhll/golang-developer-roadmap
 - [colinlet/PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) : PHP面试问答
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) : Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。
+- [mylxsw/growing-up](https://github.com/mylxsw/growing-up) : 程序猿成长计划
 
 ### August 12, 2019
 
