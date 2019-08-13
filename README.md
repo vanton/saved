@@ -65,6 +65,7 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) : Cross-platform lib for process and system monitoring in Python
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) : 程序员工作中常见的英语词汇
 - [ddzy/fe-necessary-book](https://github.com/ddzy/fe-necessary-book) : A book and software collection about frontend
+- [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) : Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
 
 ### August 12, 2019
 
