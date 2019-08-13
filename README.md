@@ -72,6 +72,7 @@
 - [mylxsw/growing-up](https://github.com/mylxsw/growing-up) : 程序猿成长计划
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) : Never use print for debugging again
 - [96486d9b/city-vein](https://github.com/96486d9b/city-vein) : Urban structure characterized by public lines
+- [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) : 🍎 Screensaver inspired by Apple's Event on October 30, 2018
 
 ### August 12, 2019
 
