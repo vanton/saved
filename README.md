@@ -60,6 +60,7 @@
 - [liriliri/licia](https://github.com/liriliri/licia) : Useful utility collection with zero dependencies
 - [santosjorge/cufflinks](https://github.com/santosjorge/cufflinks) : Productivity Tools for Plotly + Pandas
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) : 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
+- [zxqfl/TabNine](https://github.com/zxqfl/TabNine) : The all-language autocompleter: https://tabnine.com/
 
 ### August 12, 2019
 
