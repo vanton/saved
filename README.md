@@ -68,6 +68,7 @@
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) : Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
 - [golang-developer-roadmap/ReadMe-zh-CN.md at master · Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md) golang-developer-roadmap/ReadMe-zh-CN.md at master · Alikhll/golang-developer-roadmap
 - [colinlet/PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) : PHP面试问答
+- [mylxsw/wizard](https://github.com/mylxsw/wizard) : Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。
 
 ### August 12, 2019
 
