@@ -74,6 +74,7 @@
 - [96486d9b/city-vein](https://github.com/96486d9b/city-vein) : Urban structure characterized by public lines
 - [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) : 🍎 Screensaver inspired by Apple's Event on October 30, 2018
 - [bilibili/overlord](https://github.com/bilibili/overlord) : Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) : DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
 ### August 12, 2019
 
