@@ -57,6 +57,7 @@
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://hellogithub.com/) HelloGitHub 分享 GitHub 上入门级、有趣的开源项目
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) : ❤️ 每日收集喜欢的开源项目
+- [liriliri/licia](https://github.com/liriliri/licia) : Useful utility collection with zero dependencies
 
 ### August 12, 2019
 
