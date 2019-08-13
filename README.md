@@ -62,6 +62,7 @@
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) : 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [zxqfl/TabNine](https://github.com/zxqfl/TabNine) : The all-language autocompleter: https://tabnine.com/
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) : 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+- [giampaolo/psutil](https://github.com/giampaolo/psutil) : Cross-platform lib for process and system monitoring in Python
 
 ### August 12, 2019
 
