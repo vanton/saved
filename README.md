@@ -52,6 +52,10 @@
 
 ## tmp
 
+### August 13, 2019
+
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+
 ### August 12, 2019
 
 - [ElaineKoo/laravel-sls](https://github.com/ElaineKoo/laravel-sls) : Aliyun SLS Log For Laravel
