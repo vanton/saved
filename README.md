@@ -58,6 +58,7 @@
 - [HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://hellogithub.com/) HelloGitHub 分享 GitHub 上入门级、有趣的开源项目
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) : ❤️ 每日收集喜欢的开源项目
 - [liriliri/licia](https://github.com/liriliri/licia) : Useful utility collection with zero dependencies
+- [santosjorge/cufflinks](https://github.com/santosjorge/cufflinks) : Productivity Tools for Plotly + Pandas
 
 ### August 12, 2019
 
