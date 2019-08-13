@@ -70,6 +70,7 @@
 - [colinlet/PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) : PHP面试问答
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) : Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。
 - [mylxsw/growing-up](https://github.com/mylxsw/growing-up) : 程序猿成长计划
+- [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) : Never use print for debugging again
 
 ### August 12, 2019
 
