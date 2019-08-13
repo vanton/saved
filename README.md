@@ -55,6 +55,7 @@
 ### August 13, 2019
 
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) : Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://hellogithub.com/) HelloGitHub 分享 GitHub 上入门级、有趣的开源项目
 
 ### August 12, 2019
 
