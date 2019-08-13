@@ -63,6 +63,7 @@
 - [zxqfl/TabNine](https://github.com/zxqfl/TabNine) : The all-language autocompleter: https://tabnine.com/
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) : 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) : Cross-platform lib for process and system monitoring in Python
+- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) : 程序员工作中常见的英语词汇
 
 ### August 12, 2019
 
