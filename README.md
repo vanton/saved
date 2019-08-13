@@ -59,6 +59,7 @@
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) : ❤️ 每日收集喜欢的开源项目
 - [liriliri/licia](https://github.com/liriliri/licia) : Useful utility collection with zero dependencies
 - [santosjorge/cufflinks](https://github.com/santosjorge/cufflinks) : Productivity Tools for Plotly + Pandas
+- [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) : 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 
 ### August 12, 2019
 
