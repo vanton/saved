@@ -55,6 +55,7 @@
 ### August 14, 2019
 
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) : Learn Go with test-driven development
+- [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) : Create Anime Characters with MakeGirlsMoe
 
 ### August 13, 2019
 
