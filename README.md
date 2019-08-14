@@ -77,6 +77,7 @@
 - [realpython/python-guide](https://github.com/realpython/python-guide) : Python best practices guidebook, written for humans.
 - [Python最佳实践指南！ — The Hitchhiker's Guide to Python](https://pythonguidecn.readthedocs.io/zh/latest/) Python最佳实践指南！ — The Hitchhiker's Guide to Python
 - [ahangchen/How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) : [译]如何做好一枚程序员
+- [overtrue/pinyin](https://github.com/overtrue/pinyin) : 基于词库的中文转拼音优质解决方案
 
 ### August 13, 2019
 
