@@ -84,6 +84,7 @@
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) : This is probably the best web presentation tool so far!
 - [sylnsfar/qrcode](https://github.com/sylnsfar/qrcode) : artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
 - [astaxie/beego](https://github.com/astaxie/beego) : beego is an open-source, high-performance web framework for the Go programming language.
+- [unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) : 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 ### August 13, 2019
 
