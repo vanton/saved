@@ -66,6 +66,7 @@
 - [sofish/typo.css](https://github.com/sofish/typo.css) : 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [obihann/archey-osx](https://github.com/obihann/archey-osx) : An archey script clone for OS X
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) : Maintained fork of the original Archey Linux system tool
+- [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) : Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 
 ### August 13, 2019
 
