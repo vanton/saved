@@ -88,6 +88,7 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) : A collection of APIs
 - [500lines/LICENSE.md at master · aosabook/500lines](https://github.com/aosabook/500lines/blob/master/LICENSE.md) 500lines/LICENSE.md at master · aosabook/500lines
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) : 中国程序员容易发音错误的单词
+- [standard/standard](https://github.com/standard/standard) : 🌟 JavaScript Style Guide, with linter & automatic code fixer
 
 ### August 13, 2019
 
