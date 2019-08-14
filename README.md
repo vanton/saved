@@ -64,6 +64,7 @@
 - [VincentSit/ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) : Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) : Which is the fastest web framework?
 - [sofish/typo.css](https://github.com/sofish/typo.css) : 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+- [obihann/archey-osx](https://github.com/obihann/archey-osx) : An archey script clone for OS X
 
 ### August 13, 2019
 
