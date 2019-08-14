@@ -87,6 +87,7 @@
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) : 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) : A collection of APIs
 - [500lines/LICENSE.md at master · aosabook/500lines](https://github.com/aosabook/500lines/blob/master/LICENSE.md) 500lines/LICENSE.md at master · aosabook/500lines
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) : 中国程序员容易发音错误的单词
 
 ### August 13, 2019
 
