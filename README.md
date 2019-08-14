@@ -72,6 +72,7 @@
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) : Linux工具快速教程
 - [Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) : Python最佳实践指南
 - [me115/design_patterns](https://github.com/me115/design_patterns) : 图说设计模式
+- [yangyangwithgnu/the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux) : the new world, linux
 
 ### August 13, 2019
 
