@@ -80,6 +80,7 @@
 - [overtrue/pinyin](https://github.com/overtrue/pinyin) : 基于词库的中文转拼音优质解决方案
 - [apache/incubator-superset](https://github.com/apache/incubator-superset) : Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [wg689/Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) : a collection to solve app store review problem (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) : Security Guide for Developers (实用性开发人员安全须知)
 
 ### August 13, 2019
 
