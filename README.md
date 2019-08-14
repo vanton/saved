@@ -70,6 +70,7 @@
 - [phodal/github](https://github.com/phodal/github) : GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 - [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) : 📘《Python进阶》（Intermediate Python 中文版）
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) : Linux工具快速教程
+- [Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) : Python最佳实践指南
 
 ### August 13, 2019
 
