@@ -56,6 +56,7 @@
 
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) : Learn Go with test-driven development
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) : Create Anime Characters with MakeGirlsMoe
+- [inhere/php-console](https://github.com/inhere/php-console) : PHP CLI application library, provide console argument parse, console controller/command run, color style, user interactive, format information show and more. 功能全面的PHP命令行应用库。提供控制台参数解析, 命令运行，颜色风格输出, 用户信息交互, 特殊格式信息显示
 
 ### August 13, 2019
 
