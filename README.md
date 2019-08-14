@@ -62,6 +62,7 @@
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 程序员如何优雅的挣零花钱
 - [oldratlee/translations](https://github.com/oldratlee/translations) : 🐼 Chinese translations for classic IT resources
 - [VincentSit/ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) : Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。
+- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) : Which is the fastest web framework?
 
 ### August 13, 2019
 
