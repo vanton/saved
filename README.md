@@ -73,6 +73,7 @@
 - [Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) : Python最佳实践指南
 - [me115/design_patterns](https://github.com/me115/design_patterns) : 图说设计模式
 - [yangyangwithgnu/the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux) : the new world, linux
+- [meolu/walle-web](https://github.com/meolu/walle-web) : walle - 瓦力 Devops开源项目代码部署平台
 
 ### August 13, 2019
 
