@@ -83,6 +83,7 @@
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) : Security Guide for Developers (实用性开发人员安全须知)
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) : This is probably the best web presentation tool so far!
 - [sylnsfar/qrcode](https://github.com/sylnsfar/qrcode) : artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
+- [astaxie/beego](https://github.com/astaxie/beego) : beego is an open-source, high-performance web framework for the Go programming language.
 
 ### August 13, 2019
 
