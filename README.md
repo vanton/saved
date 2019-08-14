@@ -95,6 +95,7 @@
 - [idank/explainshell](https://github.com/idank/explainshell) : match command-line arguments to their help text
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) : Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) : security tips for startups
+- [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/english-level-up-tips-for-Chinese) : 可能是让你受益匪浅的英语进阶指南
 
 ### August 13, 2019
 
