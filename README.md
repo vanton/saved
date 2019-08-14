@@ -90,6 +90,7 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) : 中国程序员容易发音错误的单词
 - [standard/standard](https://github.com/standard/standard) : 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) : Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [kashav/fsql](https://github.com/kashav/fsql) : Search through your filesystem with SQL-esque queries.
 
 ### August 13, 2019
 
