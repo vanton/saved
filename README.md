@@ -92,6 +92,7 @@
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) : Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [kashav/fsql](https://github.com/kashav/fsql) : Search through your filesystem with SQL-esque queries.
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) : iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+- [idank/explainshell](https://github.com/idank/explainshell) : match command-line arguments to their help text
 
 ### August 13, 2019
 
