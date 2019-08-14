@@ -93,6 +93,7 @@
 - [kashav/fsql](https://github.com/kashav/fsql) : Search through your filesystem with SQL-esque queries.
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) : iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [idank/explainshell](https://github.com/idank/explainshell) : match command-line arguments to their help text
+- [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) : Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 
 ### August 13, 2019
 
