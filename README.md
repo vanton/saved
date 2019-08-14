@@ -59,6 +59,7 @@
 - [inhere/php-console](https://github.com/inhere/php-console) : PHP CLI application library, provide console argument parse, console controller/command run, color style, user interactive, format information show and more. 功能全面的PHP命令行应用库。提供控制台参数解析, 命令运行，颜色风格输出, 用户信息交互, 特殊格式信息显示
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) : Pretty and useful exceptions in Python, automatically.
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) : a little native network debugging tool for iOS
+- [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 程序员如何优雅的挣零花钱
 
 ### August 13, 2019
 
