@@ -60,6 +60,7 @@
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) : Pretty and useful exceptions in Python, automatically.
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) : a little native network debugging tool for iOS
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) : 程序员如何优雅的挣零花钱
+- [oldratlee/translations](https://github.com/oldratlee/translations) : 🐼 Chinese translations for classic IT resources
 
 ### August 13, 2019
 
