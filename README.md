@@ -68,6 +68,7 @@
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) : Maintained fork of the original Archey Linux system tool
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) : Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [phodal/github](https://github.com/phodal/github) : GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
+- [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) : 📘《Python进阶》（Intermediate Python 中文版）
 
 ### August 13, 2019
 
