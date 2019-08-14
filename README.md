@@ -75,6 +75,7 @@
 - [yangyangwithgnu/the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux) : the new world, linux
 - [meolu/walle-web](https://github.com/meolu/walle-web) : walle - 瓦力 Devops开源项目代码部署平台
 - [realpython/python-guide](https://github.com/realpython/python-guide) : Python best practices guidebook, written for humans.
+- [Python最佳实践指南！ — The Hitchhiker's Guide to Python](https://pythonguidecn.readthedocs.io/zh/latest/) Python最佳实践指南！ — The Hitchhiker's Guide to Python
 
 ### August 13, 2019
 
