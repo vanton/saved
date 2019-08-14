@@ -71,6 +71,7 @@
 - [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) : 📘《Python进阶》（Intermediate Python 中文版）
 - [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) : Linux工具快速教程
 - [Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) : Python最佳实践指南
+- [me115/design_patterns](https://github.com/me115/design_patterns) : 图说设计模式
 
 ### August 13, 2019
 
