@@ -55,6 +55,7 @@
 ### August 16, 2019
 
 - [ECMAScript 6 简介 - ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/intro) ECMAScript 6 简介 - ECMAScript 6入门
+- [lorisleiva/laravel-deployer](https://github.com/lorisleiva/laravel-deployer) : 🚀 Zero-downtime deployment out-of-the-box
 
 ### August 14, 2019
 
