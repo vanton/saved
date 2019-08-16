@@ -52,6 +52,10 @@
 
 ## tmp
 
+### August 16, 2019
+
+- [ECMAScript 6 简介 - ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/intro) ECMAScript 6 简介 - ECMAScript 6入门
+
 ### August 14, 2019
 
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) : Learn Go with test-driven development
