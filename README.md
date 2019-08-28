@@ -56,6 +56,7 @@
 
 - [learn-regex/README-cn.md at master · ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) learn-regex/README-cn.md at master · ziishaned/learn-regex
 - [Netch/README.zh-CN.md at master · NetchX/Netch](https://github.com/NetchX/Netch/blob/master/docs/README.zh-CN.md) Netch/README.zh-CN.md at master · NetchX/Netch
+- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) : fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 
 ### August 26, 2019
 
