@@ -52,6 +52,10 @@
 
 ## tmp
 
+### August 28, 2019
+
+- [learn-regex/README-cn.md at master · ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) learn-regex/README-cn.md at master · ziishaned/learn-regex
+
 ### August 26, 2019
 
 - [gladchinda/keygen-php](https://github.com/gladchinda/keygen-php) : A fluent PHP random key generator.
