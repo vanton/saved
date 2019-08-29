@@ -62,6 +62,7 @@
 - [Illustrations Gallery - ManyPixels](https://gallery.manypixels.co/) Illustrations Gallery - ManyPixels
 - [Illustrations | unDraw](https://undraw.co/illustrations) Illustrations | unDraw
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) WebGL Fluid Simulation
+- [广告创意/设计/文案/PPT模板/营销策略大全网址导航 【addog】](http://www.addog.vip/#hot10) 广告创意/设计/文案/PPT模板/营销策略大全网址导航 【addog】
 
 ### August 28, 2019
 
