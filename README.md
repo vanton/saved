@@ -55,6 +55,7 @@
 ### August 29, 2019
 
 - [phh95/Awesome-design-tools](https://github.com/phh95/Awesome-design-tools) phh95/Awesome-design-tools
+- [ColorSpace - Color Palettes Generator and Color Gradient Tool](https://mycolor.space/) ColorSpace - Color Palettes Generator and Color Gradient Tool
 
 ### August 28, 2019
 
