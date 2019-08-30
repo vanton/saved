@@ -55,6 +55,7 @@
 ### August 30, 2019
 
 - [aliyun/openapi-sdk-php](https://github.com/aliyun/openapi-sdk-php) : Alibaba Cloud SDK for PHP
+- [spatie/packagist-api](https://github.com/spatie/packagist-api) : The easiest way to work with the packagist API
 
 ### August 29, 2019
 
