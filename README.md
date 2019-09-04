@@ -53,6 +53,10 @@
 ## tmp
 
 
+### September 4, 2019
+
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) : Laravel Debugbar (Integrates PHP Debug Bar)
+
 ### September 3, 2019 
 - [vimeo/psalm: A static analysis tool for finding errors in PHP applications](https://github.com/vimeo/psalm) 
 ### September 2, 2019
