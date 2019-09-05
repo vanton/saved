@@ -56,6 +56,7 @@
 ### September 5, 2019
 
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) : A Markdown parser for javascript
+- [linuxdeepin/deepin-boot-maker](https://github.com/linuxdeepin/deepin-boot-maker) : mirrored from https://cr.deepin.io/#/admin/projects/deepin-boot-maker
 
 ### September 4, 2019
 
