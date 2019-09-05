@@ -53,6 +53,10 @@
 ## tmp
 
 
+### September 5, 2019
+
+- [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) : A Markdown parser for javascript
+
 ### September 4, 2019
 
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) : Laravel Debugbar (Integrates PHP Debug Bar)
