@@ -56,6 +56,7 @@
 ### September 17, 2019
 
 - [yansongda/laravel-pay](https://github.com/yansongda/laravel-pay) : 可能是我用过的最优雅的 Alipay 和 WeChat 的 laravel 支付扩展包了
+- [helei112g/payment](https://github.com/helei112g/payment) : Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
 
 ### September 5, 2019
 
