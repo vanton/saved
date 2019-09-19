@@ -56,6 +56,7 @@
 ### September 19, 2019
 
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Mac版微信的功能拓展
+- [DoubleLabyrinth/navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) : A keygen for Navicat
 
 ### September 17, 2019
 
