@@ -53,6 +53,10 @@
 ## tmp
 
 
+### September 24, 2019
+
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) : Javascript syntax highlighter
+
 ### September 19, 2019
 
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) : Mac版微信的功能拓展
