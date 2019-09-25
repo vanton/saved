@@ -53,6 +53,10 @@
 ## tmp
 
 
+### September 25, 2019
+
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) : Freeze (package) Python programs into stand-alone executables
+
 ### September 24, 2019
 
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) : Javascript syntax highlighter
