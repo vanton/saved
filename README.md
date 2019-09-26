@@ -53,6 +53,10 @@
 ## tmp
 
 
+### September 26, 2019
+
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) : Simple Python version management
+
 ### September 25, 2019
 
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) : Freeze (package) Python programs into stand-alone executables
