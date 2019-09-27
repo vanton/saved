@@ -53,6 +53,10 @@
 ## tmp
 
 
+### September 27, 2019
+
+- [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js#options) : Line numbering plugin for Highlight.js
+
 ### September 26, 2019
 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) : Simple Python version management
