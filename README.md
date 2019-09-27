@@ -56,6 +56,7 @@
 ### September 27, 2019
 
 - [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js#options) : Line numbering plugin for Highlight.js
+- [CSS](https://www.w3.org/Style/Examples/007/color-bullets.zh_CN.html#colored) : 项目符号及列表编号颜色
 
 ### September 26, 2019
 
