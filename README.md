@@ -53,6 +53,10 @@
 ## tmp
 
 
+### September 30, 2019
+
+- [fogleman/Quads](https://github.com/fogleman/Quads) : Computer art based on quadtrees.
+
 ### September 27, 2019
 
 - [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js#options) : Line numbering plugin for Highlight.js
