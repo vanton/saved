@@ -59,6 +59,7 @@
 - [doczjs/docz](https://github.com/doczjs/docz) : ✍🏻It has never been so easy to document your things!
 - [jslib-base/README.zh-CN.md at master · yanhaijing/jslib-base](https://github.com/yanhaijing/jslib-base/blob/master/README.zh-CN.md) jslib-base/README.zh-CN.md at master · yanhaijing/jslib-base
 - [yanhaijing/jslib-base](https://github.com/yanhaijing/jslib-base) : A modern JavaScript|Typescript library scaffolding, modularity, purity & extras
+- [rileytestut/AltStore](https://github.com/rileytestut/AltStore) : AltStore is an alternative app store for non-jailbroken iOS devices.
 
 ### September 30, 2019
 
