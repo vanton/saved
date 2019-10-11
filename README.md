@@ -57,6 +57,7 @@
 
 - [Simonwep/pickr](https://github.com/Simonwep/pickr) : 🍭 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
 - [doczjs/docz](https://github.com/doczjs/docz) : ✍🏻It has never been so easy to document your things!
+- [jslib-base/README.zh-CN.md at master · yanhaijing/jslib-base](https://github.com/yanhaijing/jslib-base/blob/master/README.zh-CN.md) jslib-base/README.zh-CN.md at master · yanhaijing/jslib-base
 
 ### September 30, 2019
 
