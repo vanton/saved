@@ -53,6 +53,10 @@
 ## tmp
 
 
+### October 12, 2019
+
+- [phodal/trusted](https://github.com/phodal/trusted) : 10 factor to build trusted system - 构建可信系统的 10 元素
+
 ### October 11, 2019
 
 - [Simonwep/pickr](https://github.com/Simonwep/pickr) : 🍭 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
