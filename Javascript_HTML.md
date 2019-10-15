@@ -1,0 +1,71 @@
+# Javascript/HTML
+
+### Javascript/HTML 文档、教程
+
+- [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) : HTML Standard
+- [html](https://github.com/whatwg/html) : HTML Standard
+- [深入理解 call，apply 和 bind](http://www.cnblogs.com/onepixel/p/5143863.html) : 深入理解 `call`，`apply` 和 `bind`
+- [使用 Web Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
+- [D3.js 入门教程](http://wiki.jikexueyuan.com/project/d3wiki/) : D3.js 开发中文手册 - 极客学院 Wiki
+- [Learning D3.JS - 十二月咖啡馆](http://d3.decembercafe.org/index.html)
+- [How can I pretty-print JSON using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript/7220510#7220510)
+- [第三题：节流和防抖的个人见解 · Issue #5 · Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/5)
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) : 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [JavaScript 教程 - 网道](https://wangdoc.com/javascript/index.html)
+- [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
+- [es6tutorial](https://github.com/ruanyf/es6tutorial) : 《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) : TypeScript Deep Dive 中文版
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) : 每周为你提供高质量的关于小程序、h5 等前端领域的文章和项目
+- [realworld](https://github.com/gothinkster/realworld) : "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [Vue 完整视频教程免费分享 - 中文 - Vue Forum](https://forum.vuejs.org/t/vue/56497)
+- [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) : Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [storybook](https://github.com/storybooks/storybook) : UI component dev & test: React, Vue, Angular, React Native, Ember & more!
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) : A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
+
+### Javascript/HTML 类库、工具
+
+- [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
+- [styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [video.js](https://github.com/videojs/video.js) : open source HTML5 & Flash video player
+- [material-kit](https://github.com/creativetimofficial/material-kit#demo) : Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
+- [cleave.js](https://github.com/nosir/cleave.js) : Format input text content when you are typing...
+- [ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
+- [outils](https://github.com/proYang/outils) : 前端业务代码工具库
+- [driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [vant-weapp](https://github.com/youzan/vant-weapp) : 轻量、可靠的小程序 UI 组件库
+- [vant](https://github.com/youzan/vant) : Lightweight Mobile UI Components built on Vue
+- [mathjs](https://github.com/josdejong/mathjs) : An extensive math library for JavaScript and Node.js
+- [g2](https://github.com/antvis/g2) : The Grammar of Graphics in JavaScript
+- [G2 基础图表类库 - AntV](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
+- [javascript-algorithms/README.zh-CN.md](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+- [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/zh-Hans/)
+- [ant-design](https://github.com/ant-design/ant-design/) : 🌈 A UI Design Language
+- [Ant Design of Vue - Ant Design Vue](https://vue.ant.design/docs/vue/introduce/)
+- [AutoPiano](https://github.com/WarpPrism/AutoPiano) : 自由钢琴 AutoPiano
+- [laxxx](https://github.com/alexfoxy/laxxx) : Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+- [mermaid · GitBook](https://mermaidjs.github.io/) 流程图、甘特图、关系图解析生成
+- [mermaid](https://github.com/knsv/mermaid) : Generation of diagram and flowchart from text in a similar manner as markdown
+- [iView - A high quality UI Toolkit based on Vue.js](https://www.iviewui.com/)
+- [快速上手 - iView](https://www.iviewui.com/docs/guide/start)
+- [Docusaurus](https://github.com/facebook/Docusaurus) : Easy to maintain open source documentation websites.
+- [cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!](https://cdnjs.com/) cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites! ⭕️
+- [前端公共库 CDN 加速-静态资源公共库,免费 CDN 公共库](https://cdnjs.net/)
+- [Staticfile CDN](http://www.staticfile.org/) Staticfile CDN
+- [UNPKG](https://unpkg.com/) UNPKG ⭕️
+- [cssfx](https://github.com/jolaleye/cssfx) : ✨ Beautifully simple click-to-copy CSS effects
+- [didi/mpx](https://github.com/didi/mpx) : An enhanced miniprogram framework with data reactivity and deep optimizition.
+- [didi/chameleon](https://github.com/didi/chameleon) : 🦎 一套代码运行多端，一端所见即多端所见
+- [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) : Comlink makes WebWorkers enjoyable.
+- [vue-blocks](https://github.com/ghostiam/vue-blocks) : Vue2 dataflow graph editor
+- [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) : 微信小程序开源项目库汇总
+- [xbossdebug-wechat](https://github.com/zhengguorong/xbossdebug-wechat) : 小程序异常监控、性能收集
+- [history.js](https://github.com/browserstate/history.js) : History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) : Interactive Online Platform that Visualizes Algorithms from Code
+- [NervJS/taro](https://github.com/NervJS/taro) : 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。 <https://taro.jd.com/>
+- [awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) : Collect JS Frameworks, Web components library and Admin Template.
+- [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.dev/) CSSFX - Beautifully simple click-to-copy CSS effects
+- [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/) Animating URLs with Javascript and Emojis
+- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) : 一个轻量的工具集合
+- [csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
+- [chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
