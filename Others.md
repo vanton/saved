@@ -1,6 +1,6 @@
-# Others
+﻿# Others
 
-### 其他文档教程
+## 其他文档教程
 
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) : 专为程序员编写的英语学习指南 v1.2。
 - [free-programming-books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
@@ -24,7 +24,7 @@
 - [awesome-indie](https://github.com/josephchang10/awesome-indie) : awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
 - [fullstack](https://github.com/TrillCyborg/fullstack) : React/ApolloGraphQL/Node/Mongo demo written in Typescript
 
-### 其他项目
+## 其他项目
 
 - [996.ICU](https://github.com/996icu/996.ICU) : Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [955.WLB](https://github.com/formulahendry/955.WLB) : 955 不加班的公司名单
