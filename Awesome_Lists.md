@@ -1,4 +1,4 @@
-# Awesome Lists
+﻿# Awesome Lists
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
