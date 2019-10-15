@@ -1,6 +1,6 @@
-# Javascript/HTML
+﻿# Javascript/HTML
 
-### Javascript/HTML 文档、教程
+## Javascript/HTML 文档、教程
 
 - [HTML Standard](https://whatwg-cn.github.io/html/multipage/workers.html#workers) : HTML Standard
 - [html](https://github.com/whatwg/html) : HTML Standard
@@ -23,7 +23,7 @@
 - [storybook](https://github.com/storybooks/storybook) : UI component dev & test: React, Vue, Angular, React Native, Ember & more!
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) : A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
 
-### Javascript/HTML 类库、工具
+## Javascript/HTML 类库、工具
 
 - [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) : 生成页面骨架（载入时的预览框架）
 - [styled-components](https://github.com/styled-components/styled-components) : Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
