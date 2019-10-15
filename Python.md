@@ -16,6 +16,8 @@
 - [codeparkshare](https://github.com/Yixiaohan/codeparkshare) : Python 初学者（零基础学习 Python、Python 入门）书籍、视频、资料、社区推荐
 - [Python-crawler](https://github.com/Ehco1996/Python-crawler) : 从头开始 系统化的 学习如何写 Python 爬虫。 Python 版本 3.6
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Comprehensive Python Cheatsheet
+- [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) : wtfpython 的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+- [wtfpython](https://github.com/satwikkansal/wtfpython) : A collection of surprising Python snippets and lesser-known features.
 
 ## Python 类库、工具
 
@@ -41,3 +43,6 @@
 - [flask-restful](https://github.com/flask-restful/flask-restful) : Simple framework for creating REST APIs
 - [tushare](https://github.com/waditu/tushare) : TuShare is a utility for crawling historical data of China stocks
 - [EverydayWechat](https://github.com/sfyc23/EverydayWechat) : 每日自动给女朋友发微信暖心话。
+- [httpie](https://github.com/jakubroztocil/httpie) : As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. <https://twitter.com/clihttp>
+- [weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) : 高效微信公众号全部历史文章和阅读数据爬虫 powered by scrapy 微信公众号爬虫 微信采集 公众号采集 微信爬虫
+- [termtosvg](https://github.com/nbedos/termtosvg) : Record terminal sessions as SVG animations

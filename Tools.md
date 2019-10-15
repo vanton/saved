@@ -74,3 +74,4 @@
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) : 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴
 - [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) : ⚡️ 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) : A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) : http 下载工具，基于 http 代理，支持多连接分块下载

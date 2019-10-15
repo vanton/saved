@@ -26,6 +26,9 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) : Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : 2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) : 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay 的架构，欢迎 PR 补充
+- [《程序员学金融》](https://zhaoolee.github.io/ITF/) 《程序员学金融》
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) : A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) : Research techniques and papers related to image generation and image restoration used by DeepNude. 研究 DeepNude 使用的图像生成和图像修复相关的技术和论文。
 
 ## 其他项目
 
@@ -48,3 +51,4 @@
 - [免费天气 API，天气 JSON API，不限次数获取十五天的天气预报 —技术博客](https://www.sojson.com/blog/305.html) 免费天气 API，天气 JSON API，不限次数获取十五天的天气预报 —技术博客
 - [google/filament](https://github.com/google/filament) : Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [gold-miner](https://github.com/xitu/gold-miner) : 🥇 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) : GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。

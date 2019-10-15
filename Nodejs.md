@@ -49,8 +49,11 @@
 - [postcss/README-cn.md](https://github.com/postcss/postcss/blob/master/README-cn.md)
 - [socket.io](https://github.com/socketio/socket.io) : Realtime application framework (Node.JS server)
 - [ndm](https://github.com/720kb/ndm) npm desktop manager <https://720kb.github.io/ndm>
+- [pandora](https://github.com/midwayjs/pandora) : A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) : The repository for high quality TypeScript type definitions.
 
 ## 文档
 
 - [[译] 化 Markdown 为 HTML：用 Node.js 和 Express 搭建接口 - 掘金](https://juejin.im/post/5cdcc216e51d453a543f9e68) [译] 化 Markdown 为 HTML：用 Node.js 和 Express 搭建接口 - 掘金
 - [package.json](https://github.com/jaywcjlove/package.json) : 文件 package.json 的说明文档。
+- [javascript](https://github.com/overnote/javascript) : （进度：60% ）JavaScript 与 NodeJS 笔记

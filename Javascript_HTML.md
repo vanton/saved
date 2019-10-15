@@ -22,6 +22,9 @@
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) : Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [storybook](https://github.com/storybooks/storybook) : UI component dev & test: React, Vue, Angular, React Native, Ember & more!
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) : A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
+- [Web-Series](https://github.com/wx-chevalier/Web-Series) : 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) 30 Seconds of CSS
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) : 📜 33 concepts every JavaScript developer should know.
 
 ## Javascript/HTML 类库、工具
 
@@ -70,4 +73,9 @@
 - [csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
 - [chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
 - [handsontable](https://github.com/handsontable/handsontable) : Handsontable - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
-- [exceljs/README_zh.md](https://github.com/exceljs/exceljs/blob/master/README_zh.md) Excel Workbook Manager
+- [exceljs](https://github.com/exceljs/exceljs/blob/master/README_zh.md) Excel Workbook Manager
+- [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) : Elegant and powerful theme for Hexo.
+- [animate.css](https://github.com/daneden/animate.css) : 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [Fancy-Checkout](https://github.com/gabriellamas/Fancy-Checkout) : A animated experience for your checkout !
+- [iCSS](https://github.com/chokcoco/iCSS) : 不止于 CSS
+- [zeu](https://github.com/shzlw/zeu) : A JavaScript library for real-time visualization
