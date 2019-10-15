@@ -53,6 +53,10 @@
 ## tmp
 
 
+### October 15, 2019
+
+- [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) : This tool is used to install `pyenv` and friends.
+
 ### October 12, 2019
 
 - [phodal/trusted](https://github.com/phodal/trusted) : 10 factor to build trusted system - 构建可信系统的 10 元素
