@@ -1,13 +1,17 @@
 # Tools
 
-- wakatime 开发时间记录
-  - [wakatime](https://github.com/wakatime/wakatime)
-    : 统计项目和开发语言使用时间的工具 ⭕️
-  - [zsh-wakatime](https://github.com/wbingli/zsh-wakatime)
-    : ZSH plugin for wakatime ⭕️
-- tldr 友好的帮助命令
-  - [tldr](https://github.com/tldr-pages/tldr)
-  - [tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
+## wakatime 开发时间记录
+
+- [wakatime](https://github.com/wakatime/wakatime)
+  : 统计项目和开发语言使用时间的工具 ⭕️
+- [zsh-wakatime](https://github.com/wbingli/zsh-wakatime)
+  : ZSH plugin for wakatime ⭕️
+
+## tldr 友好的帮助命令
+
+- [tldr](https://github.com/tldr-pages/tldr)
+- [tldr-node-client](https://github.com/tldr-pages/tldr-node-client#configuration) : `tldr` 的 node.js 实现
+
 - [PPRows](https://github.com/jkpang/PPRows/blob/master/README_CN.md) : 在 Mac 上计算你写了多少行代码
 - [ZipZapMac](https://zipzapmac.com/free) : Free OS X and iOS Apps
   - [Go2Shell](https://zipzapmac.com/Go2Shell)
