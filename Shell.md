@@ -1,6 +1,6 @@
 # Shell
 
-### Shell 文档教程
+## Shell 文档教程
 
 - [How to](http://www.topcaver.com/go-get-through-socks5-proxy) : go get through socks5 proxy
 - [linux-command](https://github.com/jaywcjlove/linux-command) : Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学习、搜集。<https://git.io/linux>
@@ -11,7 +11,7 @@
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/) Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
 - [Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on)](https://dwheeler.com/essays/filenames-in-shell.html) : How to do it Correctly
 
-### zsh, oh my zsh
+## zsh, oh my zsh
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
   : A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (`rails`, `git`, `OSX`, `hub`, `capistrano`, `brew`, `ant`, `php`, `python`, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmyz.sh](https://ohmyz.sh/) ❗️linux 必备 ❗️ ⭕️
@@ -31,7 +31,7 @@
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) : 主题
 - [zplug](https://github.com/zplug/zplug) : A next-generation plugin manager for `zsh`
 
-### Shell 工具、命令
+## Shell 工具、命令
 
 - [hhighlighter](https://github.com/paoloantinori/hhighlighter)
   : shell 高亮关键字 ⭕️
