@@ -1,6 +1,6 @@
 # Headless Chrome
 
-### puppeteer
+## puppeteer
 
 - [puppeteer](https://github.com/GoogleChrome/puppeteer)
   : Headless Chrome Node API ![headless][headless] ⭕️
@@ -17,7 +17,7 @@
 - [thal](https://github.com/csbun/thal) : 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
 - [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) : Puppeteer, Headless Chrome；爬取《es6 标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化 UI 测试、性能分析；
 
-### Headless Chrome 其他
+## Headless Chrome 其他
 
 - ~~[selenium](https://github.com/SeleniumHQ/selenium) : 停止更新~~
   > ![npm](https://nodei.co/npm/selenium.png?compact=true)
