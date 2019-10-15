@@ -22,3 +22,4 @@
 - [simptab](https://github.com/Kenshin/simptab) : 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
 - [picee](https://github.com/jrainlau/picee) : Using Github as your image hosting service.
 - [uBlock](https://github.com/gorhill/uBlock) : uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [nightTab](https://github.com/zombieFox/nightTab) : A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.

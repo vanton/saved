@@ -48,7 +48,6 @@
   - [June 28, 2019](#june-28-2019)
   - [June 26, 2019](#june-26-2019)
   - [June 24, 2019](#june-24-2019)
-  - [June 21, 2019](#june-21-2019)
   - [以上未整理](#以上未整理)
 - [Javascript/HTML](#javascripthtml)
 - [Node.js](#nodejs)
@@ -386,12 +385,6 @@
 - [unbug/codelf](https://github.com/unbug/codelf) : Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) : 🥇 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [[译] 化 Markdown 为 HTML：用 Node.js 和 Express 搭建接口 - 掘金](https://juejin.im/post/5cdcc216e51d453a543f9e68) [译] 化 Markdown 为 HTML：用 Node.js 和 Express 搭建接口 - 掘金
-
-### June 21, 2019
-
-- [insoxin/api-golang](https://github.com/insoxin/api-golang) : golang 多款短视频无水印视频解析接口包含抖音微视快手火山皮皮虾最右
-- [exceljs/README_zh.md at master · exceljs/exceljs](https://github.com/exceljs/exceljs/blob/master/README_zh.md) exceljs/README_zh.md at master · exceljs/exceljs
-- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) : A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.
 
 ### 以上未整理
 

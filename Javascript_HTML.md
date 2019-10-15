@@ -70,3 +70,4 @@
 - [csswand](https://github.com/oliver-gomes/csswand) : 🎨✨ Hover your wand and use your magic spell to copy beautiful css
 - [chinese-dos-games](https://github.com/rwv/chinese-dos-games) : 🎮 Chinese DOS games in browser.
 - [handsontable](https://github.com/handsontable/handsontable) : Handsontable - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
+- [exceljs/README_zh.md](https://github.com/exceljs/exceljs/blob/master/README_zh.md) Excel Workbook Manager
