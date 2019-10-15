@@ -1,4 +1,4 @@
-# PHP
+﻿# PHP
 
 - [CurlFuture](https://github.com/coooold/CurlFuture) : PHP 的 `curl` 并行请求库
 - [easyswoole](https://github.com/easy-swoole/easyswoole) : 基于 `swoole` 的框架
