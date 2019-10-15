@@ -1,6 +1,6 @@
-# Python
+﻿# Python
 
-### Python 文档教程
+## Python 文档教程
 
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) : Python - 100 天从新手到大师
 - [将自己的 python 程序打包成.exe/.app(秀同学一脸呐) - MrLevo520 的博客 - CSDN 博客](https://blog.csdn.net/MrLevo520/article/details/51840217)
@@ -17,7 +17,7 @@
 - [Python-crawler](https://github.com/Ehco1996/Python-crawler) : 从头开始 系统化的 学习如何写 Python 爬虫。 Python 版本 3.6
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) : Comprehensive Python Cheatsheet
 
-### Python 类库、工具
+## Python 类库、工具
 
 - [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) : 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [faceswap](https://github.com/deepfakes/faceswap) : Non official project based on original /r/Deepfakes thread.
