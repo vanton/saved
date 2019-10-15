@@ -21,3 +21,4 @@
 - [GM_script](https://github.com/langren1353/GM_script/) : AC-baidu:重定向优化百度搜狗谷歌搜索*去广告\_favicon*双列
 - [simptab](https://github.com/Kenshin/simptab) : 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
 - [picee](https://github.com/jrainlau/picee) : Using Github as your image hosting service.
+- [uBlock](https://github.com/gorhill/uBlock) : uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.

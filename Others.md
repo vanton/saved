@@ -23,6 +23,9 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) : 后端架构师技术图谱
 - [awesome-indie](https://github.com/josephchang10/awesome-indie) : awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
 - [fullstack](https://github.com/TrillCyborg/fullstack) : React/ApolloGraphQL/Node/Mongo demo written in Typescript
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) : Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) : 2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) : 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay 的架构，欢迎 PR 补充
 
 ## 其他项目
 

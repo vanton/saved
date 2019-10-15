@@ -49,7 +49,6 @@
   - [June 26, 2019](#june-26-2019)
   - [June 24, 2019](#june-24-2019)
   - [June 21, 2019](#june-21-2019)
-  - [June 19, 2019](#june-19-2019)
   - [以上未整理](#以上未整理)
 - [Javascript/HTML](#javascripthtml)
 - [Node.js](#nodejs)
@@ -393,18 +392,6 @@
 - [insoxin/api-golang](https://github.com/insoxin/api-golang) : golang 多款短视频无水印视频解析接口包含抖音微视快手火山皮皮虾最右
 - [exceljs/README_zh.md at master · exceljs/exceljs](https://github.com/exceljs/exceljs/blob/master/README_zh.md) exceljs/README_zh.md at master · exceljs/exceljs
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) : A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.
-
-### June 19, 2019
-
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) : Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [qcrao/Go-Questions](https://github.com/qcrao/Go-Questions) : 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) : 2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) : 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay 的架构，欢迎 PR 补充
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) : Handsontable - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) : uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [appzcoder/30-seconds-of-php-code](https://github.com/appzcoder/30-seconds-of-php-code) : A curated collection of useful PHP snippets that you can understand in 30 seconds or less.
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) : Abstraction for local and remote filesystems
-- [Releases · 720kb/ndm](https://github.com/720kb/ndm/releases/) Releases · 720kb/ndm
 
 ### 以上未整理
 

@@ -46,3 +46,4 @@
 - [ufologist/puer-mock](https://github.com/ufologist/puer-mock) : Puer + Mock.js = A configurable mock server with configurable mock(random) data.
 - [postcss/README-cn.md](https://github.com/postcss/postcss/blob/master/README-cn.md)
 - [socket.io](https://github.com/socketio/socket.io) : Realtime application framework (Node.JS server)
+- [ndm](https://github.com/720kb/ndm) npm desktop manager <https://720kb.github.io/ndm>

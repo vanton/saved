@@ -11,3 +11,5 @@
 - [PHP7 新特性整理介绍篇 · PHPer 进阶 · 看云](https://www.kancloud.cn/digest/php-src/136259)
 - [laravel-sls - Packagist](https://packagist.org/packages/elainekoo/laravel-sls) elainekoo/laravel-sls - Packagist
 - [phpinsights](https://github.com/nunomaduro/phpinsights) : 💡Instant PHP quality checks from your console
+- [30-seconds-of-php-code](https://github.com/appzcoder/30-seconds-of-php-code) : A curated collection of useful PHP snippets that you can understand in 30 seconds or less.
+- [flysystem](https://github.com/thephpleague/flysystem) : Abstraction for local and remote filesystems
