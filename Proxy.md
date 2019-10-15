@@ -1,6 +1,6 @@
 # Proxy
 
-### 代理工具及脚本
+## 代理工具及脚本
 
 - [frp](https://github.com/fatedier/frp)
   : 反向代理服务，内网穿透 ⭕️
@@ -18,7 +18,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) : A platform for building proxies to bypass network restrictions.
 - [Project V · Project V 官方网站](https://www.v2ray.com/)
 
-### ssh 管道 socks5 代理
+## ssh 管道 socks5 代理
 
 - [稳定的 Socks 代理：AutoSSH+SSH 动态端口转发](http://blog.pzxbc.com/2016/03/16/autossh-ssh-proxy/)
 - [玩转 SSH 端口转发](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/)
