@@ -66,6 +66,7 @@
 ### October 15, 2019
 
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) : This tool is used to install `pyenv` and friends.
+- [fangzesheng/free-api](https://github.com/fangzesheng/free-api) : 收集免费的接口服务,做一个api的搬运工
 
 ### October 12, 2019
 
