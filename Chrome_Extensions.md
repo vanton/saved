@@ -1,4 +1,4 @@
-# Chrome Extensions ![chrome]
+﻿# Chrome Extensions ![chrome]
 
 - github.com ![github]
   - [enhanced-github](https://github.com/softvar/enhanced-github) : 显示项目大小，文件下载链接
