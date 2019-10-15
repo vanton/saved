@@ -1,5 +1,7 @@
 ﻿# Node.js
 
+## lib, tools
+
 - [node-bcat](https://github.com/kessler/node-bcat) : A pipe to browser utility
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli#examples) : 🎨 Beautiful images of your code — from right inside your terminal. 代码文件转化为截图。
 - [axios](https://github.com/axios/axios) : Promise based HTTP client for the browser and node.js
@@ -47,3 +49,8 @@
 - [postcss/README-cn.md](https://github.com/postcss/postcss/blob/master/README-cn.md)
 - [socket.io](https://github.com/socketio/socket.io) : Realtime application framework (Node.JS server)
 - [ndm](https://github.com/720kb/ndm) npm desktop manager <https://720kb.github.io/ndm>
+
+## 文档
+
+- [[译] 化 Markdown 为 HTML：用 Node.js 和 Express 搭建接口 - 掘金](https://juejin.im/post/5cdcc216e51d453a543f9e68) [译] 化 Markdown 为 HTML：用 Node.js 和 Express 搭建接口 - 掘金
+- [package.json](https://github.com/jaywcjlove/package.json) : 文件 package.json 的说明文档。

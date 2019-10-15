@@ -23,3 +23,4 @@
 - [picee](https://github.com/jrainlau/picee) : Using Github as your image hosting service.
 - [uBlock](https://github.com/gorhill/uBlock) : uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [nightTab](https://github.com/zombieFox/nightTab) : A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.
+- [codelf](https://github.com/unbug/codelf) : Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names
