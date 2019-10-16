@@ -66,6 +66,7 @@
 ### October 16, 2019
 
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) : 💻 Democratizing Snippet Management (macOS/Win/Linux)
+- [Wait for an element to exist on the page with jQuery](https://gist.github.com/chrisjhoughton/7890303) Wait for an element to exist on the page with jQuery
 
 ### October 15, 2019
 
