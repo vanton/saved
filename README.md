@@ -68,6 +68,7 @@
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) : 💻 Democratizing Snippet Management (macOS/Win/Linux)
 - [Wait for an element to exist on the page with jQuery](https://gist.github.com/chrisjhoughton/7890303) Wait for an element to exist on the page with jQuery
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) : A book series on JavaScript. @YDKJS on twitter.
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) : My Python Examples
 
 ### October 15, 2019
 
