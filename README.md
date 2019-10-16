@@ -63,6 +63,10 @@
 
 ## tmp
 
+### October 16, 2019
+
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) : 💻 Democratizing Snippet Management (macOS/Win/Linux)
+
 ### October 15, 2019
 
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) : This tool is used to install `pyenv` and friends.
