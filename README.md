@@ -69,6 +69,7 @@
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) : 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [pimterry/loglevel](https://github.com/pimterry/loglevel) : Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) : TimelineJS v3: A Storytelling Timeline built in JavaScript. http://timeline.knightlab.com
+- [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) : JavaScript library for HTML5 & CSS3 time sheets
 
 ### October 16, 2019
 
