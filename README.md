@@ -71,6 +71,7 @@
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) : TimelineJS v3: A Storytelling Timeline built in JavaScript. http://timeline.knightlab.com
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) : JavaScript library for HTML5 & CSS3 time sheets
 - [Modernizr documentation — DevDocs](https://devdocs.io/modernizr/) Modernizr documentation — DevDocs
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) : API Documentation Browser
 
 ### October 16, 2019
 
