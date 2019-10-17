@@ -67,6 +67,7 @@
 
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : 本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现。
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) : 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+- [pimterry/loglevel](https://github.com/pimterry/loglevel) : Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 
 ### October 16, 2019
 
