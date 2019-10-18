@@ -63,6 +63,10 @@
 
 ## tmp
 
+### October 18, 2019
+
+- [justjavac/ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) : Sniff web framework and javascript libraries run on browsing website.
+
 ### October 17, 2019
 
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) : 本项目将《动手学深度学习》（Dive into Deep Learning）原书中的MXNet代码实现改为PyTorch实现。
