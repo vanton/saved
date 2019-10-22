@@ -66,6 +66,7 @@
 ### October 22, 2019
 
 - [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) : Play couplet with seq2seq model. 用深度学习对对联。
+- [jtyoui/Jtyoui](https://github.com/jtyoui/Jtyoui) : 搜狗词库下载,新词发现算法, 照片和PDF相互转化, 微信自动聊天机器人,中国农历与阳历的转换关系,简体字与繁体字的转换,坦克小游戏,分形模式,邮箱,地图,正则,装饰器, 数学统计,数据处理,nlp算法、进制转换 验证码识别 数据下载 分形模型 小游戏 照片与PDF互转 语言处理 邮箱应用 阳历转农历 搜狗下载 网页处理 新词发现 微信 正则 装饰器 异常 地图 计算统计 贝叶斯算法 常见的工具类 c模块 百度应用 日语单词翻译、天气预报、汉语纠错、字符串文本数据提取时间解析、百度文库下载等等
 
 ### October 18, 2019
 
