@@ -63,6 +63,10 @@
 
 ## tmp
 
+### October 22, 2019
+
+- [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) : Play couplet with seq2seq model. 用深度学习对对联。
+
 ### October 18, 2019
 
 - [justjavac/ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) : Sniff web framework and javascript libraries run on browsing website.
