@@ -68,6 +68,7 @@
 - [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) : qrcode generation standalone (doesn't depend on external services)
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) : Beautifier for javascript
 - [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) : ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Sample code for Channel 9 Python for Beginners course
 
 ### October 22, 2019
 
