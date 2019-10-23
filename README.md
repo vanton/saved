@@ -69,6 +69,7 @@
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) : Beautifier for javascript
 - [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) : ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) : Sample code for Channel 9 Python for Beginners course
+- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) : 技术面试最后反问面试官的话
 
 ### October 22, 2019
 
