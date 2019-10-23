@@ -63,6 +63,10 @@
 
 ## tmp
 
+### October 23, 2019
+
+- [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) : qrcode generation standalone (doesn't depend on external services)
+
 ### October 22, 2019
 
 - [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) : Play couplet with seq2seq model. 用深度学习对对联。
