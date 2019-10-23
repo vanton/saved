@@ -66,6 +66,7 @@
 ### October 23, 2019
 
 - [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) : qrcode generation standalone (doesn't depend on external services)
+- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) : Beautifier for javascript
 
 ### October 22, 2019
 
