@@ -68,6 +68,7 @@
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) : 500 line or less 中文翻译计划。
 - [CharlesPikachu/Games](https://github.com/CharlesPikachu/Games) : Some games created by python code.
 - [CharlesPikachu/AIGames](https://github.com/CharlesPikachu/AIGames) : use AI to play some games.
+- [如何在Python中实现异步执行？-InfoQ](https://www.infoq.cn/article/ZS1bPaqDb627BOykrUNa) 如何在Python中实现异步执行？-InfoQ
 
 ### October 23, 2019
 
