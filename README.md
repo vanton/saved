@@ -63,6 +63,10 @@
 
 ## tmp
 
+### October 24, 2019
+
+- [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) : 500 line or less 中文翻译计划。
+
 ### October 23, 2019
 
 - [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) : qrcode generation standalone (doesn't depend on external services)
