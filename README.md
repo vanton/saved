@@ -63,6 +63,10 @@
 
 ## tmp
 
+### October 29, 2019
+
+- [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) : by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+
 ### October 24, 2019
 
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) : 500 line or less 中文翻译计划。
