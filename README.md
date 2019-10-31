@@ -66,6 +66,7 @@
 ### October 31, 2019
 
 - [lenve/vhr](https://github.com/lenve/vhr) : 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+- [Dentosal/python-sc2](https://github.com/Dentosal/python-sc2) : A StarCraft II bot api client library for Python 3
 
 ### October 29, 2019
 
