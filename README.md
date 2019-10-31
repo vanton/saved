@@ -63,6 +63,10 @@
 
 ## tmp
 
+### October 31, 2019
+
+- [lenve/vhr](https://github.com/lenve/vhr) : 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+
 ### October 29, 2019
 
 - [jhuangtw-dev/xg2xg](https://github.com/jhuangtw-dev/xg2xg) : by ex-googlers, for ex-googlers - a lookup table of similar tech & services
