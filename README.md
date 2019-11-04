@@ -66,6 +66,7 @@
 ### November 4, 2019
 
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet/) : Python Cheat Sheet
+- [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) : Functional programming tools for the shell
 
 ### October 31, 2019
 
