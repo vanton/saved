@@ -66,6 +66,7 @@
 ### November 5, 2019
 
 - [minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn) : Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) : My Python Examples
 
 ### November 4, 2019
 
