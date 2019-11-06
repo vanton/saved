@@ -66,6 +66,7 @@
 ### November 6, 2019
 
 - [[中字] Be Awesome In PhpStorm_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av40402216/) [中字] Be Awesome In PhpStorm_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) : PC版微信机器人
 
 ### November 5, 2019
 
