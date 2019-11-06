@@ -67,6 +67,7 @@
 
 - [[中字] Be Awesome In PhpStorm_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av40402216/) [中字] Be Awesome In PhpStorm_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) : PC版微信机器人
+- [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) : A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
 ### November 5, 2019
 
