@@ -69,6 +69,7 @@
 - [五分钟学算法-致力于把算法讲清楚](https://www.cxyxiaowu.com/) 五分钟学算法-致力于把算法讲清楚
 - [YouTube, Twitch, Twitter, & Instagram Statistics - SocialBlade.com](https://socialblade.com/) YouTube, Twitch, Twitter, & Instagram Statistics - SocialBlade.com
 - [每日最热门的YouTube视频 - NoxInfluencer](https://cn.noxinfluencer.com/youtube-video-rank) 每日最热门的YouTube视频 - NoxInfluencer
+- [pigigaldi/Pock](https://github.com/pigigaldi/Pock) : Display macOS Dock in Touch Bar
 
 ### November 6, 2019
 
