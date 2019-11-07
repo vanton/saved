@@ -66,6 +66,7 @@
 ### November 7, 2019
 
 - [小猿取经 - 博客园](https://www.cnblogs.com/xiaoyuanqujing) 小猿取经 - 博客园
+- [五分钟学算法-致力于把算法讲清楚](https://www.cxyxiaowu.com/) 五分钟学算法-致力于把算法讲清楚
 
 ### November 6, 2019
 
