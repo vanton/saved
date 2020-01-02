@@ -67,6 +67,7 @@
 
 - [dvajs/dva](https://github.com/dvajs/dva) : 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - [pexcn/daily](https://github.com/pexcn/daily) : Poetry and far afield. 🌊
+- [umi-request/README_zh-CN.md at master · umijs/umi-request](https://github.com/umijs/umi-request/blob/master/README_zh-CN.md) umi-request/README_zh-CN.md at master · umijs/umi-request
 
 ### November 7, 2019
 
