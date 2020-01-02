@@ -66,6 +66,7 @@
 ### January 2, 2020
 
 - [dvajs/dva](https://github.com/dvajs/dva) : 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
+- [pexcn/daily](https://github.com/pexcn/daily) : Poetry and far afield. 🌊
 
 ### November 7, 2019
 
