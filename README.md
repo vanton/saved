@@ -63,6 +63,10 @@
 
 ## tmp
 
+### February 24, 2020
+
+- [rstacruz/nprogress](https://github.com/rstacruz/nprogress) : For slim progress bars like on YouTube, Medium, etc
+
 ### January 9, 2020
 
 - [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) : 一个很棒的Go框架、库和软件的中文收录大全。 脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
