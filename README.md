@@ -66,6 +66,7 @@
 ### February 24, 2020
 
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) : For slim progress bars like on YouTube, Medium, etc
+- [qier-progress/READM-zh-CN.md at master · vortesnail/qier-progress](https://github.com/vortesnail/qier-progress/blob/master/READM-zh-CN.md) qier-progress/READM-zh-CN.md at master · vortesnail/qier-progress
 
 ### January 9, 2020
 
