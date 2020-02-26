@@ -63,6 +63,10 @@
 
 ## tmp
 
+### February 26, 2020
+
+- [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) : Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
+
 ### February 24, 2020
 
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) : For slim progress bars like on YouTube, Medium, etc
