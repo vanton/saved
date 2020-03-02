@@ -66,6 +66,7 @@
 ### March 2, 2020
 
 - [Opensource.builders | Opensource.builders](https://opensource.builders/) Opensource.builders | Opensource.builders
+- [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) : Mac app that shows all open files, directories and sockets in use by all running processes. Nice GUI for lsof.
 
 ### February 26, 2020
 
