@@ -68,6 +68,7 @@
 - [Opensource.builders | Opensource.builders](https://opensource.builders/) Opensource.builders | Opensource.builders
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) : Mac app that shows all open files, directories and sockets in use by all running processes. Nice GUI for lsof.
 - [BafS/Material-Colors-native](https://github.com/BafS/Material-Colors-native) : Material Colors - A React Native App to Select Material Colors for macOS.
+- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) : 🌈 Convert videos to high-quality GIFs on your Mac
 
 ### February 26, 2020
 
