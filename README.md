@@ -66,6 +66,7 @@
 ### March 11, 2020
 
 - [500+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/) 500+ CSS Icons, Customizable, Retina Ready & API
+- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) : 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 
 ### March 5, 2020
 
