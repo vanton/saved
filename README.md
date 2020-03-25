@@ -85,6 +85,7 @@
 ### March 25, 2020
 
 - [vue-element-admin/README.zh-CN.md at master · PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md) vue-element-admin/README.zh-CN.md at master · PanJiaChen/vue-element-admin
+- [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 ### March 18, 2020
 
