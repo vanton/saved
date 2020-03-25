@@ -88,6 +88,7 @@
 - [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) : 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [abagames/crisp-game-lib](https://github.com/abagames/crisp-game-lib) : Develop one game within one hour
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) : A set of over 350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) : Diablo build for modern operating systems
 
 ### March 18, 2020
 
