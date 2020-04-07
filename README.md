@@ -87,6 +87,7 @@
 - [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) : 微信小程序开发资源汇总 :100:
 - [Vuetify Material Dashboard PRO - by Creative Tim](https://demos.creative-tim.com/vuetify-material-dashboard-pro/#/) Vuetify Material Dashboard PRO - by Creative Tim
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) : Quasar Framework - Build high-performance VueJS user interfaces in record time
 
 ### April 3, 2020
 
