@@ -89,6 +89,7 @@
 - [Vuetify Material Dashboard PRO - by Creative Tim](https://demos.creative-tim.com/vuetify-material-dashboard-pro/#/) Vuetify Material Dashboard PRO - by Creative Tim
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) : Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [Getting Started - Pick a Quasar Flavour | Quasar Framework](https://quasar.dev/start/pick-quasar-flavour) Getting Started - Pick a Quasar Flavour | Quasar Framework
+- [kwsch/NHSE](https://github.com/kwsch/NHSE) : Animal Crossing: New Horizons save editor
 
 ### April 3, 2020
 
