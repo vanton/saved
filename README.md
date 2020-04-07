@@ -82,6 +82,10 @@
 
 ## tmp
 
+### April 7, 2020
+
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) : GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
+
 ### April 3, 2020
 
 - [CSS3奇思妙想](http://chokcoco.github.io/magicCss/html/index.html#parallelogram) CSS3奇思妙想
