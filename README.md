@@ -82,6 +82,10 @@
 
 ## tmp
 
+### May 26, 2020
+
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) : 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
 ### May 20, 2020
 
 - [Actions · 1orz/My-action](https://github.com/1orz/My-action/actions) Actions · 1orz/My-action
