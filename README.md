@@ -88,6 +88,7 @@
 - [Nightonke/GithubWidget](https://github.com/Nightonke/GithubWidget) : Contributions, stars, followers, trending etc. on Github.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) : 🍀 Local git statistics including GitHub-like contributions calendars.
 - [PolitiScales](https://www.politiscales.net/) PolitiScales
+- [PolitiScales - 结果](https://www.politiscales.net/zh_CN/results/?c0=10&c1=33&j1=19&j0=19&t0=5&t1=52&b0=35&b1=10&m0=33&m1=21&e1=21&e0=29&s1=11&s0=24&p0=10&p1=26&prag=67) PolitiScales - 结果
 
 ### May 28, 2020
 
