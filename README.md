@@ -85,6 +85,7 @@
 ### June 2, 2020
 
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) : Generate an image of all your Github contributions
+- [Nightonke/GithubWidget](https://github.com/Nightonke/GithubWidget) : Contributions, stars, followers, trending etc. on Github.
 
 ### May 28, 2020
 
