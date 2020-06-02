@@ -82,6 +82,10 @@
 
 ## tmp
 
+### June 2, 2020
+
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) : Generate an image of all your Github contributions
+
 ### May 28, 2020
 
 - [Python3WebSpider/Moments](https://github.com/Python3WebSpider/Moments) : Wechat Friends Circle Spider
