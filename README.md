@@ -87,6 +87,7 @@
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) : Generate an image of all your Github contributions
 - [Nightonke/GithubWidget](https://github.com/Nightonke/GithubWidget) : Contributions, stars, followers, trending etc. on Github.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) : 🍀 Local git statistics including GitHub-like contributions calendars.
+- [PolitiScales](https://www.politiscales.net/) PolitiScales
 
 ### May 28, 2020
 
