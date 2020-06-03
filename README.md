@@ -85,6 +85,7 @@
 ### June 3, 2020
 
 - [denoland/deno_install](https://github.com/denoland/deno_install) : Deno Binary Installer
+- [Nugine/deno-manual-cn](https://github.com/Nugine/deno-manual-cn) : Deno 中文手册
 
 ### June 2, 2020
 
