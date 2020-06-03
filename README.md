@@ -87,6 +87,7 @@
 - [denoland/deno_install](https://github.com/denoland/deno_install) : Deno Binary Installer
 - [Nugine/deno-manual-cn](https://github.com/Nugine/deno-manual-cn) : Deno 中文手册
 - [guanguans/notes](https://github.com/guanguans/notes) : Linux、MySQL、Nginx、PHP、Git、Shell 等笔记
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) : The Microsoft community Windows Package Manager manifest repository
 
 ### June 2, 2020
 
