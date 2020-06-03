@@ -82,6 +82,10 @@
 
 ## tmp
 
+### June 3, 2020
+
+- [denoland/deno_install](https://github.com/denoland/deno_install) : Deno Binary Installer
+
 ### June 2, 2020
 
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) : Generate an image of all your Github contributions
