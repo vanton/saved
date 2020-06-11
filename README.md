@@ -86,6 +86,7 @@
 
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) : A parametric QR code beautifier based on React. 参数化二维码生成器。
 - [fw876/helloworld](https://github.com/fw876/helloworld) fw876/helloworld
+- [brick-design/react-visual-editor](https://github.com/brick-design/react-visual-editor) : 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，所见即所得，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
 
 ### June 3, 2020
 
