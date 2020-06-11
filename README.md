@@ -82,6 +82,10 @@
 
 ## tmp
 
+### June 11, 2020
+
+- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) : A parametric QR code beautifier based on React. 参数化二维码生成器。
+
 ### June 3, 2020
 
 - [denoland/deno_install](https://github.com/denoland/deno_install) : Deno Binary Installer
