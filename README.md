@@ -85,6 +85,7 @@
 ### June 22, 2020
 
 - [Neumorphic Generator](https://neumorphic.design/) Neumorphic Generator
+- [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#55b9f3) Neumorphism/Soft UI CSS shadow generator
 
 ### June 11, 2020
 
