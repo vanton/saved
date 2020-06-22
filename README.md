@@ -86,6 +86,7 @@
 
 - [Neumorphic Generator](https://neumorphic.design/) Neumorphic Generator
 - [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#55b9f3) Neumorphism/Soft UI CSS shadow generator
+- [Wscats/iPhone-X](https://github.com/Wscats/iPhone-X) : A simple and easy way to keep your custom views layout properly on iPhone X
 
 ### June 11, 2020
 
